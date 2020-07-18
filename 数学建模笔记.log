@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.6.11)  18 JUL 2020 18:21
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.6.11)  18 JUL 2020 22:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2474,14 +2474,6 @@ LaTeX Warning: Label `Fig.sub.2' multiply defined.
 LaTeX Warning: Label `sub@Fig.sub.2' multiply defined.
 
 )
-Runaway argument?
-{\contentslin 
-! File ended while scanning use of \@writefile.
-<inserted text> 
-                \par 
-l.67 \begin{document}
-                     
-? 
 \openout1 = `数学建模笔记.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 67.
@@ -2503,7 +2495,7 @@ LaTeX Font Info:    ... okay on input line 67.
 LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 67.
 LaTeX Font Info:    Trying to load font information for T3+cmr on input line 67
 .
-(d:/texlive/2020/texmf-dist/tex/latex/tipa/t3cmr.fd
+ (d:/texlive/2020/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
 LaTeX Font Info:    ... okay on input line 67.
@@ -2807,9 +2799,6 @@ Requested font "msbm10" at 14.05249pt
  -> d:/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 Requested font "msbm7" at 7.52812pt
  -> d:/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
-
-LaTeX Warning: Reference `LastPage' on page 1 undefined on input line 96.
-
 [1
 
 
@@ -2839,13 +2828,32 @@ Requested font "FZShuSong-Z01/OT:script=hani;language=dflt;" at 10.53937pt
 ] [3] [4
 
 
-] (./数学建模笔记.toc)
+] (./数学建模笔记.toc
+Requested font "FZHei-B01/OT:script=hani;language=dflt;" at 10.53937pt
+ -> D:/texlive/2020/texmf-dist/fonts/opentype/public/xits/FZHei-B01.ttf
+LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
+(Font)              scaled to size 12.045pt on input line 3.
+Requested font "[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;+tnu
+m;+onum;mapping=tex-text;" at 12.045pt
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
+sSerif-Regular.otf
+LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
+(Font)              scaled to size 12.045pt on input line 3.
+Requested font "[LibertinusSerif-Bold.otf]/OT:script=latn;language=dflt;+tnum;+
+onum;mapping=tex-text;" at 12.045pt
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
+sSerif-Bold.otf
+Requested font "FZHei-B01/OT:script=hani;language=dflt;" at 12.045pt
+ -> D:/texlive/2020/texmf-dist/fonts/opentype/public/xits/FZHei-B01.ttf
+ [5] [6]
+Underfull \vbox (badness 2495) has occurred while \output is active []
+
+ [7])
 \tf@toc=\write7
 \openout7 = `数学建模笔记.toc'.
 
- [5] [6
 
-]
+[8]
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
 (Font)              scaled to size 48.0pt on input line 120.
 Requested font "[LibertinusSerif-Bold.otf]/OT:script=latn;language=dflt;+tnum;+
@@ -2873,6 +2881,7 @@ Requested font "FZHei-B01/OT:script=hani;language=dflt;" at 14.05249pt
  -> D:/texlive/2020/texmf-dist/fonts/opentype/public/xits/FZHei-B01.ttf
 [1
 
+
 ] [2]
 第一章
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
@@ -2895,18 +2904,6 @@ Requested font "FZHei-B01/OT:script=hani;language=dflt;" at 15.05624pt
 
 ]
 第二章
-LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
-(Font)              scaled to size 12.045pt on input line 135.
-Requested font "[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;+tnu
-m;+onum;mapping=tex-text;" at 12.045pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sSerif-Regular.otf
-LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
-(Font)              scaled to size 12.045pt on input line 135.
-Requested font "[LibertinusSerif-Bold.otf]/OT:script=latn;language=dflt;+tnum;+
-onum;mapping=tex-text;" at 12.045pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sSerif-Bold.otf
 [5] [6] [7] [8]
 Overfull \hbox (95.40843pt too wide) in paragraph at lines 232--232
 [][]\TU/LibertinusSerif(0)/b/it/48 PART II[] 
@@ -2916,15 +2913,13 @@ Overfull \hbox (95.40843pt too wide) in paragraph at lines 232--232
 
 ] [10]
 第三章
-Requested font "FZHei-B01/OT:script=hani;language=dflt;" at 10.53937pt
- -> D:/texlive/2020/texmf-dist/fonts/opentype/public/xits/FZHei-B01.ttf
 
 Package amsmath Warning: Foreign command \over;
 (amsmath)                \frac or \genfrac should be used instead
 (amsmath)                 on input line 241.
 
-File: 九宫图.jpg Graphic file (type bmp)
-<九宫图.jpg>
+File: ./figs/chapter3/九宫图.jpg Graphic file (type bmp)
+<./figs/chapter3/九宫图.jpg>
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
 (Font)              scaled to size 7.52812pt on input line 264.
 Requested font "[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;+tnu
@@ -2933,17 +2928,17 @@ m;+onum;mapping=tex-text;" at 7.52812pt
 sSerif-Regular.otf
 Requested font "FZShuSong-Z01/OT:script=hani;language=dflt;" at 7.52812pt
  -> D:/texlive/2020/texmf-dist/fonts/opentype/public/xits/FZShuSong-Z01.ttf
-File: 河图.jpg Graphic file (type bmp)
-<河图.jpg>
-File: 洛书.jpg Graphic file (type bmp)
-<洛书.jpg>
+File: ./figs/chapter3/河图.jpg Graphic file (type bmp)
+<./figs/chapter3/河图.jpg>
+File: ./figs/chapter3/洛书.jpg Graphic file (type bmp)
+<./figs/chapter3/洛书.jpg>
 [11
 
 ]
-File: 九宫图解一.png Graphic file (type bmp)
-<九宫图解一.png>
-File: 九宫图解二.png Graphic file (type bmp)
-<九宫图解二.png>
+File: ./figs/chapter3/九宫图解一.png Graphic file (type bmp)
+<./figs/chapter3/九宫图解一.png>
+File: ./figs/chapter3/九宫图解二.png Graphic file (type bmp)
+<./figs/chapter3/九宫图解二.png>
  [12]
 File: figs/chapter3/正方形.png Graphic file (type bmp)
 <figs/chapter3/正方形.png>
@@ -3028,7 +3023,12 @@ Missing character: There is no 、 in font [LibertinusMath-Regular.otf]/OT:scrip
 Missing character: There is no 、 in font [LibertinusMath-Regular.otf]/OT:script
 =math;language=dflt;mapping=tex-text;!
 [27]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Warning: Command \~ invalid in math mode on input line 764.
+
+Missing character: There is no ̃ in font cmmi10!
+
+Underfull \vbox (badness 2103) has occurred while \output is active []
 
  [28]
 [29] [30
@@ -3046,19 +3046,19 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [35] [36
 
 ]
-Overfull \hbox (112.25644pt too wide) in paragraph at lines 794--794
+Overfull \hbox (112.25644pt too wide) in paragraph at lines 797--797
 [][]\TU/LibertinusSerif(0)/b/it/48 PART III[] 
  []
 
 [37] [38]
-Overfull \hbox (112.88045pt too wide) in paragraph at lines 796--796
+Overfull \hbox (112.88045pt too wide) in paragraph at lines 799--799
 [][]\TU/LibertinusSerif(0)/b/it/48 PART IV[] 
  []
 
 [39
 
 ] [40]
-Overfull \hbox (94.88045pt too wide) in paragraph at lines 797--797
+Overfull \hbox (94.88045pt too wide) in paragraph at lines 800--800
 [][]\TU/LibertinusSerif(0)/b/it/48 PART V[] 
  []
 
@@ -3076,12 +3076,12 @@ Overfull \hbox (94.88045pt too wide) in paragraph at lines 797--797
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 )
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 809.
+nput line 812.
 Requested font "FontAwesome/OT:language=dflt;" at 10.53937pt
  -> D:/texlive/2020/texmf-dist/fonts/opentype/public/fontawesome/FontAwesome.ot
 f
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
-(Font)              scaled to size 9.03374pt on input line 809.
+(Font)              scaled to size 9.03374pt on input line 812.
 Requested font "[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;+tnu
 m;+onum;mapping=tex-text;" at 9.03374pt
  -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
@@ -3091,7 +3091,7 @@ Requested font "FZHei-B01/OT" at 9.0337pt
 Requested font "FZHei-B01/OT" at 9.03377pt
  -> D:/texlive/2020/texmf-dist/fonts/opentype/public/xits/FZHei-B01.ttf
 LaTeX Font Info:    Font shape `TU/LibertinusMono(0)/m/n' will be
-(Font)              scaled to size 7.82925pt on input line 809.
+(Font)              scaled to size 7.82925pt on input line 812.
 Requested font "[LibertinusMono-Regular.otf]/OT:script=latn;language=dflt;exten
 d=0.8;+tnum; +onum;mapping=tex-text;" at 7.82925pt
  -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
@@ -3157,7 +3157,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ] [56
 
 ]
-Overfull \hbox (110.76843pt too wide) in paragraph at lines 909--909
+Overfull \hbox (110.76843pt too wide) in paragraph at lines 912--912
 [][]\TU/LibertinusSerif(0)/b/it/48 PART VI[] 
  []
 
@@ -3171,42 +3171,37 @@ File: lstlang1.sty 2020/03/24 1.8d listings language file
 ) [59
 
 
-] [60
+]
+Package atenddvi Info: Last page = 70.
+ [60
 
 ]
 runsystem(makeindex 数学建模笔记.idx)...executed safely (allowed).
 
 
 (./数学建模笔记.ind)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 944.
-Package atveryend Info: Executing hook `AfterLastShipout' on input line 944.
- (./数学建模笔记.aux
-
-Package atenddvi Warning: Rerun LaTeX, last page not yet found.
-
-)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 944.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 944.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 947.
+Package atveryend Info: Executing hook `AfterLastShipout' on input line 947.
+ (./数学建模笔记.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 947.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 947.
 
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.47188pt have occurred.
 
 
-LaTeX Warning: There were undefined references.
-
-
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 944.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 947.
  ) 
 Here is how much of TeX's memory you used:
- 46437 strings out of 479284
- 934483 string characters out of 5884020
- 1724941 words of memory out of 5000000
- 63202 multiletter control sequences out of 15000+600000
- 539324 words of font info for 161 fonts, out of 8000000 for 9000
+ 46446 strings out of 479284
+ 935654 string characters out of 5884020
+ 1725314 words of memory out of 5000000
+ 63204 multiletter control sequences out of 15000+600000
+ 539332 words of font info for 162 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  67i,17n,125p,974b,2044s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on 数学建模笔记.pdf (68 pages).
+Output written on 数学建模笔记.pdf (70 pages).
