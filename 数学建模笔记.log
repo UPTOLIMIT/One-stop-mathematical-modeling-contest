@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.6.11)  18 JUL 2020 22:39
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.6.11)  18 JUL 2020 23:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3115,76 +3115,84 @@ File: figs/chapter9/lines/CustomizeLineStyle.png Graphic file (type bmp)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [46]
-(./code/bars/SimpleBar.py)
+(./code/lines/UpLowErrorBar.py) [47]
+File: figs/chapter9/lines/UpLowErrorBar.png Graphic file (type bmp)
+<figs/chapter9/lines/UpLowErrorBar.png>
+ (./code/lines/XYErrorBar.py)
+File: figs/chapter9/lines/XYErrorBar.png Graphic file (type bmp)
+<figs/chapter9/lines/XYErrorBar.png>
+ [48]
+(./code/lines/ErrorBandCurve.py [49])
+File: figs/chapter9/lines/ErrorBandCurve.png Graphic file (type bmp)
+<figs/chapter9/lines/ErrorBandCurve.png>
+ (./code/bars/SimpleBar.py [50])
 File: figs/chapter9/bars/SimpleBar.png Graphic file (type bmp)
 <figs/chapter9/bars/SimpleBar.png>
 
-Underfull \vbox (badness 5091) has occurred while \output is active []
-
- [47]
-(./code/bars/HorizontalBar.py)
+(./code/bars/HorizontalBar.py [51])
 File: figs/chapter9/bars/HorizontalBar.png Graphic file (type bmp)
 <figs/chapter9/bars/HorizontalBar.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [48]
-(./code/bars/StackedBar.py)
+ (./code/bars/StackedBar.py [52])
 File: figs/chapter9/bars/StackedBar.png Graphic file (type bmp)
 <figs/chapter9/bars/StackedBar.png>
- [49] (./code/bars/GroupedBar.py [50])
+
+(./code/bars/GroupedBar.py [53])
 File: figs/chapter9/bars/GroupedBar.png Graphic file (type bmp)
 <figs/chapter9/bars/GroupedBar.png>
 
-(./code/bars/DiscreteDistributionBar.py [51])
-File: figs/chapter9/bars/DiscreteDistributionBar.png Graphic file (type bmp)
-<figs/chapter9/bars/DiscreteDistributionBar.png>
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [52]
-(./code/bars/BrokenBar.py)
+ [54]
+(./code/bars/DiscreteDistributionBar.py [55])
+File: figs/chapter9/bars/DiscreteDistributionBar.png Graphic file (type bmp)
+<figs/chapter9/bars/DiscreteDistributionBar.png>
+ (./code/bars/BrokenBar.py
+[56])
 File: figs/chapter9/bars/BrokenBar.png Graphic file (type bmp)
 <figs/chapter9/bars/BrokenBar.png>
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [53]
-[54]
+ [57]
+[58]
 第十章
-[55
+[59
 
-] [56
+] [60
 
 ]
-Overfull \hbox (110.76843pt too wide) in paragraph at lines 912--912
+Overfull \hbox (110.76843pt too wide) in paragraph at lines 947--947
 [][]\TU/LibertinusSerif(0)/b/it/48 PART VI[] 
  []
 
-[57] [58]
+[61]
+Package atenddvi Info: Last page = 72.
+ [62]
 附录 A
 (d:/texlive/2020/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 )
 (d:/texlive/2020/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
-) [59
+) [63
 
 
-]
-Package atenddvi Info: Last page = 70.
- [60
+] [64
 
 ]
 runsystem(makeindex 数学建模笔记.idx)...executed safely (allowed).
 
 
 (./数学建模笔记.ind)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 947.
-Package atveryend Info: Executing hook `AfterLastShipout' on input line 947.
- (./数学建模笔记.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 947.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 947.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 982.
+Package atveryend Info: Executing hook `AfterLastShipout' on input line 982.
+ (./数学建模笔记.aux
+
+Package atenddvi Warning: Rerun LaTeX, last page has changed.
+
+)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 982.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 982.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -3193,15 +3201,15 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 947.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 982.
  ) 
 Here is how much of TeX's memory you used:
- 46446 strings out of 479284
- 935654 string characters out of 5884020
- 1725314 words of memory out of 5000000
- 63204 multiletter control sequences out of 15000+600000
+ 46539 strings out of 479284
+ 937581 string characters out of 5884020
+ 1640426 words of memory out of 5000000
+ 63288 multiletter control sequences out of 15000+600000
  539332 words of font info for 162 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  67i,17n,125p,974b,2044s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on 数学建模笔记.pdf (70 pages).
+Output written on 数学建模笔记.pdf (74 pages).
