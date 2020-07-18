@@ -708,6 +708,58 @@ Q'=k_1{{T_1-T_2}\over{2d}}
 
 \chapter{微积分与微分方程方法建模}
 \section{Malthus人口模型}
+\subsection{Malthus人口论}
+\noindent \textbf{Malthus指数增长模型}\\
+\indent 反映人口增加与食物增加速度之间的关系，是刻画单种群模型的典型代表，被世界公认为“马尔萨斯人口论”\\
+\noindent \textbf{马尔萨斯人口理论主要论点}\\
+\indent 生活资料按$1、2、3、4、5\cdots$的算术级数增加，而人口是按$1、2、4、8、16\cdots$几何级数增长，因此生活资料的增加赶不上人口的增长，这是自然的永恒的规律。\\
+\noindent \textbf{重要假设}\\
+\indent 大规模种群的个体数量是时间的连续可微函数。\\
+\indent 设$x(t)$是$t$时刻的人口总数量，种群个体总数的变化主要受出生、死亡、迁入和迁出等因素的影响。假设种群是孤立的，即不考虑迁入迁出因素，那么种群的繁衍发展就不受其他生物种群的影响。
+
+\subsection{基本概念}
+\noindent \textbf{人口自然增长率}\\
+\indent 一定时期内人口自然增加数与同一时期平均人口之比，即：
+\begin{equation}
+\mbox{人口自然增长率}={{\mbox{一年内人口自然增长率}}\over {\mbox{年平均人口数}}}
+\end{equation}
+\noindent \textbf{人口平均增长率}\\
+\indent 一定时期内人口增加量与期初数和所用时间乘积之比，即：
+\begin{equation}
+\mbox{人口平均增长率}={{\mbox{期末人口总数}-\mbox{期初人口总数}}\over{\mbox{期初人口数}\times\mbox{所用时间}}}
+\end{equation}
+\noindent \textbf{人口增长率}\\
+\indent 人口平均增长率在所用时间趋于零时的极限，即：
+\begin{equation}
+r(t) = \mathop {\lim }\limits_{\Delta t \to 0} \frac{{x(t + \Delta t) - x(t)}}{{\Delta t \times x(t)}}
+\end{equation}
+\indent 其中$x(t)$为$t$时刻的人口总数量。
+\subsection{模型假设}
+\begin{itemize}[itemindent=2em]
+\item 假设1：人口发展过程比较平稳（这是建模工作的基本要求）；
+\item 假设2：人口数量为时间的连续可微函数，即人口的取值在整数集合上的离散变量，不是连续的量。但是由于通常人口数量很庞大，为了运用微积分工具，将离散问题做连续化处理；
+\item 假设3：人口增长率是与时间$t$无关的常数$r$，该假设是对欧洲百余年人口数据做统计研究作出的，是一种近似。
+\end{itemize}
+\subsection{模型建立与求解}
+\indent 根据假设$(3)$，人口增长率$r$为与时间无关的常数，即任意时刻$t$，均有：
+\begin{equation}
+\mathop {\lim }\limits_{\Delta t \to 0} \frac{{x(t + \Delta t) - x(t)}}{{\Delta t \times x(t)}}=r(r\mbox{为常数})
+\end{equation}
+\indent 再根据假设$(2)$，$x(t)$为时间的连续可微函数，可得$x(t)$满足以下微分方程：
+\begin{equation}
+\begin{cases}
+{{dx}\over{dt}}=rx\\
+x(0)=x_0
+\end{cases}
+\end{equation}
+\indent 运用分离变量法，容易求得上述常微分方程的解为
+\begin{equation}
+x(t)={x_0}e^{rt}
+\end{equation}
+\indent 容易看出，当$t\to\infty $时，人口总数将趋于无穷大，即
+\begin{equation}
+\mathop {\lim}\limits_{t\to\infty}x(t)=\mathop {\lim}\limits_{t\to \infty} {x_0}e^{rt}=\infty
+\end{equation}
 \section{传染病流行的控制模型}
 \section{价格数学模型}
 \section{湖泊污染减退模型}
