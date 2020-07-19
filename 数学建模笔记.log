@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.6.11)  18 JUL 2020 23:44
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.6.11)  19 JUL 2020 11:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3023,19 +3023,20 @@ Missing character: There is no 、 in font [LibertinusMath-Regular.otf]/OT:scrip
 Missing character: There is no 、 in font [LibertinusMath-Regular.otf]/OT:script
 =math;language=dflt;mapping=tex-text;!
 [27]
-
-LaTeX Warning: Command \~ invalid in math mode on input line 764.
-
-Missing character: There is no ̃ in font cmmi10!
+File: figs/chapter4/美国人口统计数据.png Graphic file (type bmp)
+<figs/chapter4/美国人口统计数据.png>
 
 Underfull \vbox (badness 2103) has occurred while \output is active []
 
  [28]
-[29] [30
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-]
+ [29]
+[30]
 第五章
-[31] [32
+[31
+
+] [32
 
 ]
 第六章
@@ -3046,19 +3047,19 @@ Underfull \vbox (badness 2103) has occurred while \output is active []
 [35] [36
 
 ]
-Overfull \hbox (112.25644pt too wide) in paragraph at lines 797--797
+Overfull \hbox (112.25644pt too wide) in paragraph at lines 812--812
 [][]\TU/LibertinusSerif(0)/b/it/48 PART III[] 
  []
 
 [37] [38]
-Overfull \hbox (112.88045pt too wide) in paragraph at lines 799--799
+Overfull \hbox (112.88045pt too wide) in paragraph at lines 814--814
 [][]\TU/LibertinusSerif(0)/b/it/48 PART IV[] 
  []
 
 [39
 
 ] [40]
-Overfull \hbox (94.88045pt too wide) in paragraph at lines 800--800
+Overfull \hbox (94.88045pt too wide) in paragraph at lines 815--815
 [][]\TU/LibertinusSerif(0)/b/it/48 PART V[] 
  []
 
@@ -3076,12 +3077,12 @@ Overfull \hbox (94.88045pt too wide) in paragraph at lines 800--800
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 )
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 812.
+nput line 827.
 Requested font "FontAwesome/OT:language=dflt;" at 10.53937pt
  -> D:/texlive/2020/texmf-dist/fonts/opentype/public/fontawesome/FontAwesome.ot
 f
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
-(Font)              scaled to size 9.03374pt on input line 812.
+(Font)              scaled to size 9.03374pt on input line 827.
 Requested font "[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;+tnu
 m;+onum;mapping=tex-text;" at 9.03374pt
  -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
@@ -3091,7 +3092,7 @@ Requested font "FZHei-B01/OT" at 9.0337pt
 Requested font "FZHei-B01/OT" at 9.03377pt
  -> D:/texlive/2020/texmf-dist/fonts/opentype/public/xits/FZHei-B01.ttf
 LaTeX Font Info:    Font shape `TU/LibertinusMono(0)/m/n' will be
-(Font)              scaled to size 7.82925pt on input line 812.
+(Font)              scaled to size 7.82925pt on input line 827.
 Requested font "[LibertinusMono-Regular.otf]/OT:script=latn;language=dflt;exten
 d=0.8;+tnum; +onum;mapping=tex-text;" at 7.82925pt
  -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
@@ -3161,13 +3162,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ] [60
 
 ]
-Overfull \hbox (110.76843pt too wide) in paragraph at lines 947--947
+Overfull \hbox (110.76843pt too wide) in paragraph at lines 962--962
 [][]\TU/LibertinusSerif(0)/b/it/48 PART VI[] 
  []
 
-[61]
-Package atenddvi Info: Last page = 72.
- [62]
+[61] [62]
 附录 A
 (d:/texlive/2020/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
@@ -3177,22 +3176,20 @@ File: lstlang1.sty 2020/03/24 1.8d listings language file
 ) [63
 
 
-] [64
+]
+Package atenddvi Info: Last page = 74.
+ [64
 
 ]
 runsystem(makeindex 数学建模笔记.idx)...executed safely (allowed).
 
 
 (./数学建模笔记.ind)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 982.
-Package atveryend Info: Executing hook `AfterLastShipout' on input line 982.
- (./数学建模笔记.aux
-
-Package atenddvi Warning: Rerun LaTeX, last page has changed.
-
-)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 982.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 982.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 997.
+Package atveryend Info: Executing hook `AfterLastShipout' on input line 997.
+ (./数学建模笔记.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 997.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 997.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -3201,13 +3198,13 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 982.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 997.
  ) 
 Here is how much of TeX's memory you used:
- 46539 strings out of 479284
- 937581 string characters out of 5884020
- 1640426 words of memory out of 5000000
- 63288 multiletter control sequences out of 15000+600000
+ 46561 strings out of 479284
+ 938091 string characters out of 5884020
+ 1640695 words of memory out of 5000000
+ 63299 multiletter control sequences out of 15000+600000
  539332 words of font info for 162 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  67i,17n,125p,974b,2044s stack positions out of 5000i,500n,10000p,200000b,80000s

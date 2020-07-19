@@ -761,7 +761,22 @@ x(t)={x_0}e^{rt}
 \mathop {\lim}\limits_{t\to\infty}x(t)=\mathop {\lim}\limits_{t\to \infty} {x_0}e^{rt}=\infty
 \end{equation}
 \subsection{应用案例}
-\indent 以美国$1790\~ 1930$年的人口统计资料为数据依据:
+\indent 以美国$1790-1930$年的人口统计资料为数据依据:
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.6 \textwidth]{figs/chapter4/美国人口统计数据}
+\caption{美国1790-1930年人口统计数据\quad 单位：百万}
+\end{figure}
+\indent 通过这张表，我们可以看出，在短期内的表现Malthus人口模型的拟合还是比较吻合的，但是随着时间的推移，长期来看，误差越来越大。为什么会出现这样的误差呢？我们慢慢来分析。\\
+\indent 要想构造Malthus人口模型，我们首先就要通过给出的资料来计算人口增长5率。假设增长率$r$是常数，我们将$x(0)=3.9,x(1)=5.3$，代入人口指数增长模型中，计算人口增长率$r$:
+\begin{equation}
+r={{lnx(1)-lnx(0)}\over{t}}={{ln5.3-ln3.9}\over{10}}={{1.66771-1.36098}\over{10}}\approx 0.03067
+\end{equation}
+\noindent \textbf{结果分析}：\\
+\indent 种群规模和时间跨度小，符合实际；种群规模和时间跨度大，误差较大。若$r>0$，当$t\to +\infty$时，有$x(t)\to +\infty$,因此，该模型不能用于对人口的长期预测。\\
+\indent 原因就出在{\bf 假设$3$}，$r$是常数没有考虑有限的资源对种群的增长会产生遏制作用。因此如果要更好的预测长期的种群增长情况，我们一定要考虑地球有限的资源会给种群增长带来什么样的影响。因此我们需要对Malthus人口模型进行修正。\\
+\indent 人口的增加必定会消耗有限的资源，因此有限的资源必定会限制人口的增长，这种现象必将促使人口增长率的下降，也就是说，{\bf 人口增长率是人口数量的递减函数}。我们将据此对Malthus模型进行修正，这种修正的结果是我们将得到一个另外的反映人口变动的模型，叫做Logistic模型。
+\subsection{876}
 
 \section{传染病流行的控制模型}
 \section{价格数学模型}
