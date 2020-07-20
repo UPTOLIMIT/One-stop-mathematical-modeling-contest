@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.6.11)  21 JUL 2020 00:26
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.6.11)  21 JUL 2020 00:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2476,38 +2476,38 @@ LaTeX Warning: Label `sub@Fig.sub.2' multiply defined.
 )
 \openout1 = `数学建模笔记.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 67.
-LaTeX Font Info:    Trying to load font information for T3+cmr on input line 67
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 68.
+LaTeX Font Info:    Trying to load font information for T3+cmr on input line 68
 .
  (d:/texlive/2020/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
 
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 67.
+LaTeX Info: Redefining \selectfont on input line 68.
 \AtBeginShipoutBox=\box135
-Package hyperref Info: Link coloring ON on input line 67.
+Package hyperref Info: Link coloring ON on input line 68.
 
 (d:/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -2520,9 +2520,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count375
 )
-LaTeX Info: Redefining \ref on input line 67.
-LaTeX Info: Redefining \pageref on input line 67.
-LaTeX Info: Redefining \nameref on input line 67.
+LaTeX Info: Redefining \ref on input line 68.
+LaTeX Info: Redefining \pageref on input line 68.
+LaTeX Info: Redefining \nameref on input line 68.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -2565,13 +2565,13 @@ Package caption Info: subfigure package is loaded.
 Package caption Info: End \AtBeginDocument code.
 ABD: EveryShipout initializing macros
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
-(Font)              scaled to size 26.09749pt on input line 77.
+(Font)              scaled to size 26.09749pt on input line 78.
 Requested font "[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;+tnu
 m;+onum;mapping=tex-text;" at 26.09749pt
  -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
 sSerif-Regular.otf
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
-(Font)              scaled to size 26.09749pt on input line 77.
+(Font)              scaled to size 26.09749pt on input line 78.
 Requested font "[LibertinusSerif-Bold.otf]/OT:script=latn;language=dflt;+tnum;+
 onum;mapping=tex-text;" at 26.09749pt
  -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
@@ -2579,7 +2579,7 @@ sSerif-Bold.otf
 Requested font "FZHei-B01/OT:script=hani;language=dflt;" at 26.09749pt
  -> D:/texlive/2020/texmf-dist/fonts/opentype/public/xits/FZHei-B01.ttf
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
-(Font)              scaled to size 22.08249pt on input line 84.
+(Font)              scaled to size 22.08249pt on input line 85.
 Requested font "[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;+tnu
 m;+onum;mapping=tex-text;" at 22.08249pt
  -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
@@ -2611,7 +2611,7 @@ Package fontspec Info: Could not resolve font "FZHei-B01/I" (it probably
 Requested font "FZHei-B01/OT:script=hani;language=dflt;" at 22.08252pt
  -> D:/texlive/2020/texmf-dist/fonts/opentype/public/xits/FZHei-B01.ttf
 LaTeX Font Info:    Font shape `TU/LibertinusSans(0)/m/n' will be
-(Font)              scaled to size 10.53937pt on input line 84.
+(Font)              scaled to size 10.53937pt on input line 85.
 Requested font "[LibertinusSans-Regular.otf]/OT:script=latn;language=dflt;+tnum
 ;+onum;mapping=tex-text;" at 10.53937pt
  -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
@@ -2631,7 +2631,7 @@ ext;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
 LaTeX Font Info:    Font shape `TU/LibertinusSans(0)/m/n' will be
-(Font)              scaled to size 22.08249pt on input line 84.
+(Font)              scaled to size 22.08249pt on input line 85.
 Requested font "[LibertinusSans-Regular.otf]/OT:script=latn;language=dflt;+tnum
 ;+onum;mapping=tex-text;" at 22.08249pt
  -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
@@ -2640,13 +2640,13 @@ Requested font "FZHei-B01/OT:script=hani;language=dflt;mapping=tex-text;" at 22
 .08249pt
  -> D:/texlive/2020/texmf-dist/fonts/opentype/public/xits/FZHei-B01.ttf
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
-(Font)              scaled to size 14.05249pt on input line 89.
+(Font)              scaled to size 14.05249pt on input line 90.
 Requested font "[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;+tnu
 m;+onum;mapping=tex-text;" at 14.05249pt
  -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
 sSerif-Regular.otf
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/it' will be
-(Font)              scaled to size 14.05249pt on input line 89.
+(Font)              scaled to size 14.05249pt on input line 90.
 Requested font "[LibertinusSerif-Italic.otf]/OT:script=latn;language=dflt;+tnum
 ;+onum;mapping=tex-text;" at 14.05249pt
  -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
@@ -2668,42 +2668,42 @@ Requested font "cmmi8" at 8.4315pt
 Requested font "cmmi6" at 6.32362pt
  -> d:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
 LaTeX Font Info:    Font shape `TU/LibertinusMath-Regular.otf(2)/m/n' will be
-(Font)              scaled to size 10.54048pt on input line 90.
+(Font)              scaled to size 10.54048pt on input line 91.
 Requested font "[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;mappi
 ng=tex-text;" at 10.54048pt
  -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
 sMath-Regular.otf
 LaTeX Font Info:    Font shape `TU/LibertinusMath-Regular.otf(2)/m/n' will be
-(Font)              scaled to size 8.4324pt on input line 90.
+(Font)              scaled to size 8.4324pt on input line 91.
 Requested font "[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;+ssty
 =0;mapping=tex-text;" at 8.4324pt
  -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
 sMath-Regular.otf
 LaTeX Font Info:    Font shape `TU/LibertinusMath-Regular.otf(2)/m/n' will be
-(Font)              scaled to size 6.3243pt on input line 90.
+(Font)              scaled to size 6.3243pt on input line 91.
 Requested font "[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;+ssty
 =1;mapping=tex-text;" at 6.3243pt
  -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
 sMath-Regular.otf
 LaTeX Font Info:    Font shape `TU/LibertinusMath-Regular.otf(3)/m/n' will be
-(Font)              scaled to size 10.53824pt on input line 90.
+(Font)              scaled to size 10.53824pt on input line 91.
 Requested font "[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;mappi
 ng=tex-text;" at 10.53824pt
  -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
 sMath-Regular.otf
 LaTeX Font Info:    Font shape `TU/LibertinusMath-Regular.otf(3)/m/n' will be
-(Font)              scaled to size 8.43059pt on input line 90.
+(Font)              scaled to size 8.43059pt on input line 91.
 Requested font "[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;+ssty
 =0;mapping=tex-text;" at 8.43059pt
  -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
 sMath-Regular.otf
 LaTeX Font Info:    Font shape `TU/LibertinusMath-Regular.otf(3)/m/n' will be
-(Font)              scaled to size 6.32294pt on input line 90.
+(Font)              scaled to size 6.32294pt on input line 91.
 Requested font "[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;+ssty
 =1;mapping=tex-text;" at 6.32294pt
  -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
 sMath-Regular.otf
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 90
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 91
 .
 
 (d:/texlive/2020/texmf-dist/tex/latex/jknapltx/ursfs.fd
@@ -2711,19 +2711,19 @@ File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
 
 LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <10.53937> not available
-(Font)              size <10.95> substituted on input line 90.
+(Font)              size <10.95> substituted on input line 91.
 
 Requested font "rsfs10" at 10.95pt
  -> d:/texlive/2020/texmf-dist/fonts/tfm/public/rsfs/rsfs10.tfm
 
 LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <8.4315> not available
-(Font)              size <8> substituted on input line 90.
+(Font)              size <8> substituted on input line 91.
 
 Requested font "rsfs10" at 8.0pt
  -> d:/texlive/2020/texmf-dist/fonts/tfm/public/rsfs/rsfs10.tfm
 Requested font "rsfs5" at 6.0pt
  -> d:/texlive/2020/texmf-dist/fonts/tfm/public/rsfs/rsfs5.tfm
-LaTeX Font Info:    Trying to load font information for U+msa on input line 90.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 91.
 
 (d:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -2734,7 +2734,7 @@ Requested font "msam10" at 8.4315pt
  -> d:/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
 Requested font "msam7" at 6.32362pt
  -> d:/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
-LaTeX Font Info:    Trying to load font information for U+msb on input line 90.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 91.
 
 
 (d:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -2761,25 +2761,25 @@ Requested font "cmmi12" at 14.05249pt
 Requested font "cmmi7" at 7.52812pt
  -> d:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi7.tfm
 LaTeX Font Info:    Font shape `TU/LibertinusMath-Regular.otf(2)/m/n' will be
-(Font)              scaled to size 14.05399pt on input line 95.
+(Font)              scaled to size 14.05399pt on input line 96.
 Requested font "[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;mappi
 ng=tex-text;" at 14.05399pt
  -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
 sMath-Regular.otf
 LaTeX Font Info:    Font shape `TU/LibertinusMath-Regular.otf(2)/m/n' will be
-(Font)              scaled to size 7.52892pt on input line 95.
+(Font)              scaled to size 7.52892pt on input line 96.
 Requested font "[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;+ssty
 =0;mapping=tex-text;" at 7.52892pt
  -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
 sMath-Regular.otf
 LaTeX Font Info:    Font shape `TU/LibertinusMath-Regular.otf(3)/m/n' will be
-(Font)              scaled to size 14.05098pt on input line 95.
+(Font)              scaled to size 14.05098pt on input line 96.
 Requested font "[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;mappi
 ng=tex-text;" at 14.05098pt
  -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
 sMath-Regular.otf
 LaTeX Font Info:    Font shape `TU/LibertinusMath-Regular.otf(3)/m/n' will be
-(Font)              scaled to size 7.52731pt on input line 95.
+(Font)              scaled to size 7.52731pt on input line 96.
 Requested font "[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;+ssty
 =0;mapping=tex-text;" at 7.52731pt
  -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
@@ -2789,7 +2789,7 @@ Requested font "rsfs10" at 14.4pt
 
 
 LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <7.52812> not available
-(Font)              size <8> substituted on input line 95.
+(Font)              size <8> substituted on input line 96.
 
 Requested font "msam10" at 14.05249pt
  -> d:/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
@@ -2806,13 +2806,13 @@ Requested font "msbm7" at 7.52812pt
 
 ]
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
-(Font)              scaled to size 10.53937pt on input line 103.
+(Font)              scaled to size 10.53937pt on input line 104.
 Requested font "[LibertinusSerif-Bold.otf]/OT:script=latn;language=dflt;+tnum;+
 onum;mapping=tex-text;" at 10.53937pt
  -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
 sSerif-Bold.otf
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
-(Font)              scaled to size 22.08249pt on input line 103.
+(Font)              scaled to size 22.08249pt on input line 104.
 Requested font "[LibertinusSerif-Bold.otf]/OT:script=latn;language=dflt;+tnum;+
 onum;mapping=tex-text;" at 22.08249pt
  -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
@@ -2853,24 +2853,24 @@ Requested font "FZHei-B01/OT:script=hani;language=dflt;" at 12.045pt
 
 ]
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
-(Font)              scaled to size 48.0pt on input line 120.
+(Font)              scaled to size 48.0pt on input line 121.
 Requested font "[LibertinusSerif-Bold.otf]/OT:script=latn;language=dflt;+tnum;+
 onum;mapping=tex-text;" at 48.0pt
  -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
 sSerif-Bold.otf
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/it' will be
-(Font)              scaled to size 48.0pt on input line 120.
+(Font)              scaled to size 48.0pt on input line 121.
 Requested font "[LibertinusSerif-BoldItalic.otf]/OT:script=latn;language=dflt;+
 tnum;+onum;mapping=tex-text;" at 48.0pt
  -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
 sSerif-BoldItalic.otf
 
-Overfull \hbox (78.56044pt too wide) in paragraph at lines 120--120
+Overfull \hbox (78.56044pt too wide) in paragraph at lines 121--121
 [][]\TU/LibertinusSerif(0)/b/it/48 PART I[] 
  []
 
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
-(Font)              scaled to size 14.05249pt on input line 120.
+(Font)              scaled to size 14.05249pt on input line 121.
 Requested font "[LibertinusSerif-Bold.otf]/OT:script=latn;language=dflt;+tnum;+
 onum;mapping=tex-text;" at 14.05249pt
  -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
@@ -2882,13 +2882,13 @@ Requested font "FZHei-B01/OT:script=hani;language=dflt;" at 14.05249pt
 ] [2]
 第一章
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
-(Font)              scaled to size 15.05624pt on input line 127.
+(Font)              scaled to size 15.05624pt on input line 128.
 Requested font "[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;+tnu
 m;+onum;mapping=tex-text;" at 15.05624pt
  -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
 sSerif-Regular.otf
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
-(Font)              scaled to size 15.05624pt on input line 127.
+(Font)              scaled to size 15.05624pt on input line 128.
 Requested font "[LibertinusSerif-Bold.otf]/OT:script=latn;language=dflt;+tnum;+
 onum;mapping=tex-text;" at 15.05624pt
  -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
@@ -2902,7 +2902,7 @@ Requested font "FZHei-B01/OT:script=hani;language=dflt;" at 15.05624pt
 ]
 第二章
 [5] [6] [7] [8]
-Overfull \hbox (95.40843pt too wide) in paragraph at lines 232--232
+Overfull \hbox (95.40843pt too wide) in paragraph at lines 233--233
 [][]\TU/LibertinusSerif(0)/b/it/48 PART II[] 
  []
 
@@ -2913,12 +2913,12 @@ Overfull \hbox (95.40843pt too wide) in paragraph at lines 232--232
 
 Package amsmath Warning: Foreign command \over;
 (amsmath)                \frac or \genfrac should be used instead
-(amsmath)                 on input line 241.
+(amsmath)                 on input line 242.
 
 File: ./figs/chapter3/九宫图.jpg Graphic file (type bmp)
 <./figs/chapter3/九宫图.jpg>
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
-(Font)              scaled to size 7.52812pt on input line 264.
+(Font)              scaled to size 7.52812pt on input line 265.
 Requested font "[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;+tnu
 m;+onum;mapping=tex-text;" at 7.52812pt
  -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
@@ -2947,7 +2947,7 @@ Underfull \vbox (badness 2134) has occurred while \output is active []
  [13]
 
 Package amsmath Warning: Cannot use `split' here;
-(amsmath)                trying to recover with `aligned' on input line 351.
+(amsmath)                trying to recover with `aligned' on input line 352.
 
 [14]
 File: figs/chapter3/安全渡河问题图解法.png Graphic file (type bmp)
@@ -2962,7 +2962,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: figs/chapter3/哥尼斯堡七桥拓扑.png Graphic file (type bmp)
 <figs/chapter3/哥尼斯堡七桥拓扑.png>
 
-Overfull \hbox (24.80702pt too wide) in paragraph at lines 420--425
+Overfull \hbox (24.80702pt too wide) in paragraph at lines 421--426
 []\TU/FZShuSong-Z01(0)/m/n/10.53937 我 们 将 七 桥 抽 象 为 无 向 图 中 的 边，|  四 片 陆 地 抽 象 
 为 无 向 图 中 的 点，|  该 无 向 图 可 以 表 示 为 $[] [] [][][][][][] [][][][][] [][][]$，|
  []
@@ -2972,21 +2972,21 @@ File: figs/chapter3/层次分析结构.png Graphic file (type bmp)
 <figs/chapter3/层次分析结构.png>
  [18]
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(1)/m/n' will be
-(Font)              scaled to size 10.53937pt on input line 459.
+(Font)              scaled to size 10.53937pt on input line 460.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(1)/m/n' will be
-(Font)              scaled to size 8.4315pt on input line 459.
+(Font)              scaled to size 8.4315pt on input line 460.
 Requested font "[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;+tnu
 m;+onum;mapping=tex-text;" at 8.4315pt
  -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
 sSerif-Regular.otf
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(1)/m/n' will be
-(Font)              scaled to size 6.32362pt on input line 459.
+(Font)              scaled to size 6.32362pt on input line 460.
 Requested font "[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;+tnu
 m;+onum;mapping=tex-text;" at 6.32362pt
  -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
 sSerif-Regular.otf
 
-Underfull \hbox (badness 10000) in paragraph at lines 474--484
+Underfull \hbox (badness 10000) in paragraph at lines 475--485
 
  []
 
@@ -3053,19 +3053,19 @@ Underfull \vbox (badness 5711) has occurred while \output is active []
 [37] [38
 
 ]
-Overfull \hbox (112.25644pt too wide) in paragraph at lines 914--914
+Overfull \hbox (112.25644pt too wide) in paragraph at lines 915--915
 [][]\TU/LibertinusSerif(0)/b/it/48 PART III[] 
  []
 
 [39] [40]
-Overfull \hbox (112.88045pt too wide) in paragraph at lines 916--916
+Overfull \hbox (112.88045pt too wide) in paragraph at lines 917--917
 [][]\TU/LibertinusSerif(0)/b/it/48 PART IV[] 
  []
 
 [41
 
 ] [42]
-Overfull \hbox (94.88045pt too wide) in paragraph at lines 917--917
+Overfull \hbox (94.88045pt too wide) in paragraph at lines 918--918
 [][]\TU/LibertinusSerif(0)/b/it/48 PART V[] 
  []
 
@@ -3083,12 +3083,12 @@ Overfull \hbox (94.88045pt too wide) in paragraph at lines 917--917
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 )
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 929.
+nput line 930.
 Requested font "FontAwesome/OT:language=dflt;" at 10.53937pt
  -> D:/texlive/2020/texmf-dist/fonts/opentype/public/fontawesome/FontAwesome.ot
 f
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
-(Font)              scaled to size 9.03374pt on input line 929.
+(Font)              scaled to size 9.03374pt on input line 930.
 Requested font "[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;+tnu
 m;+onum;mapping=tex-text;" at 9.03374pt
  -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
@@ -3098,7 +3098,7 @@ Requested font "FZHei-B01/OT" at 9.0337pt
 Requested font "FZHei-B01/OT" at 9.03377pt
  -> D:/texlive/2020/texmf-dist/fonts/opentype/public/xits/FZHei-B01.ttf
 LaTeX Font Info:    Font shape `TU/LibertinusMono(0)/m/n' will be
-(Font)              scaled to size 7.82925pt on input line 929.
+(Font)              scaled to size 7.82925pt on input line 930.
 Requested font "[LibertinusMono-Regular.otf]/OT:script=latn;language=dflt;exten
 d=0.8;+tnum; +onum;mapping=tex-text;" at 7.82925pt
  -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
@@ -3165,12 +3165,10 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 第十章
 [61
 
-]
-Package atenddvi Info: Last page = 74.
- [62
+] [62
 
 ]
-Overfull \hbox (110.76843pt too wide) in paragraph at lines 1064--1064
+Overfull \hbox (110.76843pt too wide) in paragraph at lines 1065--1065
 [][]\TU/LibertinusSerif(0)/b/it/48 PART VI[] 
  []
 
@@ -3184,22 +3182,20 @@ File: lstlang1.sty 2020/03/24 1.8d listings language file
 ) [65
 
 
-] [66
+]
+Package atenddvi Info: Last page = 78.
+ [66
 
 ]
 runsystem(makeindex 数学建模笔记.idx)...executed safely (allowed).
 
 
 (./数学建模笔记.ind)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1099.
-Package atveryend Info: Executing hook `AfterLastShipout' on input line 1099.
- (./数学建模笔记.aux
-
-Package atenddvi Warning: Rerun LaTeX, last page has changed.
-
-)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1099.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1099.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1100.
+Package atveryend Info: Executing hook `AfterLastShipout' on input line 1100.
+ (./数学建模笔记.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1100.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1100.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -3208,15 +3204,15 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1099.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1100.
  ) 
 Here is how much of TeX's memory you used:
  46590 strings out of 479284
  938828 string characters out of 5884020
- 1641939 words of memory out of 5000000
+ 1642093 words of memory out of 5000000
  63326 multiletter control sequences out of 15000+600000
  539332 words of font info for 162 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 67i,22n,125p,974b,2044s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 67i,22n,125p,954b,2044s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on 数学建模笔记.pdf (78 pages).
