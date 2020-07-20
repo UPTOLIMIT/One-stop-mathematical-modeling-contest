@@ -62,61 +62,67 @@
 \contentsline {subsection}{\numberline {4.1.3}模型假设}{28}{subsection.4.1.3}%
 \contentsline {subsection}{\numberline {4.1.4}模型建立与求解}{28}{subsection.4.1.4}%
 \contentsline {subsection}{\numberline {4.1.5}应用案例}{28}{subsection.4.1.5}%
-\contentsline {subsection}{\numberline {4.1.6}Logistic模型}{29}{subsection.4.1.6}%
-\contentsline {section}{\numberline {4.2}传染病流行的控制模型}{30}{section.4.2}%
-\contentsline {section}{\numberline {4.3}价格数学模型}{30}{section.4.3}%
-\contentsline {section}{\numberline {4.4}湖泊污染减退模型}{30}{section.4.4}%
-\contentsline {section}{\numberline {4.5}狼捕食兔子模型}{30}{section.4.5}%
-\contentsline {section}{\numberline {4.6}导弹追踪目标问题}{30}{section.4.6}%
-\contentsline {section}{\numberline {4.7}森林救火模型}{30}{section.4.7}%
-\contentsline {chapter}{\numberline {第五章\hspace {.3em}}线性规划模型}{31}{chapter.5}%
-\contentsline {section}{\numberline {5.1}线性规划模型实例}{31}{section.5.1}%
-\contentsline {section}{\numberline {5.2}线性规划问题}{31}{section.5.2}%
-\contentsline {section}{\numberline {5.3}求解线性规划问题的基本思想}{31}{section.5.3}%
-\contentsline {section}{\numberline {5.4}线性规划问题的几何解释和图解法}{31}{section.5.4}%
-\contentsline {section}{\numberline {5.5}整数线性规划问题}{31}{section.5.5}%
-\contentsline {section}{\numberline {5.6}线性规划的对偶理论}{31}{section.5.6}%
-\contentsline {section}{\numberline {5.7}非对称形式的对偶线性规划问题}{31}{section.5.7}%
-\contentsline {section}{\numberline {5.8}两铁路平板车的装货问题}{31}{section.5.8}%
-\contentsline {chapter}{\numberline {第六章\hspace {.3em}}对策模型}{33}{chapter.6}%
-\contentsline {section}{\numberline {6.1}对策模型的引入}{33}{section.6.1}%
-\contentsline {section}{\numberline {6.2}对策模型的基本理论}{33}{section.6.2}%
-\contentsline {section}{\numberline {6.3}矩阵对策模型}{33}{section.6.3}%
-\contentsline {section}{\numberline {6.4}矩阵对策模型实例分析}{33}{section.6.4}%
-\contentsline {section}{\numberline {6.5}鞍点存在定理}{33}{section.6.5}%
-\contentsline {section}{\numberline {6.6}混合对策模型}{33}{section.6.6}%
-\contentsline {chapter}{\numberline {第七章\hspace {.3em}}决策模型}{35}{chapter.7}%
-\contentsline {section}{\numberline {7.1}决策模型的概念及分类}{35}{section.7.1}%
-\contentsline {section}{\numberline {7.2}风险型决策}{35}{section.7.2}%
-\contentsline {section}{\numberline {7.3}不确定型决策}{35}{section.7.3}%
-\contentsline {part}{第三部分\hspace {1em}算法案例}{37}{part.3}%
-\contentsline {part}{第四部分\hspace {1em}数据预处理}{39}{part.4}%
-\contentsline {part}{第五部分\hspace {1em}数据可视化}{41}{part.5}%
-\contentsline {chapter}{\numberline {第八章\hspace {.3em}}可视化基础}{43}{chapter.8}%
-\contentsline {section}{\numberline {8.1}绪论}{43}{section.8.1}%
-\contentsline {section}{\numberline {8.2}字体}{43}{section.8.2}%
-\contentsline {section}{\numberline {8.3}颜色}{43}{section.8.3}%
-\contentsline {chapter}{\numberline {第九章\hspace {.3em}}统计图表}{45}{chapter.9}%
-\contentsline {section}{\numberline {9.1}线型图}{45}{section.9.1}%
-\contentsline {subsection}{\numberline {9.1.1}简单的线型图}{45}{subsection.9.1.1}%
-\contentsline {subsection}{\numberline {9.1.2}自定义虚线样式}{46}{subsection.9.1.2}%
-\contentsline {subsection}{\numberline {9.1.3}误差限制选择线}{47}{subsection.9.1.3}%
-\contentsline {subsection}{\numberline {9.1.4}误差带曲线}{49}{subsection.9.1.4}%
-\contentsline {section}{\numberline {9.2}柱状图}{50}{section.9.2}%
-\contentsline {subsection}{\numberline {9.2.1}简单的柱状图}{50}{subsection.9.2.1}%
-\contentsline {subsection}{\numberline {9.2.2}水平条形图}{51}{subsection.9.2.2}%
-\contentsline {subsection}{\numberline {9.2.3}带有误差线的柱状图}{52}{subsection.9.2.3}%
-\contentsline {subsection}{\numberline {9.2.4}带标签的分组柱状图}{53}{subsection.9.2.4}%
-\contentsline {subsection}{\numberline {9.2.5}离散分布条形图}{55}{subsection.9.2.5}%
-\contentsline {subsection}{\numberline {9.2.6}破碎的条形图}{56}{subsection.9.2.6}%
-\contentsline {section}{\numberline {9.3}散点图}{58}{section.9.3}%
-\contentsline {section}{\numberline {9.4}饼图}{58}{section.9.4}%
-\contentsline {section}{\numberline {9.5}地图}{58}{section.9.5}%
-\contentsline {section}{\numberline {9.6}热力图}{58}{section.9.6}%
-\contentsline {section}{\numberline {9.7}表格}{58}{section.9.7}%
-\contentsline {section}{\numberline {9.8}形象化描述}{58}{section.9.8}%
-\contentsline {section}{\numberline {9.9}地图}{58}{section.9.9}%
-\contentsline {section}{\numberline {9.10}热力图}{58}{section.9.10}%
-\contentsline {chapter}{\numberline {第十章\hspace {.3em}}数值参数}{59}{chapter.10}%
-\contentsline {part}{第六部分\hspace {1em}LATEX论文写作}{61}{part.6}%
-\contentsline {chapter}{\numberline {附录 A\hspace {.3em}}Angular CLI}{63}{appendix.A}%
+\contentsline {subsection}{\numberline {4.1.6}Logistic阻滞增长模型}{29}{subsection.4.1.6}%
+\contentsline {section}{\numberline {4.2}细菌的繁殖数学模型}{31}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}问题的提出}{31}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}模型假设}{31}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}}{31}{subsection.4.2.3}%
+\contentsline {section}{\numberline {4.3}传染病流行的控制模型}{31}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}传统的传染病流行控制模型}{31}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}改进的传染病流行控制模型}{31}{subsection.4.3.2}%
+\contentsline {section}{\numberline {4.4}价格数学模型}{31}{section.4.4}%
+\contentsline {section}{\numberline {4.5}湖泊污染减退模型}{31}{section.4.5}%
+\contentsline {section}{\numberline {4.6}狼捕食兔子模型}{31}{section.4.6}%
+\contentsline {section}{\numberline {4.7}导弹追踪目标问题}{31}{section.4.7}%
+\contentsline {section}{\numberline {4.8}森林救火模型}{31}{section.4.8}%
+\contentsline {chapter}{\numberline {第五章\hspace {.3em}}线性规划模型}{33}{chapter.5}%
+\contentsline {section}{\numberline {5.1}线性规划模型实例}{33}{section.5.1}%
+\contentsline {section}{\numberline {5.2}线性规划问题}{33}{section.5.2}%
+\contentsline {section}{\numberline {5.3}求解线性规划问题的基本思想}{33}{section.5.3}%
+\contentsline {section}{\numberline {5.4}线性规划问题的几何解释和图解法}{33}{section.5.4}%
+\contentsline {section}{\numberline {5.5}整数线性规划问题}{33}{section.5.5}%
+\contentsline {section}{\numberline {5.6}线性规划的对偶理论}{33}{section.5.6}%
+\contentsline {section}{\numberline {5.7}非对称形式的对偶线性规划问题}{33}{section.5.7}%
+\contentsline {section}{\numberline {5.8}两铁路平板车的装货问题}{33}{section.5.8}%
+\contentsline {chapter}{\numberline {第六章\hspace {.3em}}对策模型}{35}{chapter.6}%
+\contentsline {section}{\numberline {6.1}对策模型的引入}{35}{section.6.1}%
+\contentsline {section}{\numberline {6.2}对策模型的基本理论}{35}{section.6.2}%
+\contentsline {section}{\numberline {6.3}矩阵对策模型}{35}{section.6.3}%
+\contentsline {section}{\numberline {6.4}矩阵对策模型实例分析}{35}{section.6.4}%
+\contentsline {section}{\numberline {6.5}鞍点存在定理}{35}{section.6.5}%
+\contentsline {section}{\numberline {6.6}混合对策模型}{35}{section.6.6}%
+\contentsline {chapter}{\numberline {第七章\hspace {.3em}}决策模型}{37}{chapter.7}%
+\contentsline {section}{\numberline {7.1}决策模型的概念及分类}{37}{section.7.1}%
+\contentsline {section}{\numberline {7.2}风险型决策}{37}{section.7.2}%
+\contentsline {section}{\numberline {7.3}不确定型决策}{37}{section.7.3}%
+\contentsline {part}{第三部分\hspace {1em}算法案例}{39}{part.3}%
+\contentsline {part}{第四部分\hspace {1em}数据预处理}{41}{part.4}%
+\contentsline {part}{第五部分\hspace {1em}数据可视化}{43}{part.5}%
+\contentsline {chapter}{\numberline {第八章\hspace {.3em}}可视化基础}{45}{chapter.8}%
+\contentsline {section}{\numberline {8.1}绪论}{45}{section.8.1}%
+\contentsline {section}{\numberline {8.2}字体}{45}{section.8.2}%
+\contentsline {section}{\numberline {8.3}颜色}{45}{section.8.3}%
+\contentsline {chapter}{\numberline {第九章\hspace {.3em}}统计图表}{47}{chapter.9}%
+\contentsline {section}{\numberline {9.1}线型图}{47}{section.9.1}%
+\contentsline {subsection}{\numberline {9.1.1}简单的线型图}{47}{subsection.9.1.1}%
+\contentsline {subsection}{\numberline {9.1.2}自定义虚线样式}{48}{subsection.9.1.2}%
+\contentsline {subsection}{\numberline {9.1.3}误差限制选择线}{49}{subsection.9.1.3}%
+\contentsline {subsection}{\numberline {9.1.4}误差带曲线}{51}{subsection.9.1.4}%
+\contentsline {section}{\numberline {9.2}柱状图}{52}{section.9.2}%
+\contentsline {subsection}{\numberline {9.2.1}简单的柱状图}{52}{subsection.9.2.1}%
+\contentsline {subsection}{\numberline {9.2.2}水平条形图}{53}{subsection.9.2.2}%
+\contentsline {subsection}{\numberline {9.2.3}带有误差线的柱状图}{54}{subsection.9.2.3}%
+\contentsline {subsection}{\numberline {9.2.4}带标签的分组柱状图}{55}{subsection.9.2.4}%
+\contentsline {subsection}{\numberline {9.2.5}离散分布条形图}{57}{subsection.9.2.5}%
+\contentsline {subsection}{\numberline {9.2.6}破碎的条形图}{58}{subsection.9.2.6}%
+\contentsline {section}{\numberline {9.3}散点图}{60}{section.9.3}%
+\contentsline {section}{\numberline {9.4}饼图}{60}{section.9.4}%
+\contentsline {section}{\numberline {9.5}地图}{60}{section.9.5}%
+\contentsline {section}{\numberline {9.6}热力图}{60}{section.9.6}%
+\contentsline {section}{\numberline {9.7}表格}{60}{section.9.7}%
+\contentsline {section}{\numberline {9.8}形象化描述}{60}{section.9.8}%
+\contentsline {section}{\numberline {9.9}地图}{60}{section.9.9}%
+\contentsline {section}{\numberline {9.10}热力图}{60}{section.9.10}%
+\contentsline {chapter}{\numberline {第十章\hspace {.3em}}数值参数}{61}{chapter.10}%
+\contentsline {part}{第六部分\hspace {1em}LATEX论文写作}{63}{part.6}%
+\contentsline {chapter}{\numberline {附录 A\hspace {.3em}}Angular CLI}{65}{appendix.A}%

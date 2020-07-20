@@ -774,16 +774,52 @@ r={{lnx(1)-lnx(0)}\over{t}}={{ln5.3-ln3.9}\over{10}}={{1.66771-1.36098}\over{10}
 \end{equation}
 \noindent \textbf{结果分析}：\\
 \indent 种群规模和时间跨度小，符合实际；种群规模和时间跨度大，误差较大。若$r>0$，当$t\to +\infty$时，有$x(t)\to +\infty$,因此，该模型不能用于对人口的长期预测。\\
-\indent 原因就出在{\bf 假设$3$}，$r$是常数没有考虑有限的资源对种群的增长会产生遏制作用。因此如果要更好的预测长期的种群增长情况，我们一定要考虑地球有限的资源会给种群增长带来什么样的影响。因此我们需要对Malthus人口模型进行修正。\\
+\indent 原因就出在{\bf 假设$3$}，$r$是常数没有考虑有限的资源对种群的增长会产生阻滞作用。因此如果要更好的预测长期的种群增长情况，我们一定要考虑地球有限的资源会给种群增长带来什么样的影响。因此我们需要对Malthus人口模型进行修正。\\
 \indent 人口的增加必定会消耗有限的资源，因此有限的资源必定会限制人口的增长，这种现象必将促使人口增长率的下降，也就是说，{\bf 人口增长率是人口数量的递减函数}。我们将据此对Malthus模型进行修正，这种修正的结果是我们将得到一个另外的反映人口变动的模型，叫做Logistic模型。
-\subsection{Logistic模型}
-\indent P.F.Verhulst引入环境的最大容量常数$Xmax$，简记为$Xm$，表示自然资源和环境条件下所能容许的最大人口数量，而且为了进一步的考虑资源环境对种群的规模增长所产生的这种遏制的影响作用，Verhulst又增加了以下几条假设：
+\subsection{Logistic阻滞增长模型}
+\indent P.F.Verhulst引入环境的最大容量常数$Xmax$，简记为$Xm$，表示自然资源和环境条件下所能容许的最大人口数量，而且为了进一步的考虑资源环境对种群的规模增长所产生的这种阻滞的影响作用，Verhulst又增加了以下几条假设：
 \begin{itemize}
-\item{假设4}：确定的环境内的资源供给为常数，且对每个个体的分配是均等的；
-\item{}
+\item{假设4}：确定的环境内的资源供给为常数，且对每个个体的分配是均等的，即表明当种群规模（密度）增大时，每个个体食物的平均分配量必然减少，从而导致种群增长率降低。
+\item{假设5}：种群个体的增长率是$x(t)$的线性减函数，即为：
+\begin{equation}
+r-r{{x(t)}\over{x_m}}=r{1-{x(t)\over{x_m}}}(x_m>x(t)>0)
+\end{equation}
 \end{itemize}
+\indent 当$x(t)=X_m$时，种群规模不再增大，$X_m$代表环境所能容许的种群最大数量，得到种群增长的 Verhulst阻滞增长模型：
+\begin{equation}
+\begin{cases}
+\frac{{dx}}{{dt}} = r\left[ {1 - \frac{{x(t)}}{{{x_m}}}} \right]x(t)\\
+x(0)=x_0
+\end{cases}
+\end{equation}
+\indent 其中$1-{{x(t)}\over {x_m}}$叫做$Verhulst$因子，$-{r\over{x_m}}x^2{(t)}$反映种群密度对种群规模增长的抑制作用，称为密度制约。不考虑密度制约时就是原来的Malthus模型\\
+\noindent\textbf{Logistic模型的解}\\
+\indent 模型（4.10）即为Logistic模型，其解为：
+\begin{equation}
+x(t)={{x_m}\over{1+({{x_m}\over{x_0}}-1)e^{-rt}}}
+\end{equation}
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.45 \textwidth]{figs/chapter4/Verhulst人口模型}
+\caption{Verhulst人口模型}
+\end{figure}
+\noindent\textbf{人口总量与人口对时间变化率的关系}：
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.45 \textwidth]{figs/chapter4/人口总量与人口对时间变化率的关系}
+\caption{人口总量与人口对时间变化率的关系}
+\end{figure}
+\indent 由图可知，$0-{{X_m}\over 2}$时，增长率是单调递增的，当$x={{X_m}\over 2}$时，增长率达到最大，当$x=X_m$时，增长率为$0$。
+\section{细菌的繁殖数学模型}
+\subsection{问题的提出}
+\indent 已知某时刻某种细菌的数量，预测在任意时刻$t$这种细菌的数量变化趋势，建立细菌繁殖的数学模型。
+\subsection{模型假设}
+\indent 假设某种细菌的个数按照指数方式增长
+\subsection{}
 
 \section{传染病流行的控制模型}
+\subsection{传统的传染病流行控制模型}
+\subsection{改进的传染病流行控制模型}
 \section{价格数学模型}
 \section{湖泊污染减退模型}
 \section{狼捕食兔子模型}
