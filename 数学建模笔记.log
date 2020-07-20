@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.6.11)  20 JUL 2020 18:34
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.6.11)  21 JUL 2020 00:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2845,15 +2845,13 @@ onum;mapping=tex-text;" at 12.045pt
 sSerif-Bold.otf
 Requested font "FZHei-B01/OT:script=hani;language=dflt;" at 12.045pt
  -> D:/texlive/2020/texmf-dist/fonts/opentype/public/xits/FZHei-B01.ttf
- [5] [6]
-Underfull \vbox (badness 1275) has occurred while \output is active []
-
- [7])
+ [5] [6] [7] [8])
 \tf@toc=\write7
 \openout7 = `数学建模笔记.toc'.
 
+ [9] [10
 
-[8]
+]
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
 (Font)              scaled to size 48.0pt on input line 120.
 Requested font "[LibertinusSerif-Bold.otf]/OT:script=latn;language=dflt;+tnum;+
@@ -2880,7 +2878,6 @@ sSerif-Bold.otf
 Requested font "FZHei-B01/OT:script=hani;language=dflt;" at 14.05249pt
  -> D:/texlive/2020/texmf-dist/fonts/opentype/public/xits/FZHei-B01.ttf
 [1
-
 
 ] [2]
 第一章
@@ -3038,11 +3035,14 @@ File: figs/chapter4/人口总量与人口对时间变化率的关系.png Graphic
 Underfull \vbox (badness 5274) has occurred while \output is active []
 
  [30]
-[31] [32
+Underfull \vbox (badness 5711) has occurred while \output is active []
 
-]
+ [31]
+[32]
 第五章
-[33] [34
+[33
+
+] [34
 
 ]
 第六章
@@ -3053,19 +3053,19 @@ Underfull \vbox (badness 5274) has occurred while \output is active []
 [37] [38
 
 ]
-Overfull \hbox (112.25644pt too wide) in paragraph at lines 853--853
+Overfull \hbox (112.25644pt too wide) in paragraph at lines 914--914
 [][]\TU/LibertinusSerif(0)/b/it/48 PART III[] 
  []
 
 [39] [40]
-Overfull \hbox (112.88045pt too wide) in paragraph at lines 855--855
+Overfull \hbox (112.88045pt too wide) in paragraph at lines 916--916
 [][]\TU/LibertinusSerif(0)/b/it/48 PART IV[] 
  []
 
 [41
 
 ] [42]
-Overfull \hbox (94.88045pt too wide) in paragraph at lines 856--856
+Overfull \hbox (94.88045pt too wide) in paragraph at lines 917--917
 [][]\TU/LibertinusSerif(0)/b/it/48 PART V[] 
  []
 
@@ -3083,12 +3083,12 @@ Overfull \hbox (94.88045pt too wide) in paragraph at lines 856--856
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 )
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 868.
+nput line 929.
 Requested font "FontAwesome/OT:language=dflt;" at 10.53937pt
  -> D:/texlive/2020/texmf-dist/fonts/opentype/public/fontawesome/FontAwesome.ot
 f
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
-(Font)              scaled to size 9.03374pt on input line 868.
+(Font)              scaled to size 9.03374pt on input line 929.
 Requested font "[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;+tnu
 m;+onum;mapping=tex-text;" at 9.03374pt
  -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
@@ -3098,7 +3098,7 @@ Requested font "FZHei-B01/OT" at 9.0337pt
 Requested font "FZHei-B01/OT" at 9.03377pt
  -> D:/texlive/2020/texmf-dist/fonts/opentype/public/xits/FZHei-B01.ttf
 LaTeX Font Info:    Font shape `TU/LibertinusMono(0)/m/n' will be
-(Font)              scaled to size 7.82925pt on input line 868.
+(Font)              scaled to size 7.82925pt on input line 929.
 Requested font "[LibertinusMono-Regular.otf]/OT:script=latn;language=dflt;exten
 d=0.8;+tnum; +onum;mapping=tex-text;" at 7.82925pt
  -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
@@ -3165,16 +3165,16 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 第十章
 [61
 
-] [62
+]
+Package atenddvi Info: Last page = 74.
+ [62
 
 ]
-Overfull \hbox (110.76843pt too wide) in paragraph at lines 1003--1003
+Overfull \hbox (110.76843pt too wide) in paragraph at lines 1064--1064
 [][]\TU/LibertinusSerif(0)/b/it/48 PART VI[] 
  []
 
-[63]
-Package atenddvi Info: Last page = 74.
- [64]
+[63] [64]
 附录 A
 (d:/texlive/2020/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
@@ -3191,15 +3191,15 @@ runsystem(makeindex 数学建模笔记.idx)...executed safely (allowed).
 
 
 (./数学建模笔记.ind)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1038.
-Package atveryend Info: Executing hook `AfterLastShipout' on input line 1038.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1099.
+Package atveryend Info: Executing hook `AfterLastShipout' on input line 1099.
  (./数学建模笔记.aux
 
 Package atenddvi Warning: Rerun LaTeX, last page has changed.
 
 )
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1038.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1038.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1099.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1099.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -3208,15 +3208,15 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1038.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1099.
  ) 
 Here is how much of TeX's memory you used:
- 46589 strings out of 479284
- 938821 string characters out of 5884020
- 1640689 words of memory out of 5000000
- 63325 multiletter control sequences out of 15000+600000
+ 46590 strings out of 479284
+ 938828 string characters out of 5884020
+ 1641939 words of memory out of 5000000
+ 63326 multiletter control sequences out of 15000+600000
  539332 words of font info for 162 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 67i,17n,125p,974b,2044s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 67i,22n,125p,974b,2044s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on 数学建模笔记.pdf (76 pages).
+Output written on 数学建模笔记.pdf (78 pages).

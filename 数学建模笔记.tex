@@ -814,8 +814,69 @@ x(t)={{x_m}\over{1+({{x_m}\over{x_0}}-1)e^{-rt}}}
 \subsection{问题的提出}
 \indent 已知某时刻某种细菌的数量，预测在任意时刻$t$这种细菌的数量变化趋势，建立细菌繁殖的数学模型。
 \subsection{模型假设}
-\indent 假设某种细菌的个数按照指数方式增长
-\subsection{}
+\indent 由实验可知，细菌繁殖的速度应该和培养基是否充足。当培养基充足时，细菌繁殖的速度$V$与当时已有的数量$A_0$成正比，即$y=kA_0(k>0\mbox{为比例常数})$
+\begin{itemize}
+\item 假设某种细菌的个数按照指数方式增长,给出如下表：
+\begin{table}[htbp]
+\centering
+\caption{细菌繁殖数据表}
+\begin{tabular}{|c|c|}
+\hline
+天数 & 细菌个数 \\
+\hline
+{$5$} & $936$\\
+\hline
+{$10$} & $2190$\\
+\hline 
+\end{tabular}
+\end{table}
+\item 假设在每一个小时间段$[{{(i-1)}\over n}t,{i\over n}t](i=1,2,\cdots,n)$内细菌的繁殖速度不变，且在各小段时间内只繁殖一次。
+\end{itemize}
+\indent 按照假设，我们要求的是：
+\begin{enumerate}[itemindent=2em]
+\item [(1).]开始时细菌的个数可能是多少？
+\item [(2).]若继续以现在速度增长下去，假定细菌无死亡，那么60天后细菌的个数应该是多少？
+\end{enumerate}
+
+\subsection{模型建立}
+\indent 首先我们要量化这个数学模型，设细菌总数为$y$，为了计算出$t$时刻细菌的个数，我们需要将时间间隔$[0,t]$分成$N$等分，通过对细菌数量的变化来着手研究细菌的繁衍速度问题。\\
+\indent 细菌的繁殖过程可视为连续变化的，在很短的一段时间内数量的变化很小，繁殖的速度可以近似地看作不变。由假设$(2)$在第一段时间$[0,{t\over n}]$内，细菌繁殖的数量为${kA_0t}\over n$\\
+\indent 第一段时间末细菌的数量为$A_0(1+{{kt}\over n})$;
+\indent 第二段时间末细菌的数量为$A_0(1+{{kt}\over n})^2$;
+\indent 依此类推，到最后一段时间末细菌的数量为
+\begin{equation}
+y=A_0(1+k{t\over n})^n
+\end{equation}
+\noindent\textbf{结论}
+\indent 时间间隔无限细分(即$n\to\infty$)时，可求得精确值，经过时间t后细菌的总数是：
+\begin{equation}
+\begin{split}
+A_0\mathop {\lim }\limits_{n \to \infty } {\left( {1 +{k \cdot {t\over {n}}}} \right)^n}&= A_0 \mathop {\lim }\limits_{n \to \infty } {\left( {1 + {{kt}\over n}} \right)^n}\\
+&= A_0\mathop {\lim }\limits_{n \to \infty } {\left[ {{{\left( {1 + \frac{1}{x}} \right)}^x}} \right]^{kt}}\\
+&={A_0}{\left[ {\mathop {\lim }\limits_{x \to \infty } {{\left( {1 + \frac{1}{x}} \right)}^x}} \right]^{kt}}\\
+&={A_0}{e^{kt}}
+\end{split}
+\end{equation}
+\indent 至此我们得到细菌繁殖服从生长函数模型：
+\begin{equation}
+y=A_0e^{kt}
+\end{equation}
+\indent 其中，$k$为繁衍比例系数，$t$为时间，$A_0$为细菌初始数量。
+\subsection{模型求解}
+\indent 由公式$(4.14)$及题目所给数据表$4.1$得：
+\begin{equation}
+\begin{cases}
+936=A_0e^{5k}\\
+2190=A_0e{10k}
+\end{cases}
+\end{equation}
+
+\indent 解此方程组，得$A_0=400,k=0.17$.即开始时细菌个数为$400$个
+\indent 按此速度增长下去，则60天后细菌个数为：
+\begin{equation}\nonumber
+y(60)=400e^{60\times 0.17}\approx 10761200(\mbox{个})
+\end{equation}
+
 
 \section{传染病流行的控制模型}
 \subsection{传统的传染病流行控制模型}

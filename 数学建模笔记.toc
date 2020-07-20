@@ -66,15 +66,16 @@
 \contentsline {section}{\numberline {4.2}细菌的繁殖数学模型}{31}{section.4.2}%
 \contentsline {subsection}{\numberline {4.2.1}问题的提出}{31}{subsection.4.2.1}%
 \contentsline {subsection}{\numberline {4.2.2}模型假设}{31}{subsection.4.2.2}%
-\contentsline {subsection}{\numberline {4.2.3}}{31}{subsection.4.2.3}%
-\contentsline {section}{\numberline {4.3}传染病流行的控制模型}{31}{section.4.3}%
-\contentsline {subsection}{\numberline {4.3.1}传统的传染病流行控制模型}{31}{subsection.4.3.1}%
-\contentsline {subsection}{\numberline {4.3.2}改进的传染病流行控制模型}{31}{subsection.4.3.2}%
-\contentsline {section}{\numberline {4.4}价格数学模型}{31}{section.4.4}%
-\contentsline {section}{\numberline {4.5}湖泊污染减退模型}{31}{section.4.5}%
-\contentsline {section}{\numberline {4.6}狼捕食兔子模型}{31}{section.4.6}%
-\contentsline {section}{\numberline {4.7}导弹追踪目标问题}{31}{section.4.7}%
-\contentsline {section}{\numberline {4.8}森林救火模型}{31}{section.4.8}%
+\contentsline {subsection}{\numberline {4.2.3}模型建立}{31}{subsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.2.4}模型求解}{32}{subsection.4.2.4}%
+\contentsline {section}{\numberline {4.3}传染病流行的控制模型}{32}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}传统的传染病流行控制模型}{32}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}改进的传染病流行控制模型}{32}{subsection.4.3.2}%
+\contentsline {section}{\numberline {4.4}价格数学模型}{32}{section.4.4}%
+\contentsline {section}{\numberline {4.5}湖泊污染减退模型}{32}{section.4.5}%
+\contentsline {section}{\numberline {4.6}狼捕食兔子模型}{32}{section.4.6}%
+\contentsline {section}{\numberline {4.7}导弹追踪目标问题}{32}{section.4.7}%
+\contentsline {section}{\numberline {4.8}森林救火模型}{32}{section.4.8}%
 \contentsline {chapter}{\numberline {第五章\hspace {.3em}}线性规划模型}{33}{chapter.5}%
 \contentsline {section}{\numberline {5.1}线性规划模型实例}{33}{section.5.1}%
 \contentsline {section}{\numberline {5.2}线性规划问题}{33}{section.5.2}%
