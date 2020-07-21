@@ -842,8 +842,8 @@ x(t)={{x_m}\over{1+({{x_m}\over{x_0}}-1)e^{-rt}}}
 \subsection{模型建立}
 \indent 首先我们要量化这个数学模型，设细菌总数为$y$，为了计算出$t$时刻细菌的个数，我们需要将时间间隔$[0,t]$分成$N$等分，通过对细菌数量的变化来着手研究细菌的繁衍速度问题。\\
 \indent 细菌的繁殖过程可视为连续变化的，在很短的一段时间内数量的变化很小，繁殖的速度可以近似地看作不变。由假设$(2)$在第一段时间$[0,{t\over n}]$内，细菌繁殖的数量为${kA_0t}\over n$\\
-\indent 第一段时间末细菌的数量为$A_0(1+{{kt}\over n})$;
-\indent 第二段时间末细菌的数量为$A_0(1+{{kt}\over n})^2$;
+\indent 第一段时间末细菌的数量为$A_0(1+{{kt}\over n})$;\\
+\indent 第二段时间末细菌的数量为$A_0(1+{{kt}\over n})^2$;\\
 \indent 依此类推，到最后一段时间末细菌的数量为
 \begin{equation}
 y=A_0(1+k{t\over n})^n
@@ -895,6 +895,77 @@ x(t+\Delta{t)}-x(t)=k\cdot x(t)\cdot\Delta{t})
 \noindent\textbf{原因分析}\\
 \indent 病人有效接触的人群中既有健康人也有已经发病的人，只有健康人才可以被传染而成为患病的人，建模需要区分人群。
 \subsection{改进的传染病流行控制模型（SI模型）}
+\subsubsection{模型假设}
+\begin{itemize}
+\item 在疾病传播期内，所考察地区的总人数$N$不变，既不考虑生死，也不考虑迁移。
+\item 把人群$N$分为易感染者和已感染者两类，简称健康者和病人。在$t$时刻这两类人在总人数中所占的比例分别记作$x(t)$和$y(t)$。
+\item 每个病人每天有效接触的平均人数是常数$k$，$k$称为日接触率。假设当病人与健康者进行有效接触时，可使健康者受到感染成为病人。
+\end{itemize}
+\subsubsection{模型建立}
+\indent 每个病人每天可使$kx(t)$人感染成为病人，病人数为$N\cdot y(t)$，每天有$kx(t)Ny(t)$个健康者被感染。
+\begin{itemize}
+\item 病人数$N\cdot y(t)$对时间的增长率为
+\begin{equation}
+{{d(Ny)}\over{dt}}=k\cdot x(t)\cdot N\cdot y(t)
+\end{equation}
+\item 初始时刻$t=0$，病人的比例记位$y(0)=y_0$
+\end{itemize}
+\indent 得到改进的$SI$模型：
+\begin{equation}
+\begin{cases}
+{{dy}\over{dt}}=k\cdot y(t)\cdot{[N-y(t)]}\\
+y(0)=y_0\\
+N=x(t)+y(t)=1
+\end{cases}
+\end{equation}
+\indent 这依然是一个微分方程的初值问题，其实它就是本章第一节所讲的改进的Logistic模型，即{\bf 阻滞增长模型}
+\subsubsection{模型求解}
+\begin{equation}
+y(t)={{N}\over{1+{\left({N\over y_0}-1\right)\cdot e^{-kt}}}}
+\end{equation}
+\subsubsection{结果分析}
+\indent 负指数函数$e^{-kt}(k>0)$起到了衰减作用，因此$t$越来越大（发病持续的时间逐渐增加）时，$e^{-kt}$将越来越小，因此$1+{\left({N\over y_0}-1\right)}\cdot e^{-kt}$也将越来越小，从而$y(t)$随$t$的增大单调增加。因此当$t\to\infty$时，$\mathop{\lim}\limits_{t\to\infty}{y(t)}=N$。
+\begin{itemize}[itemindent=2em]
+\item 当已感染者达到总人数的一半，即$y=0.5$时，${dy}\over{dt}$达到最大值，很容易求出这个时刻为$t_m=k^{-1}ln\left( {1\over{y_0}-1}\right)$，表明此时刻病人增加的速度最快。可以认为这是医院门诊量最大的时刻，预示着传染病爆发高潮的到来，需要医疗卫生部门高度关注。
+\item 由$t_m=k^{-1}ln\left( {1\over{y_0}-1}\right)$得知，$t_m$与$k$成反比例关系，原因是模型中的日接触率表示该地区的医疗卫生水平的高低，$k$越小，表明卫生水平越高。因此，改善保健设施，提高卫生与防御水平可以推迟传染病爆发高潮的到来时间。
+\item 由SI模型解的表达式（4.20）可以看出，$y(t)$随$t$单调增加，$t\to\infty$时有$\mathop{\lim}\limits_{t\to\infty}y(t)=N$，这说明所有的人最终都将被传染，全部成为病人，不符合实际情况。
+\end{itemize}
+\subsection{病人得到治愈的SIS模型}
+在上一节的结果分析指出，SI模型解的表达式不符合实际情况。为什么这么说呢？因为SI模型没有考虑到病人还可以被治愈成为健康者，存在思考上的缺陷。
+\indent 有些传染病被治愈后会使患者的免疫力非常低，因此可以假设没有免疫性，于是病人被治愈后成为健康者，但是健康者还有可能再次被感染，再次成为病人。这个模型称为SIS模型。
+\subsubsection{模型假设}
+\begin{itemize}
+\item 在疾病传播期内，所考察地区的总人数$N$不变，既不考虑生死，也不考虑迁移。
+\item 把人群$N$分为易感染者和已感染者两类，简称健康者和病人。在$t$时刻这两类人在总人数种所占的比例分别记作$x(t)$和$y(t)$。
+\item 每天被治愈的病人数占病人总数的比例为常数$\lambda$，称为日治愈率。病人治愈后成为仍可被感染的健康者。$1\over\lambda$是这种传染病的平均传染期。
+\end{itemize}
+\subsubsection{模型建立}
+\begin{equation}
+\begin{cases}
+N{{dy}\over{dt}}=k\cdot N\cdot x(t)\cdot y(t)-\lambda\cdot N\cdot y(t)\\
+x(t)+y(t)=1
+\end{cases}
+\end{equation}
+\indent 经过整理，得到：
+\begin{equation}
+\begin{cases}
+{{dy}\over{dt}}=k\cdot y(t)\cdot [N-y(t)]\\
+y(0)=y_0
+\end{cases}
+\end{equation}
+\noindent \textbf{定义} $\sigma={k\over\lambda}$，其中$k$是每个病人有效接触（足以使被接触者致病）的人数，$1\over\lambda$是这种传染病的平均传染期。$\sigma$的含义是整个传染期内的每个病人有效接触的平均人数，简称接触数。
+\subsubsection{模型求解分析}
+\indent 利用定义$\sigma=k\over \lambda$，SIS模型可以改写成：
+\begin{equation}
+{{dy}\over{dt}}=-ky(t)\left[y(t)-\left(1-{1\over\sigma} \right) \right]
+\end{equation}
+\subsubsection{SIS模型的结论}
+\indent 接触数$\sigma=1$是一个阈值（临界值）,讨论如下:
+\begin{itemize}[itemindent=2em]
+\item $\sigma$>1时，$y(t)$的增减性取决于$y_0$的大小，其极限值$\mathop{\lim}\limits_{t\to\infty}y(t)=1-{1\over\sigma}$随$\sigma$的增加而增加。
+\item 当$\sigma\le 1$时，病人比例$y(t)$越来越小，最终趋于零。这是由于传染期内经有效接触从而使健康者变为病人数不超过原来病人数的缘故。
+\end{itemize}
+
 \section{价格数学模型}
 \section{湖泊污染减退模型}
 \section{狼捕食兔子模型}
