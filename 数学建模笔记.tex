@@ -880,8 +880,21 @@ y(60)=400e^{60\times 0.17}\approx 10761200(\mbox{个})
 
 
 \section{传染病流行的控制模型}
+\indent 通常某种传染病的大面积流行，例如伤风、流感等，最常见的传播方式是带菌患者通过空气、食物和饮食等渠道，把病菌传播给健康人，形成传播锁链。
 \subsection{传统的传染病流行控制模型}
-\subsection{改进的传染病流行控制模型}
+\indent 假设$t$时刻的病人数目$x(t)$是时间$t$的连续可微函数，每天每个病人有效接触（足以使被接触者致病）的人数为常数$k$，考察$t$到$t+\Delta t$发病人数的增加，再假设$t=t_0$时有$x_0$个病人，即得微分方程
+\begin{equation}
+x(t+\Delta{t)}-x(t)=k\cdot x(t)\cdot\Delta{t})
+\end{equation}
+\begin{equation}
+{{dx}\over{dt}}=kx(t),x(t_0)=x_0
+\end{equation}
+\indent 将这个模型对比前面学习过得Malthus指数增长模型，可以看出二者非常相似，这个模型得解与Malthus指数增长模型的解是完全一样的\\
+\noindent\textbf{模型的结果分析}\\
+\indent 随着时间$t$的增加，患病人数$x(t)$将无限增加，不符合实际，模型建立失败\\
+\noindent\textbf{原因分析}\\
+\indent 病人有效接触的人群中既有健康人也有已经发病的人，只有健康人才可以被传染而成为患病的人，建模需要区分人群。
+\subsection{改进的传染病流行控制模型（SI模型）}
 \section{价格数学模型}
 \section{湖泊污染减退模型}
 \section{狼捕食兔子模型}
