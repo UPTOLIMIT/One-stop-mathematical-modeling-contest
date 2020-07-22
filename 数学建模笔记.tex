@@ -967,6 +967,57 @@ y(0)=y_0
 \end{itemize}
 
 \section{价格数学模型}
+\subsection{价格数学模型的定义}
+价格数学模型是运用数学的方法对价格形成和价格变动规律所作的描述。最常见的是投入-产出价格数学模型
+\subsection{价格数学模型的分类}
+\begin{itemize}
+\item 从价格形成的内在机制上来描述经济变量种的数量关系
+\item 从经济事物表面现象上探索经济变量间的内在联系
+\item 组合模型
+\end{itemize}
+\subsection{价格数学模型的分析}
+\subsubsection{一些概念}
+\begin{itemize}
+\item 均衡价格是指商品的供给与需求相等时的市场价格
+\item 实际的市场价格通常不会等于均衡价格，并且随时间不断变化
+\end{itemize}
+\indent 假设在某一时刻$t$，某商品的价格与该商品的均衡价格有差别，此时会存在供需差，供需差必将促使价格变动
+\subsection{价格数学模型的建立}
+\indent 设某商品在时刻$t$的销售价格为$p(t)$，市场对该商品的需求量和它对市场的供给量分别为$D(p)$、$S(p)$，它们均为价格$p$的函数。\\
+\indent 在$t$时刻价格$p(t)$对时间$t$的变化率${dp}\over{dt}$与该商品在同一时刻市场超额需求量$D(p)-S(p)$成正比，即
+\begin{equation}
+{{dp}\over{dt}}=k\left[ D(p)-S(p)\right](k>0,\mbox{为比例系数})
+\end{equation}
+\indent 由经济学原理可知，商品供给量$S(p)$是价格$p$的单调递增函数，而市场需求量$D(p)$是价格$p$的单调递减函数。假设
+\begin{equation}
+S(p)=a+bp,D(p)=c-dp
+\end{equation}
+\indent 其中$a$、$b$、$c$、$d$均为正的常数。当供给量$S(p)$与需求量$D(p)$相等时，对应的价格便是均衡价格$p^*$。\\
+\indent 那么当供给量与需求量相等时
+\begin{equation}\nonumber
+a+bp=c-dp
+\end{equation}
+\indent 这表示两条曲线$S(p)=a+bp$与$D(p)=c-dp$的交点恰好为供求平衡时的均衡价格$p^*$，即
+\begin{equation}
+p^*=(c-a)\div(d+b)
+\end{equation}
+\indent 当商品供不应求时，即$S(p)<D(p)$,商品价格要上涨\\
+\indent 当商品供过于求时，即$S(p)>D(p)$,商品价格要下降\\
+\indent 将(4.25)式代入(4.24)式中，得
+\begin{equation}
+{{dp}\over{dt}}=\alpha(p^*-p)
+\end{equation}
+\indent 其中，$\alpha=k(b+d)>0$，另方程(4.27)得通解是：
+\begin{equation}
+p(t)=p^*+Ce^{-\alpha t}
+\end{equation}
+\indent 假设初始价格为$p(0)=p_0$，代入上式，得$C=p_0-p^*$，从而得到价格表达式
+\begin{equation}
+p(t)=p^*+(p_0-p^*)e^{-\alpha t}
+\end{equation}
+\indent 由$\alpha >0$时，当$t\to\infty$时，$e^{-\alpha t}\to\infty$，因而价格将趋近于均衡价格，即$p(t)\to{p^*}$
+\subsection{结论}
+\indent 随着时间不断延续，市场价格将逐渐趋近于均衡价格$p^*$
 \section{湖泊污染减退模型}
 \section{狼捕食兔子模型}
 \section{导弹追踪目标问题}
