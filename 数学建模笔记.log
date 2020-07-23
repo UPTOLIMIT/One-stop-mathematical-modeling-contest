@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.6.11)  22 JUL 2020 23:31
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.6.11)  22 JUL 2020 23:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3172,9 +3172,7 @@ Overfull \hbox (110.76843pt too wide) in paragraph at lines 1219--1219
 [][]\TU/LibertinusSerif(0)/b/it/48 PART VI[] 
  []
 
-[69]
-Package atenddvi Info: Last page = 82.
- [70]
+[69] [70]
 附录 A
 (d:/texlive/2020/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
@@ -3184,7 +3182,9 @@ File: lstlang1.sty 2020/03/24 1.8d listings language file
 ) [71
 
 
-] [72
+]
+Package atenddvi Info: Last page = 84.
+ [72
 
 ]
 runsystem(makeindex 数学建模笔记.idx)...executed safely (allowed).
@@ -3193,11 +3193,7 @@ runsystem(makeindex 数学建模笔记.idx)...executed safely (allowed).
 (./数学建模笔记.ind)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1254.
 Package atveryend Info: Executing hook `AfterLastShipout' on input line 1254.
- (./数学建模笔记.aux
-
-Package atenddvi Warning: Rerun LaTeX, last page has changed.
-
-)
+ (./数学建模笔记.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1254.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1254.
 
@@ -3213,7 +3209,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1254.
 Here is how much of TeX's memory you used:
  46621 strings out of 479284
  940501 string characters out of 5884020
- 1642363 words of memory out of 5000000
+ 1642516 words of memory out of 5000000
  63357 multiletter control sequences out of 15000+600000
  539332 words of font info for 162 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
