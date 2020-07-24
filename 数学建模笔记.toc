@@ -97,6 +97,8 @@
 \contentsline {subsubsection}{解决该问题的方法依赖以下事实}{37}{subsection.4.5.4}%
 \contentsline {subsection}{\numberline {4.5.5}结论}{38}{subsection.4.5.5}%
 \contentsline {section}{\numberline {4.6}狼捕食兔子模型}{38}{section.4.6}%
+\contentsline {subsection}{\numberline {4.6.1}}{38}{subsection.4.6.1}%
+\contentsline {subsection}{\numberline {4.6.2}}{38}{subsection.4.6.2}%
 \contentsline {section}{\numberline {4.7}导弹追踪目标问题}{38}{section.4.7}%
 \contentsline {section}{\numberline {4.8}森林救火模型}{38}{section.4.8}%
 \contentsline {chapter}{\numberline {第五章\hspace {.3em}}线性规划模型}{39}{chapter.5}%
