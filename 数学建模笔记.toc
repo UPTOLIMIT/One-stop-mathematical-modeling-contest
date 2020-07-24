@@ -91,11 +91,14 @@
 \contentsline {subsection}{\numberline {4.5.1}模型的背景介绍}{36}{subsection.4.5.1}%
 \contentsline {subsubsection}{湖泊富营养化的特点}{36}{subsection.4.5.1}%
 \contentsline {subsubsection}{湖泊富营养化研究模型的种类}{37}{subsection.4.5.1}%
-\contentsline {subsubsection}{各个模型的特点}{37}{Item.8}%
-\contentsline {subsection}{\numberline {4.5.2}}{37}{subsection.4.5.2}%
-\contentsline {section}{\numberline {4.6}狼捕食兔子模型}{37}{section.4.6}%
-\contentsline {section}{\numberline {4.7}导弹追踪目标问题}{37}{section.4.7}%
-\contentsline {section}{\numberline {4.8}森林救火模型}{37}{section.4.8}%
+\contentsline {subsection}{\numberline {4.5.2}问题的提出}{37}{subsection.4.5.2}%
+\contentsline {subsection}{\numberline {4.5.3}模型假设}{37}{subsection.4.5.3}%
+\contentsline {subsection}{\numberline {4.5.4}模型的建立与求解}{37}{subsection.4.5.4}%
+\contentsline {subsubsection}{解决该问题的方法依赖以下事实}{37}{subsection.4.5.4}%
+\contentsline {subsection}{\numberline {4.5.5}结论}{38}{subsection.4.5.5}%
+\contentsline {section}{\numberline {4.6}狼捕食兔子模型}{38}{section.4.6}%
+\contentsline {section}{\numberline {4.7}导弹追踪目标问题}{38}{section.4.7}%
+\contentsline {section}{\numberline {4.8}森林救火模型}{38}{section.4.8}%
 \contentsline {chapter}{\numberline {第五章\hspace {.3em}}线性规划模型}{39}{chapter.5}%
 \contentsline {section}{\numberline {5.1}线性规划模型实例}{39}{section.5.1}%
 \contentsline {section}{\numberline {5.2}线性规划问题}{39}{section.5.2}%
