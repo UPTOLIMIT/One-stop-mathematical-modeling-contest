@@ -96,11 +96,6 @@
 \contentsline {subsection}{\numberline {4.5.4}模型的建立与求解}{37}{subsection.4.5.4}%
 \contentsline {subsubsection}{解决该问题的方法依赖以下事实}{37}{subsection.4.5.4}%
 \contentsline {subsection}{\numberline {4.5.5}结论}{38}{subsection.4.5.5}%
-\contentsline {section}{\numberline {4.6}狼捕食兔子模型}{38}{section.4.6}%
-\contentsline {subsection}{\numberline {4.6.1}}{38}{subsection.4.6.1}%
-\contentsline {subsection}{\numberline {4.6.2}}{38}{subsection.4.6.2}%
-\contentsline {section}{\numberline {4.7}导弹追踪目标问题}{38}{section.4.7}%
-\contentsline {section}{\numberline {4.8}森林救火模型}{38}{section.4.8}%
 \contentsline {chapter}{\numberline {第五章\hspace {.3em}}线性规划模型}{39}{chapter.5}%
 \contentsline {section}{\numberline {5.1}线性规划模型实例}{39}{section.5.1}%
 \contentsline {section}{\numberline {5.2}线性规划问题}{39}{section.5.2}%
@@ -121,34 +116,91 @@
 \contentsline {section}{\numberline {7.1}决策模型的概念及分类}{43}{section.7.1}%
 \contentsline {section}{\numberline {7.2}风险型决策}{43}{section.7.2}%
 \contentsline {section}{\numberline {7.3}不确定型决策}{43}{section.7.3}%
-\contentsline {part}{第三部分\hspace {1em}算法案例}{45}{part.3}%
-\contentsline {part}{第四部分\hspace {1em}数据预处理}{47}{part.4}%
-\contentsline {part}{第五部分\hspace {1em}数据可视化}{49}{part.5}%
-\contentsline {chapter}{\numberline {第八章\hspace {.3em}}可视化基础}{51}{chapter.8}%
-\contentsline {section}{\numberline {8.1}绪论}{51}{section.8.1}%
-\contentsline {section}{\numberline {8.2}字体}{51}{section.8.2}%
-\contentsline {section}{\numberline {8.3}颜色}{51}{section.8.3}%
-\contentsline {chapter}{\numberline {第九章\hspace {.3em}}统计图表}{53}{chapter.9}%
-\contentsline {section}{\numberline {9.1}线型图}{53}{section.9.1}%
-\contentsline {subsection}{\numberline {9.1.1}简单的线型图}{53}{subsection.9.1.1}%
-\contentsline {subsection}{\numberline {9.1.2}自定义虚线样式}{54}{subsection.9.1.2}%
-\contentsline {subsection}{\numberline {9.1.3}误差限制选择线}{55}{subsection.9.1.3}%
-\contentsline {subsection}{\numberline {9.1.4}误差带曲线}{57}{subsection.9.1.4}%
-\contentsline {section}{\numberline {9.2}柱状图}{58}{section.9.2}%
-\contentsline {subsection}{\numberline {9.2.1}简单的柱状图}{58}{subsection.9.2.1}%
-\contentsline {subsection}{\numberline {9.2.2}水平条形图}{59}{subsection.9.2.2}%
-\contentsline {subsection}{\numberline {9.2.3}带有误差线的柱状图}{60}{subsection.9.2.3}%
-\contentsline {subsection}{\numberline {9.2.4}带标签的分组柱状图}{61}{subsection.9.2.4}%
-\contentsline {subsection}{\numberline {9.2.5}离散分布条形图}{63}{subsection.9.2.5}%
-\contentsline {subsection}{\numberline {9.2.6}破碎的条形图}{64}{subsection.9.2.6}%
-\contentsline {section}{\numberline {9.3}散点图}{66}{section.9.3}%
-\contentsline {section}{\numberline {9.4}饼图}{66}{section.9.4}%
-\contentsline {section}{\numberline {9.5}地图}{66}{section.9.5}%
-\contentsline {section}{\numberline {9.6}热力图}{66}{section.9.6}%
-\contentsline {section}{\numberline {9.7}表格}{66}{section.9.7}%
-\contentsline {section}{\numberline {9.8}形象化描述}{66}{section.9.8}%
-\contentsline {section}{\numberline {9.9}地图}{66}{section.9.9}%
-\contentsline {section}{\numberline {9.10}热力图}{66}{section.9.10}%
-\contentsline {chapter}{\numberline {第十章\hspace {.3em}}数值参数}{67}{chapter.10}%
-\contentsline {part}{第六部分\hspace {1em}LATEX论文写作}{69}{part.6}%
-\contentsline {chapter}{\numberline {附录 A\hspace {.3em}}Angular CLI}{71}{appendix.A}%
+\contentsline {part}{第三部分\hspace {1em}数学建模思想}{45}{part.3}%
+\contentsline {chapter}{\numberline {第八章\hspace {.3em}}预测与预报}{47}{chapter.8}%
+\contentsline {section}{\numberline {8.1}灰色预测模型}{47}{section.8.1}%
+\contentsline {section}{\numberline {8.2}微分方程预测}{47}{section.8.2}%
+\contentsline {section}{\numberline {8.3}回归分析预测}{47}{section.8.3}%
+\contentsline {section}{\numberline {8.4}马尔科夫预测}{47}{section.8.4}%
+\contentsline {section}{\numberline {8.5}时间序列预测}{47}{section.8.5}%
+\contentsline {section}{\numberline {8.6}小波分析预测}{47}{section.8.6}%
+\contentsline {section}{\numberline {8.7}神经网络预测}{47}{section.8.7}%
+\contentsline {section}{\numberline {8.8}混沌序列预测}{47}{section.8.8}%
+\contentsline {chapter}{\numberline {第九章\hspace {.3em}}评价与决策}{49}{chapter.9}%
+\contentsline {section}{\numberline {9.1}模糊综合评价}{49}{section.9.1}%
+\contentsline {section}{\numberline {9.2}主成分分析}{49}{section.9.2}%
+\contentsline {section}{\numberline {9.3}层次分析法（AHP）}{49}{section.9.3}%
+\contentsline {section}{\numberline {9.4}因子分析}{49}{section.9.4}%
+\contentsline {section}{\numberline {9.5}数据包络（DEA）分析法}{49}{section.9.5}%
+\contentsline {section}{\numberline {9.6}秩和比综合评价法}{49}{section.9.6}%
+\contentsline {section}{\numberline {9.7}优劣解距离法（TOPSIS）}{49}{section.9.7}%
+\contentsline {section}{\numberline {9.8}投影寻踪综合评价法}{49}{section.9.8}%
+\contentsline {section}{\numberline {9.9}方差分析与协方差分析}{49}{section.9.9}%
+\contentsline {chapter}{\numberline {第十章\hspace {.3em}}聚类和判别}{51}{chapter.10}%
+\contentsline {section}{\numberline {10.1}距离聚类（常用）}{51}{section.10.1}%
+\contentsline {section}{\numberline {10.2}关联性聚类（常用）}{51}{section.10.2}%
+\contentsline {section}{\numberline {10.3}层次聚类}{51}{section.10.3}%
+\contentsline {section}{\numberline {10.4}密度聚类}{51}{section.10.4}%
+\contentsline {section}{\numberline {10.5}其他聚类}{51}{section.10.5}%
+\contentsline {section}{\numberline {10.6}贝叶斯判别（统计判别方法）}{51}{section.10.6}%
+\contentsline {section}{\numberline {10.7}费舍尔判别（训练样本较多）}{51}{section.10.7}%
+\contentsline {section}{\numberline {10.8}模糊识别（分好类的数据点较少）}{51}{section.10.8}%
+\contentsline {chapter}{\numberline {第十一章\hspace {.3em}}关联与因果}{53}{chapter.11}%
+\contentsline {section}{\numberline {11.1}灰色关联分析方法}{53}{section.11.1}%
+\contentsline {section}{\numberline {11.2}Sperman或kendall等级相关分析}{53}{section.11.2}%
+\contentsline {section}{\numberline {11.3}Person相关}{53}{section.11.3}%
+\contentsline {section}{\numberline {11.4}Copula相关}{53}{section.11.4}%
+\contentsline {section}{\numberline {11.5}典型相关分析}{53}{section.11.5}%
+\contentsline {section}{\numberline {11.6}标准化回归分析}{53}{section.11.6}%
+\contentsline {section}{\numberline {11.7}生存分析（事件史分析）}{53}{section.11.7}%
+\contentsline {section}{\numberline {11.8}格兰杰因果检验}{53}{section.11.8}%
+\contentsline {chapter}{\numberline {第十二章\hspace {.3em}}优化与控制}{55}{chapter.12}%
+\contentsline {section}{\numberline {12.1}线性规划、整数规划、0-1规划}{55}{section.12.1}%
+\contentsline {section}{\numberline {12.2}非线性规划与智能优化算法}{55}{section.12.2}%
+\contentsline {section}{\numberline {12.3}多目标规划}{55}{section.12.3}%
+\contentsline {section}{\numberline {12.4}动态规划}{55}{section.12.4}%
+\contentsline {section}{\numberline {12.5}网络优化}{55}{section.12.5}%
+\contentsline {section}{\numberline {12.6}排队论与计算机仿真}{55}{section.12.6}%
+\contentsline {section}{\numberline {12.7}模糊规划}{55}{section.12.7}%
+\contentsline {section}{\numberline {12.8}灰色规划}{55}{section.12.8}%
+\contentsline {part}{第四部分\hspace {1em}数学建模算法}{57}{part.4}%
+\contentsline {chapter}{\numberline {第十三章\hspace {.3em}}蒙特卡洛算法}{59}{chapter.13}%
+\contentsline {chapter}{\numberline {第十四章\hspace {.3em}}数据处理算法}{61}{chapter.14}%
+\contentsline {chapter}{\numberline {第十五章\hspace {.3em}}规划类算法}{63}{chapter.15}%
+\contentsline {chapter}{\numberline {第十六章\hspace {.3em}}图论算法}{65}{chapter.16}%
+\contentsline {chapter}{\numberline {第十七章\hspace {.3em}}计算机算法}{67}{chapter.17}%
+\contentsline {chapter}{\numberline {第十八章\hspace {.3em}}智能优化算法}{69}{chapter.18}%
+\contentsline {chapter}{\numberline {第十九章\hspace {.3em}}网格算法与穷举算法}{71}{chapter.19}%
+\contentsline {chapter}{\numberline {第二十章\hspace {.3em}}一些离散化算法}{73}{chapter.20}%
+\contentsline {chapter}{\numberline {第二十一章\hspace {.3em}}数值分析算法}{75}{chapter.21}%
+\contentsline {chapter}{\numberline {第二十二章\hspace {.3em}}图像处理算法}{77}{chapter.22}%
+\contentsline {part}{第五部分\hspace {1em}数据预处理}{79}{part.5}%
+\contentsline {part}{第六部分\hspace {1em}数据可视化}{81}{part.6}%
+\contentsline {chapter}{\numberline {第二十三章\hspace {.3em}}可视化基础}{83}{chapter.23}%
+\contentsline {section}{\numberline {23.1}绪论}{83}{section.23.1}%
+\contentsline {section}{\numberline {23.2}字体}{83}{section.23.2}%
+\contentsline {section}{\numberline {23.3}颜色}{83}{section.23.3}%
+\contentsline {chapter}{\numberline {第二十四章\hspace {.3em}}统计图表}{85}{chapter.24}%
+\contentsline {section}{\numberline {24.1}线型图}{85}{section.24.1}%
+\contentsline {subsection}{\numberline {24.1.1}简单的线型图}{85}{subsection.24.1.1}%
+\contentsline {subsection}{\numberline {24.1.2}自定义虚线样式}{86}{subsection.24.1.2}%
+\contentsline {subsection}{\numberline {24.1.3}误差限制选择线}{87}{subsection.24.1.3}%
+\contentsline {subsection}{\numberline {24.1.4}误差带曲线}{89}{subsection.24.1.4}%
+\contentsline {section}{\numberline {24.2}柱状图}{90}{section.24.2}%
+\contentsline {subsection}{\numberline {24.2.1}简单的柱状图}{90}{subsection.24.2.1}%
+\contentsline {subsection}{\numberline {24.2.2}水平条形图}{91}{subsection.24.2.2}%
+\contentsline {subsection}{\numberline {24.2.3}带有误差线的柱状图}{92}{subsection.24.2.3}%
+\contentsline {subsection}{\numberline {24.2.4}带标签的分组柱状图}{93}{subsection.24.2.4}%
+\contentsline {subsection}{\numberline {24.2.5}离散分布条形图}{95}{subsection.24.2.5}%
+\contentsline {subsection}{\numberline {24.2.6}破碎的条形图}{96}{subsection.24.2.6}%
+\contentsline {section}{\numberline {24.3}散点图}{98}{section.24.3}%
+\contentsline {section}{\numberline {24.4}饼图}{98}{section.24.4}%
+\contentsline {section}{\numberline {24.5}地图}{98}{section.24.5}%
+\contentsline {section}{\numberline {24.6}热力图}{98}{section.24.6}%
+\contentsline {section}{\numberline {24.7}表格}{98}{section.24.7}%
+\contentsline {section}{\numberline {24.8}形象化描述}{98}{section.24.8}%
+\contentsline {section}{\numberline {24.9}地图}{98}{section.24.9}%
+\contentsline {section}{\numberline {24.10}热力图}{98}{section.24.10}%
+\contentsline {chapter}{\numberline {第二十五章\hspace {.3em}}数值参数}{99}{chapter.25}%
+\contentsline {part}{第七部分\hspace {1em}LATEX论文写作}{101}{part.7}%
+\contentsline {chapter}{\numberline {附录 A\hspace {.3em}}Angular CLI}{103}{appendix.A}%
