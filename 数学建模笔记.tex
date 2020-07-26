@@ -1091,7 +1091,16 @@ x(t)=x(0)e^{-{r\over V}t}
 \part{数学建模思想}
 \chapter{预测与预报}
 \section{灰色预测模型}
-$P1\_20min$
+\subsection{灰色预测模型的介绍}
+\indent 灰色预测模型实际上是建立在微分方程的基础上的。灰色的概念是相对白色和黑色而言的，即部分信息已知，部分信息未知。灰色模型就是对既含有已知信息又含有不确定信息的系统进行预测，就是对在一定范围内变化的、与时间有关的灰色过程进行预测。\\
+\indent 灰色预测对原始数据进行生成处理来寻找系统变动的规律，并生成有较强规律性的数据序列，然后建立相应的微分方程模型，从而预测事物未来发展趋势的情况。
+\subsection{GM(1,1)模型(Gray Model)}
+\indent GM(1,1)是使用原始的离散非负数据列，第一个‘1’表示微分方程是一阶的，后面的‘1’表示只有一个变量。GM(1,1)模型通过一次累加生成削弱随机性的较有规律的新的离散数据列，然后通过建立微分方程模型，得到在离散点处的解经过累减生成的原始数据的近似估计值，从而预测原始数据的后续发展。
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.6 \textwidth]{figs/chapter8/GM11}
+\caption{GM(1,1)模型原理示意图}
+\end{figure}
 \section{微分方程预测}
 \section{回归分析预测}
 \section{马尔科夫预测}
@@ -1170,7 +1179,7 @@ $P1\_20min$
 ]{code/lines/SimpleLine.py}
 \begin{figure}[H]
 \centering
-\includegraphics[width=0.6 \textwidth]{figs/chapter9/lines/SimpleLine}
+\includegraphics[width=0.6 \textwidth]{figs/chapter24/lines/SimpleLine}
 \caption{简单的线型图}
 \end{figure}
 
@@ -1182,7 +1191,7 @@ $P1\_20min$
 ]{code/lines/CustomizeLineStyle.py}
 \begin{figure}[H]
 \centering
-\includegraphics[width=0.6 \textwidth]{figs/chapter9/lines/CustomizeLineStyle}
+\includegraphics[width=0.6 \textwidth]{figs/chapter24/lines/CustomizeLineStyle}
 \caption{自定义虚线样式}
 \end{figure}
 \subsection{误差限制选择线}
@@ -1193,7 +1202,7 @@ $P1\_20min$
 ]{code/lines/UpLowErrorBar.py}
 \begin{figure}[H]
 \centering
-\includegraphics[width=0.6 \textwidth]{figs/chapter9/lines/UpLowErrorBar}
+\includegraphics[width=0.6 \textwidth]{figs/chapter24/lines/UpLowErrorBar}
 \caption{竖直方向误差限制选择线}
 \end{figure}
 \lstinputlisting[
@@ -1203,7 +1212,7 @@ $P1\_20min$
 ]{code/lines/XYErrorBar.py}
 \begin{figure}[H]
 \centering
-\includegraphics[width=0.6 \textwidth]{figs/chapter9/lines/XYErrorBar}
+\includegraphics[width=0.6 \textwidth]{figs/chapter24/lines/XYErrorBar}
 \caption{水平方向误差限制选择线}
 \end{figure}
 
@@ -1215,7 +1224,7 @@ $P1\_20min$
 ]{code/lines/ErrorBandCurve.py}
 \begin{figure}[H]
 \centering
-\includegraphics[width=0.6 \textwidth]{figs/chapter9/lines/ErrorBandCurve}
+\includegraphics[width=0.6 \textwidth]{figs/chapter24/lines/ErrorBandCurve}
 \caption{误差带曲线}
 \end{figure}
 
@@ -1230,7 +1239,7 @@ $P1\_20min$
 ]{code/bars/SimpleBar.py}
 \begin{figure}[H]
 \centering
-\includegraphics[width=0.6 \textwidth]{figs/chapter9/bars/SimpleBar}
+\includegraphics[width=0.6 \textwidth]{figs/chapter24/bars/SimpleBar}
 \caption{简单的柱状图}
 \end{figure}
 
@@ -1242,7 +1251,7 @@ $P1\_20min$
 ]{code/bars/HorizontalBar.py}
 \begin{figure}[H]
 \centering
-\includegraphics[width=0.6 \textwidth]{figs/chapter9/bars/HorizontalBar}
+\includegraphics[width=0.6 \textwidth]{figs/chapter24/bars/HorizontalBar}
 \caption{水平条形图}
 \end{figure}
 
@@ -1254,7 +1263,7 @@ $P1\_20min$
 ]{code/bars/StackedBar.py}
 \begin{figure}[H]
 \centering
-\includegraphics[width=0.6 \textwidth]{figs/chapter9/bars/StackedBar}
+\includegraphics[width=0.6 \textwidth]{figs/chapter24/bars/StackedBar}
 \caption{带误差线的堆叠柱状图}
 \end{figure}
 
@@ -1266,7 +1275,7 @@ $P1\_20min$
 ]{code/bars/GroupedBar.py}
 \begin{figure}[H]
 \centering
-\includegraphics[width=0.6 \textwidth]{figs/chapter9/bars/GroupedBar}
+\includegraphics[width=0.6 \textwidth]{figs/chapter24/bars/GroupedBar}
 \caption{带标签的分组柱状图}
 \end{figure}
 
@@ -1278,7 +1287,7 @@ $P1\_20min$
 ]{code/bars/DiscreteDistributionBar.py}
 \begin{figure}[H]
 \centering
-\includegraphics[width=0.6 \textwidth]{figs/chapter9/bars/DiscreteDistributionBar}
+\includegraphics[width=0.6 \textwidth]{figs/chapter24/bars/DiscreteDistributionBar}
 \caption{离散分布条形图}
 \end{figure}
 \subsection{破碎的条形图}
@@ -1289,7 +1298,7 @@ $P1\_20min$
 ]{code/bars/BrokenBar.py}
 \begin{figure}[H]
 \centering
-\includegraphics[width=0.6 \textwidth]{figs/chapter9/bars/BrokenBar}
+\includegraphics[width=0.6 \textwidth]{figs/chapter24/bars/BrokenBar}
 \caption{破碎的条形图}
 \end{figure}
 

@@ -119,13 +119,15 @@
 \contentsline {part}{第三部分\hspace {1em}数学建模思想}{45}{part.3}%
 \contentsline {chapter}{\numberline {第八章\hspace {.3em}}预测与预报}{47}{chapter.8}%
 \contentsline {section}{\numberline {8.1}灰色预测模型}{47}{section.8.1}%
-\contentsline {section}{\numberline {8.2}微分方程预测}{47}{section.8.2}%
-\contentsline {section}{\numberline {8.3}回归分析预测}{47}{section.8.3}%
-\contentsline {section}{\numberline {8.4}马尔科夫预测}{47}{section.8.4}%
-\contentsline {section}{\numberline {8.5}时间序列预测}{47}{section.8.5}%
-\contentsline {section}{\numberline {8.6}小波分析预测}{47}{section.8.6}%
-\contentsline {section}{\numberline {8.7}神经网络预测}{47}{section.8.7}%
-\contentsline {section}{\numberline {8.8}混沌序列预测}{47}{section.8.8}%
+\contentsline {subsection}{\numberline {8.1.1}灰色预测模型的介绍}{47}{subsection.8.1.1}%
+\contentsline {subsection}{\numberline {8.1.2}GM(1,1)模型(Gray Model)}{47}{subsection.8.1.2}%
+\contentsline {section}{\numberline {8.2}微分方程预测}{48}{section.8.2}%
+\contentsline {section}{\numberline {8.3}回归分析预测}{48}{section.8.3}%
+\contentsline {section}{\numberline {8.4}马尔科夫预测}{48}{section.8.4}%
+\contentsline {section}{\numberline {8.5}时间序列预测}{48}{section.8.5}%
+\contentsline {section}{\numberline {8.6}小波分析预测}{48}{section.8.6}%
+\contentsline {section}{\numberline {8.7}神经网络预测}{48}{section.8.7}%
+\contentsline {section}{\numberline {8.8}混沌序列预测}{48}{section.8.8}%
 \contentsline {chapter}{\numberline {第九章\hspace {.3em}}评价与决策}{49}{chapter.9}%
 \contentsline {section}{\numberline {9.1}模糊综合评价}{49}{section.9.1}%
 \contentsline {section}{\numberline {9.2}主成分分析}{49}{section.9.2}%
