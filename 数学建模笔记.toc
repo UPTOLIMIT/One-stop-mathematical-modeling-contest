@@ -121,6 +121,8 @@
 \contentsline {section}{\numberline {8.1}灰色预测模型}{47}{section.8.1}%
 \contentsline {subsection}{\numberline {8.1.1}灰色预测模型的介绍}{47}{subsection.8.1.1}%
 \contentsline {subsection}{\numberline {8.1.2}GM(1,1)模型(Gray Model)}{47}{subsection.8.1.2}%
+\contentsline {subsubsection}{模型介绍}{47}{subsection.8.1.2}%
+\contentsline {subsubsection}{模型原理}{48}{figure.caption.22}%
 \contentsline {section}{\numberline {8.2}微分方程预测}{48}{section.8.2}%
 \contentsline {section}{\numberline {8.3}回归分析预测}{48}{section.8.3}%
 \contentsline {section}{\numberline {8.4}马尔科夫预测}{48}{section.8.4}%

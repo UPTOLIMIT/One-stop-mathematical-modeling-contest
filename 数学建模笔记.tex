@@ -1095,12 +1095,21 @@ x(t)=x(0)e^{-{r\over V}t}
 \indent 灰色预测模型实际上是建立在微分方程的基础上的。灰色的概念是相对白色和黑色而言的，即部分信息已知，部分信息未知。灰色模型就是对既含有已知信息又含有不确定信息的系统进行预测，就是对在一定范围内变化的、与时间有关的灰色过程进行预测。\\
 \indent 灰色预测对原始数据进行生成处理来寻找系统变动的规律，并生成有较强规律性的数据序列，然后建立相应的微分方程模型，从而预测事物未来发展趋势的情况。
 \subsection{GM(1,1)模型(Gray Model)}
+\subsubsection{模型介绍}
 \indent GM(1,1)是使用原始的离散非负数据列，第一个‘1’表示微分方程是一阶的，后面的‘1’表示只有一个变量。GM(1,1)模型通过一次累加生成削弱随机性的较有规律的新的离散数据列，然后通过建立微分方程模型，得到在离散点处的解经过累减生成的原始数据的近似估计值，从而预测原始数据的后续发展。
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.6 \textwidth]{figs/chapter8/GM11}
 \caption{GM(1,1)模型原理示意图}
 \end{figure}
+\subsubsection{模型原理}
+\indent 设$x^{(0)}=(x^{(0)}(1),x^{(0)}(2),\cdots,x^{(0)}(n))$是最初的非负数据列，我们对其进行一次累加得到新的生成数据列$x^{(1)}$，记位$x^{(0)}$的$1-AGO(Accumulating\quad Generation\quad Operator)$序列:
+\begin{equation}\nonumber
+x^{(1)}=(x^{(1)}(1),x^{(1)}(2),\cdots,x^{(1)}(n))
+\end{equation}
+\indent 其中$x^{(1)}(m)=\mathop{\sum}\limits_{i=1}^m{x^{(0)}(i)},m=1,2,\cdots,n$
+
+
 \section{微分方程预测}
 \section{回归分析预测}
 \section{马尔科夫预测}
