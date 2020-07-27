@@ -63,7 +63,15 @@
   columnsep=1cm,
   columnseprule=true
 ]
-
+%==========超链接
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=blue,      
+    urlcolor=blue,
+    citecolor=cyan,
+}
 
 \begin{document}
 
@@ -1093,7 +1101,8 @@ x(t)=x(0)e^{-{r\over V}t}
 \section{灰色预测模型}
 \subsection{灰色预测模型的介绍}
 \indent 灰色预测模型实际上是建立在微分方程的基础上的。灰色的概念是相对白色和黑色而言的，即部分信息已知，部分信息未知。灰色模型就是对既含有已知信息又含有不确定信息的系统进行预测，就是对在一定范围内变化的、与时间有关的灰色过程进行预测。\\
-\indent 灰色预测对原始数据进行生成处理来寻找系统变动的规律，并生成有较强规律性的数据序列，然后建立相应的微分方程模型，从而预测事物未来发展趋势的情况。
+\indent 灰色预测对原始数据进行生成处理来寻找系统变动的规律，并生成有较强规律性的数据序列，然后建立相应的微分方程模型，从而预测事物未来发展趋势的情况。\\
+\indent 灰色建模的宗旨是将数据列简称微分方程模型，但是由于微分方程只适合连续可微函数，而时间序列数据非连续，更谈不上可微性，因此灰色预测建模得到的是近似微分方程，称之为灰色微分方程
 \subsection{GM(1,1)模型(Gray Model)}
 \subsubsection{模型介绍}
 \indent GM(1,1)是使用原始的离散非负数据列，第一个‘1’表示微分方程是一阶的，后面的‘1’表示只有一个变量。GM(1,1)模型通过一次累加生成削弱随机性的较有规律的新的离散数据列，然后通过建立微分方程模型，得到在离散点处的解经过累减生成的原始数据的近似估计值，从而预测原始数据的后续发展。
@@ -1154,6 +1163,76 @@ x^{(0)}(k)=-az^{(1)}(k)+b\Rightarrow y=kx+b
 \includegraphics[width=0.45 \textwidth]{figs/chapter8/紧邻均值生成序列拟合}
 \caption{紧邻均值生成序列拟合示意图}
 \end{figure}
+\indent 利用OLS估计我们能得到${\hat a}$和${\hat b}$，即$x^{(0)}(k)=-{\hat a}z^{(1)}(k)+{\hat b}\quad (k=2,3,\cdots,n)$\\
+\indent $x^{(0)}(k)=-{\hat a}z^{(1)}(k)+{\hat b}\Rightarrow x^{(1)}(k)-x^{(1)}(k-1)=-{\hat a}z^{(1)}(k)+{\hat b}$\\
+\indent $x^{(1)}(k)-x^{(1)}(k-1)=\int_{k - 1}^k {\frac{{d{x^{(1)}}(t)}}{{dt}}dt} $（牛顿-莱布尼茨公式）\\ 
+\indent $z^{(1)}(k)={{x^{(1)}(k)+x^{(1)}(k-1)}\over{2}}\approx \int_{k - 1}^k {{x^{(1)}}(t)dt} $（定积分的几何意义）\\
+\indent $\int_{k - 1}^k {\frac{{d{x^{(1)}}(t)}}{{dt}}dt}  \approx  - \hat a\int_{k - 1}^k {{x^{(1)}}(t)dt + \int_{k - 1}^k {\hat bdt = \int_{k - 1}^k {[ - \hat a{x^{(1)}}(t) + \hat b]dt} } } $\\
+\indent 其中微分方程$\frac{{d{x^{(1)}}(t)}}{{dt}} =  - \hat a{x^{(1)}}(t) + \hat b$被称为GM(1,1)模型的白化方程；GM(1,1)模型的基本形式$x^{(0)}(k)+az^{(1)}(k)=b$则被称为灰色微分方程。\\
+\indent 对于白化方程，如果我们取初始值${\hat x^{(1)}}(t)\left| {_{t = 1} = {x^{(0)}}(1)} \right.$，我们可以求出其对应的解为：
+\begin{equation}
+{\hat x^{(1)}}(t) = \left[ {{x^{(0)}}(1) - \frac{{\hat b}}{{\hat a}}} \right]{e^{ - \hat a(t - 1)}} + \frac{{\hat b}}{{\hat a}}
+\end{equation}
+\indent 所以${\hat x^{(1)}}(m + 1) = \left[ {{x^{(0)}}(1) - \frac{{\hat b}}{{\hat a}}} \right]{e^{ - \hat am}} + \frac{{\hat b}}{{\hat a}},m = 1,2, \cdots ,n - 1$\\
+\indent 由于${x^{(1)}}(m) = \sum\limits_{i = 1}^m {{x^{(0)}}(i),m = 1,2, \cdots ,n} $,所以我们可以得到：
+\begin{equation}
+{\hat x^{(0)}}(m + 1) = {\hat x^{(1)}}(m + 1) - {\hat x^{(1)}}(m) = (1 - {e^{\hat a}})\left[ {{x^{(0)}}(1) - \frac{{\hat b}}{{\hat a}}} \right]{e^{ - \hat am}},m = 1,2, \cdots ,n - 1
+\end{equation}
+\indent 如果要对原始数据进行预测，只需要在上式取$m\ge n$即可。由上式也可以看出,对于序列$x^{(1)}(k)$，GM(1,1)模型的本质是有条件的指数拟合：$f(x)=C_1e^{C_2(x-1)}$
+\subsubsection{最小二乘估计原理(OLS)}
+\indent 公式(8.1)的推导如下：\\
+\indent $y_i=kx_i+b+u_i$\\
+\indent ${\hat k,\hat b}=\mathop {\arg \min }\limits_{k,b} {\hat u_i}^2 = \mathop {\arg \min }\limits_{k,b} \sum\limits_{i = 1}^n {{{({y_i} - k{x_i} - b)}^2}}$ \\
+\indent $\mbox{令}L=\mathop{\sum}\limits_{i=1}^n(y_i-kx_i-b)^2=[y_1-kx_1-b,y_2-kx_2-b,\cdots,y_n-kx_n-b]\left[ {\begin{array}{*{20}{c}}
+{{y_1} - k{x_1} - b}\\
+{{y_2} - k{x_2} - b}\\
+ \vdots \\
+{{y_n} - k{x_n} - b}
+\end{array}} \right]
+$\\
+$\indent \mbox{令矩阵}Y = \left[ {\begin{array}{*{20}{c}}
+{{y_1}}\\
+{{y_2}}\\
+ \vdots \\
+{{y_n}}
+\end{array}} \right],X = \left[ {\begin{array}{*{20}{c}}
+1&{{x_1}}\\
+1&{{x_2}}\\
+ \vdots & \vdots \\
+1&{{x_n}}
+\end{array}} \right],\beta  = \left[ {\begin{array}{*{20}{c}}
+b\\
+k
+\end{array}} \right]$\\
+\indent $\mbox{则}X\beta  = \left[ {\begin{array}{*{20}{c}}
+{b + k{x_1}}\\
+{b + k{x_2}}\\
+ \vdots \\
+{b + k{x_n}}
+\end{array}} \right],Y - X\beta  = \left[ {\begin{array}{*{20}{c}}
+{{y_1} - k{x_1} - b}\\
+{{y_2} - k{x_2} - b}\\
+ \vdots \\
+{{y_n} - k{x_n} - b}
+\end{array}} \right]$\\
+\indent 所以有$L =(Y-X\beta)^T(Y-X\beta)=(Y^T-\beta^TX^T)(Y-X\beta)=Y^TY-Y^TX\beta-\beta^TX^TY+\beta^TX^TX\beta$\\
+\indent 则 ${\hat \beta}=\left[ {\begin{array}{*{20}{c}}
+{\hat b}\\
+{\hat k}
+\end{array}} \right] = \mathop {\arg \min }\limits_\beta  ({Y^T}Y - {Y^T}X\beta  - {\beta ^T}{X^T}Y + {\beta ^T}{X^T}X\beta )$\\
+\indent ${\frac{{\partial L}}{{\partial \beta }}} =  - {X^T}Y - {X^T}Y + 2{X^T}X\beta  = 0 \Rightarrow {X^T}X\beta  = {X^T}Y$\\
+\indent 所以${\hat \beta}=(X^TX)^{-1}X^TY$ \\
+\indent 矩阵求导知识参考\href{https://blog.csdn.net/lipengcn/article/details/52815429}{常用的向量矩阵求导公式} 
+\subsubsection{准指数规律的检验}
+\indent 要想较好的应用灰色预测模型，必须了解：
+\begin{enumerate}[itemindent=2em]
+\item 数据具有准指数规律，这是使用灰色预测建模的理论基础。
+\item 累加$r$次的序列为：$x^{(r)}=(x^{(r)}(1),x^{(2)}(2),\cdots,x^{(2)}(n))$，定义{\bf 级比}:$\sigma (k) = \frac{{{x^{(r)}}(k)}}{{{x^{(r)}}(k - 1)}},k = 2,3, \cdots ,n$，{\bf 光滑比}:$\rho(k)={{x^{(0)}(k)}\over{x^{(1)}(k-1)}}$
+\item 如果$\forall k,\sigma(k)\in[a,b]$，且区间长度$\delta=b-a<0.5$，则称累加$r$次后的序列具有准指数规律
+\item 具体到GM(1,1)模型中，我们只需要判断累加一次后的序列$x^{(1)}=(x^{(1)}(1),x^{(1)}(2),\cdots,x^{(1)}(n))$是否具有准指数规律。
+\end{enumerate}
+\indent \indent 根据上述公式：序列$x^{(1)}$的级比$\sigma (k) = \frac{{{x^{(1)}}(k)}}{{{x^{(1)}}(k - 1)}} = \frac{{{x^{(0)}}(k) + {x^{(1)}}(k - 1)}}{{{x^{(1)}}(k - 1)}} = \frac{{{x^{(0)}}k}}{{{x^{(1)}}(k - 1)}} + 1$；原式序列$x^{(0)}$光滑比$\rho (k) = \frac{{{x^{(0)}}(k)}}{{{x^{(0)}}(1) + {x^{(0)}}(2) + \cdots +{x^{(0)}}(k - 1)}}$，假设$x^{(0)}$为非负序列(生活中常见的时间序列几乎都满足非负性),那么随着$k$的增加，最终$\rho\to 0$。\\
+\indent 因此要使得$x^{(1)}$具有准指数规律，即$\forall k$，区间长度$\delta<0.5$，只需要保证$\rho(k)\in (0,0.5)$即可，此时序列$x^{(1)}$的级比$\sigma(k)\in(1,1.5)$。实际建模中，我们要计算出$\rho(k)\in (0,0.5)$的占比，占比越高越好（一般前两期$\rho(2)$和$\rho(3)$可能不符合要求，我们重点关注后面的期数）
 \section{微分方程预测}
 \section{回归分析预测}
 \section{马尔科夫预测}
