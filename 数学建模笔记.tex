@@ -1103,13 +1103,57 @@ x(t)=x(0)e^{-{r\over V}t}
 \caption{GM(1,1)模型原理示意图}
 \end{figure}
 \subsubsection{模型原理}
-\indent 设$x^{(0)}=(x^{(0)}(1),x^{(0)}(2),\cdots,x^{(0)}(n))$是最初的非负数据列，我们对其进行一次累加得到新的生成数据列$x^{(1)}$，记位$x^{(0)}$的$1-AGO(Accumulating\quad Generation\quad Operator)$序列:
+\indent 设$x^{(0)}=(x^{(0)}(1),x^{(0)}(2),\cdots,x^{(0)}(n))$是最初的非负数据列，我们对其进行一次累加得到新的生成数据列$x^{(1)}$，记为$x^{(0)}$的$1-AGO(Accumulating\quad Generation\quad Operator)$序列:
 \begin{equation}\nonumber
 x^{(1)}=(x^{(1)}(1),x^{(1)}(2),\cdots,x^{(1)}(n))
 \end{equation}
-\indent 其中$x^{(1)}(m)=\mathop{\sum}\limits_{i=1}^m{x^{(0)}(i)},m=1,2,\cdots,n$
-
-
+\indent 其中$x^{(1)}(m)=\mathop{\sum}\limits_{i=1}^m{x^{(0)}(i)},m=1,2,\cdots,n$.\\
+\indent 令$z^{(1)}(m)=\delta x^{(1)}(m)+(1-\delta)x^{(1)}(m-1),m=2,3,\cdots,n$且$\delta=0.5$
+\begin{figure}[H]
+\centering
+\subfigure[]{
+\label{Fig.sub.1}
+\includegraphics[width=0.3 \textwidth]{./figs/chapter8/GM11-2}}
+\subfigure[]{
+\label{Fig.sub.2}
+\includegraphics[width=0.3\textwidth]{./figs/chapter8/紧邻均值生成序列}}
+\caption{GM(1,1)模型原理示意图}
+\end{figure}
+\indent 我们称方程$x^{(0)}(k)+az^{(1)}(k)=b$为GM(1,1)模型的基本形式$(k=2,3,\cdots,n)$。其中，$b$表示灰作用量，$-a$表示发展系数。\\
+\indent 我们引入矩阵形式：
+\begin{equation}\nonumber
+u = {(a,b)^T},Y = \left[ {\begin{array}{*{20}{c}}
+{{x^{(0)}}(2)}\\
+{{x^{(0)}}(3)}\\
+ \vdots \\
+{{x^{(0)}}(n)}
+\end{array}} \right],B = \left[ {\begin{array}{*{20}{c}}
+{ - {z^{(1)}}(2)}&1\\
+{ - {z^{(1)}}(3)}&1\\
+ \vdots & \vdots \\
+{ - {z^{(1)}}(n)}&1
+\end{array}} \right]
+\end{equation}
+\indent 于是，GM(1,1)模型$x^{(0)}(k)+az^{(1)}{k}=b$可表示为
+\begin{equation}\nonumber
+Y=Bu
+\end{equation}
+\indent 我们可以利用最小二乘法得到参数$a,b$的估计值为
+\begin{equation}
+\hat u = \left( {\begin{array}{*{20}{c}}
+{\hat a}\\
+{\hat b}
+\end{array}} \right) = {\left( {{B^T}B} \right)^{ - 1}}{B^T}Y
+\end{equation}
+\indent 看起来很复杂，其实就是将$x^{(0)}$序列视为因变量$y$，$z^{(1)}$序列视为自变量$x$，进行回归。
+\begin{equation}
+x^{(0)}(k)=-az^{(1)}(k)+b\Rightarrow y=kx+b
+\end{equation}
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.45 \textwidth]{figs/chapter8/紧邻均值生成序列拟合}
+\caption{紧邻均值生成序列拟合示意图}
+\end{figure}
 \section{微分方程预测}
 \section{回归分析预测}
 \section{马尔科夫预测}
