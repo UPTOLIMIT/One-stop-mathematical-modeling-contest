@@ -1233,6 +1233,38 @@ k
 \end{enumerate}
 \indent \indent 根据上述公式：序列$x^{(1)}$的级比$\sigma (k) = \frac{{{x^{(1)}}(k)}}{{{x^{(1)}}(k - 1)}} = \frac{{{x^{(0)}}(k) + {x^{(1)}}(k - 1)}}{{{x^{(1)}}(k - 1)}} = \frac{{{x^{(0)}}k}}{{{x^{(1)}}(k - 1)}} + 1$；原式序列$x^{(0)}$光滑比$\rho (k) = \frac{{{x^{(0)}}(k)}}{{{x^{(0)}}(1) + {x^{(0)}}(2) + \cdots +{x^{(0)}}(k - 1)}}$，假设$x^{(0)}$为非负序列(生活中常见的时间序列几乎都满足非负性),那么随着$k$的增加，最终$\rho\to 0$。\\
 \indent 因此要使得$x^{(1)}$具有准指数规律，即$\forall k$，区间长度$\delta<0.5$，只需要保证$\rho(k)\in (0,0.5)$即可，此时序列$x^{(1)}$的级比$\sigma(k)\in(1,1.5)$。实际建模中，我们要计算出$\rho(k)\in (0,0.5)$的占比，占比越高越好（一般前两期$\rho(2)$和$\rho(3)$可能不符合要求，我们重点关注后面的期数）
+\subsubsection{发展系数与预测情形的关系}
+\indent GM(1,1)适用情况和发展系数的大小有很大的关系，一般情况下，发展系数越小，预测的越精确。
+\subsubsection{GM(1,1)模型的评价}
+\indent 使用GM(1,1)模型对未来的数据进行预测时，我们需要先检验GM(1,1)模型对原数据的拟合程度（对原始数据还原的效果）,一般有两种检验方法：
+\begin{enumerate}
+\item 残差检验
+\begin{itemize}
+\item 绝对残差：$\varepsilon (k) = {x^{(0)}}(k) - {\hat x^{(0)}}(k),k = 2,3, \cdots ,n$
+\item 相对残差：${\varepsilon _r}(k) = \frac{{|{x^{(0)}}(k) - {{\hat x}^{(0)}}(k)|}}{{{x^{(0)}}(k)}},k = 2,3, \cdots ,n$
+\item 平均相对残差：${\bar \varepsilon _r} = \frac{1}{{n - 1}}\sum\limits_{k = 2}^n {|{\varepsilon _r}(k)|} $\\
+\indent 如果${\bar \varepsilon _r}<20\%$，则认为GM(1,1)对原数据的拟合达到一般要求。\\
+\indent 如果${\bar \varepsilon _r}<10\%$，则认为GM(1,1)对原数据的拟合效果非常不错。
+\end{itemize}
+\item 级比偏差检验\\
+\indent 首先由$x^{(0)}(k-1)$和$x^{(0)}(0)k$计算出原始数据的级比$\sigma(k)$:
+\begin{equation}\nonumber
+\sigma (k) = \frac{{{x^{(0)}}(k)}}{{{x^{(0)}}(k - 1)}}(k = 2,3, \cdots ,n)
+\end{equation}
+\indent 再根据预测出来的发展系数$(-{\hat a})$计算出相应的级比偏差和平均级比偏差：
+\begin{equation}\nonumber
+\eta (k) = \left| {1 - \frac{{1 - 0.5\hat a}}{{1 + 0.5\hat a}}\frac{1}{{\sigma (k)}}} \right|,\bar \eta  = \frac{1}{{n - 1}}\sum\limits_{k = 2}^n {\eta (k)} 
+\end{equation}
+\indent 如果${\bar\eta}<0.2$，则认为GM(1,1)对原数据的拟合达到一般要求。\\
+\indent 如果${\bar\eta}<0.1$，则认为GM(1,1)对原数据的拟合效果非常不错。
+\end{enumerate}
+\subsubsection{灰色预测的使用场景}
+\begin{enumerate}
+\item 数据是以年份度量的非负数据（如果是月份或者季度数据一定用时间序列模型）;
+\item 数据能经过准指数规律的检验（除了前两期外，后面至少$90\%$的期数的光滑比要低于$0.5$）;
+\item 数据的期数较短且和其他数据之间的关联性不强（小于等于10，也不能太短），如果数据期数较长，一般使用传统的时间序列模型。
+\end{enumerate}
+
 \section{微分方程预测}
 \section{回归分析预测}
 \section{马尔科夫预测}

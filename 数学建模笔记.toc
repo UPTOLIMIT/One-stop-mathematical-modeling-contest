@@ -125,13 +125,16 @@
 \contentsline {subsubsection}{模型原理}{48}{figure.caption.22}%
 \contentsline {subsubsection}{最小二乘估计原理(OLS)}{50}{equation.8.1.4}%
 \contentsline {subsubsection}{准指数规律的检验}{50}{equation.8.1.4}%
-\contentsline {section}{\numberline {8.2}微分方程预测}{51}{section.8.2}%
-\contentsline {section}{\numberline {8.3}回归分析预测}{51}{section.8.3}%
-\contentsline {section}{\numberline {8.4}马尔科夫预测}{51}{section.8.4}%
-\contentsline {section}{\numberline {8.5}时间序列预测}{51}{section.8.5}%
-\contentsline {section}{\numberline {8.6}小波分析预测}{51}{section.8.6}%
-\contentsline {section}{\numberline {8.7}神经网络预测}{51}{section.8.7}%
-\contentsline {section}{\numberline {8.8}混沌序列预测}{51}{section.8.8}%
+\contentsline {subsubsection}{发展系数与预测情形的关系}{51}{Item.17}%
+\contentsline {subsubsection}{GM(1,1)模型的评价}{51}{Item.17}%
+\contentsline {subsubsection}{灰色预测的使用场景}{51}{equation.8.1.5}%
+\contentsline {section}{\numberline {8.2}微分方程预测}{52}{section.8.2}%
+\contentsline {section}{\numberline {8.3}回归分析预测}{52}{section.8.3}%
+\contentsline {section}{\numberline {8.4}马尔科夫预测}{52}{section.8.4}%
+\contentsline {section}{\numberline {8.5}时间序列预测}{52}{section.8.5}%
+\contentsline {section}{\numberline {8.6}小波分析预测}{52}{section.8.6}%
+\contentsline {section}{\numberline {8.7}神经网络预测}{52}{section.8.7}%
+\contentsline {section}{\numberline {8.8}混沌序列预测}{52}{section.8.8}%
 \contentsline {chapter}{\numberline {第九章\hspace {.3em}}评价与决策}{53}{chapter.9}%
 \contentsline {section}{\numberline {9.1}模糊综合评价}{53}{section.9.1}%
 \contentsline {section}{\numberline {9.2}主成分分析}{53}{section.9.2}%
