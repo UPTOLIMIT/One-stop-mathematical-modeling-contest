@@ -1271,6 +1271,15 @@ k
 \section{时间序列预测}
 \section{小波分析预测}
 \section{神经网络预测}
+\subsection{BP神经网络}
+\subsubsection{误差逆传播算法}
+\indent 给定训练集$D=\{(x_1,y_1),(x_2,y_2),\cdots,(x_m,y_m) \},x_i\in \mathbb{R}^l,y_i\in \mathbb{R}^l$，即输入示例由$d$个属性描述，输出$l$维实值向量。如下所示：
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.6 \textwidth]{figs/chapter8/BP神经网络}
+\caption{BP神经网络及算法中的变量符号}
+\end{figure}
+
 \section{混沌序列预测}
 \chapter{评价与决策}
 \section{模糊综合评价}
@@ -1327,7 +1336,120 @@ k
 \chapter{图像处理算法}
 
 
-\part{数据预处理}
+\part{数据分析}
+\chapter{数据预处理}
+\section{数据清洗}
+\subsection{缺失值处理}
+\indent 缺失值处理的方法可分为3类：删除记录、数据插补和不处理，常用的插补方法有：
+\begin{table}[h]
+\centering
+\begin{tabular}{|c|l|}
+\hline
+{\bf 插补方法} & {\bf 方法描述}\\
+\hline
+均值/中位数/众数插补 & 根据属性值类型，用该属性取值的平均数/中位数/众数进行插补\\
+\hline
+使用固定值 & 将缺失的属性值用一个常量替换\\
+\hline
+最近邻插补 & 在记录中找到与缺失值样本最接近的样本的属性值插补\\
+\hline
+回归方法 & 根据已有数据和有关的其他变量建立拟合模型来预测缺失的属性值\\
+\hline
+插值法 & 利用已知点建立合适的插值函数$f(x)$，未知值由对应点$x_i$求出的函数值$f(x_i)$近似代替\\
+\hline
+\end{tabular}
+\caption{常用的插补方法}
+\end{table}
+
+\subsection{异常值处理}
+\indent 异常值处理常用方法如下：
+\begin{table}[h]
+\centering
+\begin{tabular}{|c|l|}
+\hline
+{\bf 异常值处理方法}&{\bf 方法描述}\\
+\hline
+删除含有异常值的记录 & 直接将含有异常值的记录删除\\
+\hline
+视为缺失值 & 将异常值视为缺失值，利用缺失值处理的方法进行处理\\
+\hline
+平均值修正 & 可用前后两个观测值的平均值修正该异常值\\
+\hline
+不处理 & 直接在具有异常值的数据集上进行挖掘建模\\
+\hline
+\end{tabular}
+\caption{常用的异常处理方法}
+\end{table}
+\section{数据集成}
+\subsection{实体识别}
+\indent 实体识别是指从不同数据源识别出现实世界的实体，它的任务是统一不同源数据的矛盾之处，常见形式如下：
+\begin{enumerate}
+\item 同名异义\\
+\indent 数据源A中的属性$ID$和数据源B中的属性$ID$分别描述的是菜品编号和订单编号，即描述的是不同的实体。
+\item 异名同义\\
+\indent 数据源A中的$sales\_dt$和数据源B中的$sales\_date$都是描述销售日期的，即$A.sales\_dt=B.sales\_date$
+\item 单位不统一\\
+\indent 分别用不同的单位描述同一个实体
+\end{enumerate}
+\subsection{冗余属性识别}
+\indent 数据集成往往会导致数据冗余，例如
+\begin{enumerate}[itemindent=2em]
+\item 同一属性多次出现；
+\item 同一属性命名不一致导致重复
+\end{enumerate}
+\indent \indent 仔细整合不同源数据能减少甚至避免数据冗余不一致，从而提高数据挖掘的速度和质量。对于冗余属性要先分析，检测到后再将其删除。\\
+\indent 有些冗余属性可以用相关分析检测。给定两个数值型的属性A和属性B，根据其属性值，用相关系数度量一个属性在多大程度上蕴含另一个属性。
+\section{数据变换}
+\subsection{简单函数变换}
+\indent 简单函数变换常用来将不具有正态分布的数据变换成具有正态分布的数据。在时间序列分析中，有时简单的对数变换或者差分运算就可以将非平稳序列转换成平稳序列。在数据挖掘中，简单的函数变换可能更有必要，比如个人年收入的取值范围为$10000$元到$10$亿元，这是一个很大的区间，使用对数变换将其进行压缩是常用的一种变换处理方法。常用的变换包括平方、开方、取对数、差分运算等，即：
+\begin{equation}\nonumber
+\begin{aligned}
+x'&=x^2\\
+x'&=\sqrt{x}\\
+x'&=log(x)\\
+\nabla f(x_k)&=f(x_{k+1})-f(x_k)
+\end{aligned}
+\end{equation}
+\subsection{数据规范化}
+\indent 数据规范化也叫数据归一化，是数据挖掘的一项基础工作，不同评价指标往往具有不同的量纲，数值之间的差别可能很大，不进行处理可能会影响到数据分析的结果。为了消除指标之间的量纲和取值范围差异的影响，需要进行标准化处理，将数据按照比例进行缩放，使之落入一个待定的区域，便于进行综合分析。数据规范化对于基于距离的挖掘算法尤为重要。
+\begin{enumerate}[itemindent=2em]
+\item 最小-最大规范化\\
+\indent 最小最大规范化也成为离差标准化，是对原始数据的线性变换，将数值值映射到$[0,1]$之间。转换公式如下：
+\begin{equation}
+x^*={{x-min}\over{max-min}}
+\end{equation}
+\indent 离差标准化保留了原来数据中存在的关系。这种处理方法的缺点是若数值集中且某个数值很大，则规范化后各值会接近于$0$，并且会相差不大。若将来遇到超过目前属性$[min,max]$取值范围的时候，会引起系统出错，需要重新确定$min$和$max$。
+\item 零-均值规范化\\
+\indent 零-均值规范化也称标准差标准化，经过处理的数据的均值为0，标准差为1。转化公式为：
+\begin{equation}
+x^*={{x-{\bar x}}\over{\sigma}}
+\end{equation}
+\indent 其中${\bar x}$是原始数据的均值，$\sigma$是原始数据的标准差。是当前用的最多的数据标准化方法。
+\item 小数定标规范化\\
+\indent 通过移动属性值的小数位数，将属性值映射到$[-1,1]$之间，移动的小数位数取决于属性值绝对值的最大值。转化公式为：
+\begin{equation}
+x^*={{x}\over{10^k}}
+\end{equation}
+\end{enumerate}
+\subsection{连续属性离散化}
+\subsubsection{离散化的过程}
+\indent 连续属性得到离散化就是在数据的取值范围内设定若干个离散的划分点，将取值范围划分为一些离散化的区间，最后用不同的符号或整数值代表落在每个子区间中的数据值。所以离散化主要分为两个过程：确定分类数和如何将连续属性值映射到这些分类值。
+\subsubsection{常用的离散化方法}
+常用的离散化方法有等宽法、等频法和（一维）聚类：
+\begin{enumerate}
+\item 等宽法\\
+\indent 将属性的值域分成具有相同宽度的区间，区间的个数由数据本身的特点决定，或者由用户指定，类似制作频率分布表。
+\item 等频法\\
+\indent 将相同数量的记录放进每个区间
+\item 基于聚类分析的方法\\
+\indent 一维聚类的方法包括两个步骤，首先将连续属性的值用作聚类算法（如K-Means算法）进行聚类，然后再将聚类得到的簇进行处理，合并到一个簇的连续属性值并做同一标记。聚类分析的离散化方法也需要用户指定簇的个数，从而决定产生的区间数。
+\end{enumerate}
+\subsection{属性构造}
+\subsection{小波变换}
+\section{数据规约}
+\subsection{属性规约}
+\subsection{数值规约}
+
 \part{数据可视化}
 \chapter{可视化基础}
 \section{绪论}
