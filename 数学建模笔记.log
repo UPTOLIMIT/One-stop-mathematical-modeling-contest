@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.6.11)  28 JUL 2020 20:03
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.6.11)  28 JUL 2020 22:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3179,18 +3179,29 @@ LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
 (Font)              scaled to size 8.4315pt on input line 1390.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
 (Font)              scaled to size 6.32362pt on input line 1390.
- [86] [87] [88]
-Overfull \hbox (110.76843pt too wide) in paragraph at lines 1453--1453
+ [86] [87]
+
+LaTeX Warning: Command \~ invalid in math mode on input line 1454.
+
+Missing character: There is no ̃ in font cmmi10!
+File: figs/chapter23/属性规约常用方法.png Graphic file (type bmp)
+<figs/chapter23/属性规约常用方法.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [88]
+[89] [90]
+Overfull \hbox (110.76843pt too wide) in paragraph at lines 1510--1510
 [][]\TU/LibertinusSerif(0)/b/it/48 PART VI[] 
  []
 
-[89
-
-] [90]
-第二十四章
 [91
 
-] [92
+] [92]
+第二十四章
+[93
+
+] [94
 
 ]
 第二十五章
@@ -3198,12 +3209,12 @@ Overfull \hbox (110.76843pt too wide) in paragraph at lines 1453--1453
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 )
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 1465.
+nput line 1522.
 Requested font "FontAwesome/OT:language=dflt;" at 10.53937pt
  -> D:/texlive/2020/texmf-dist/fonts/opentype/public/fontawesome/FontAwesome.ot
 f
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
-(Font)              scaled to size 9.03374pt on input line 1465.
+(Font)              scaled to size 9.03374pt on input line 1522.
 Requested font "[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;+tnu
 m;+onum;mapping=tex-text;" at 9.03374pt
  -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
@@ -3213,7 +3224,7 @@ Requested font "FZHei-B01/OT" at 9.0337pt
 Requested font "FZHei-B01/OT" at 9.03377pt
  -> D:/texlive/2020/texmf-dist/fonts/opentype/public/xits/FZHei-B01.ttf
 LaTeX Font Info:    Font shape `TU/LibertinusMono(0)/m/n' will be
-(Font)              scaled to size 7.82925pt on input line 1465.
+(Font)              scaled to size 7.82925pt on input line 1522.
 Requested font "[LibertinusMono-Regular.otf]/OT:script=latn;language=dflt;exten
 d=0.8;+tnum; +onum;mapping=tex-text;" at 7.82925pt
  -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
@@ -3225,7 +3236,7 @@ File: figs/chapter24/lines/SimpleLine.png Graphic file (type bmp)
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [93]
+ [95]
 (./code/lines/CustomizeLineStyle.py
 Requested font "FZHei-B01/OT:script=hani;language=dflt;mapping=tex-text;" at 9.
 03374pt
@@ -3236,81 +3247,81 @@ File: figs/chapter24/lines/CustomizeLineStyle.png Graphic file (type bmp)
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [94]
-(./code/lines/UpLowErrorBar.py) [95]
+ [96]
+(./code/lines/UpLowErrorBar.py) [97]
 File: figs/chapter24/lines/UpLowErrorBar.png Graphic file (type bmp)
 <figs/chapter24/lines/UpLowErrorBar.png>
  (./code/lines/XYErrorBar.py)
 File: figs/chapter24/lines/XYErrorBar.png Graphic file (type bmp)
 <figs/chapter24/lines/XYErrorBar.png>
- [96]
-(./code/lines/ErrorBandCurve.py [97])
+ [98]
+(./code/lines/ErrorBandCurve.py [99])
 File: figs/chapter24/lines/ErrorBandCurve.png Graphic file (type bmp)
 <figs/chapter24/lines/ErrorBandCurve.png>
- (./code/bars/SimpleBar.py [98])
+ (./code/bars/SimpleBar.py [100])
 File: figs/chapter24/bars/SimpleBar.png Graphic file (type bmp)
 <figs/chapter24/bars/SimpleBar.png>
 
-(./code/bars/HorizontalBar.py [99])
+(./code/bars/HorizontalBar.py [101])
 File: figs/chapter24/bars/HorizontalBar.png Graphic file (type bmp)
 <figs/chapter24/bars/HorizontalBar.png>
- (./code/bars/StackedBar.py [100])
+ (./code/bars/StackedBar.py [102])
 File: figs/chapter24/bars/StackedBar.png Graphic file (type bmp)
 <figs/chapter24/bars/StackedBar.png>
 
-(./code/bars/GroupedBar.py [101])
+(./code/bars/GroupedBar.py [103])
 File: figs/chapter24/bars/GroupedBar.png Graphic file (type bmp)
 <figs/chapter24/bars/GroupedBar.png>
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [102]
-(./code/bars/DiscreteDistributionBar.py [103])
+ [104]
+(./code/bars/DiscreteDistributionBar.py [105])
 File: figs/chapter24/bars/DiscreteDistributionBar.png Graphic file (type bmp)
 <figs/chapter24/bars/DiscreteDistributionBar.png>
  (./code/bars/BrokenBar.py
-[104])
+[106])
 File: figs/chapter24/bars/BrokenBar.png Graphic file (type bmp)
 <figs/chapter24/bars/BrokenBar.png>
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [105]
-[106]
+ [107]
+[108]
 第二十六章
-[107
+[109
 
-] [108
+] [110
 
 ]
-Overfull \hbox (127.61644pt too wide) in paragraph at lines 1600--1600
+Overfull \hbox (127.61644pt too wide) in paragraph at lines 1657--1657
 [][]\TU/LibertinusSerif(0)/b/it/48 PART VII[] 
  []
 
-[109] [110]
+[111] [112]
 附录 A
 (d:/texlive/2020/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 )
 (d:/texlive/2020/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
-) [111
+) [113
 
 
 ]
-Package atenddvi Info: Last page = 126.
- [112
+Package atenddvi Info: Last page = 128.
+ [114
 
 ]
 runsystem(makeindex 数学建模笔记.idx)...executed safely (allowed).
 
 
 (./数学建模笔记.ind)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1635.
-Package atveryend Info: Executing hook `AfterLastShipout' on input line 1635.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1692.
+Package atveryend Info: Executing hook `AfterLastShipout' on input line 1692.
  (./数学建模笔记.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1635.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1635.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1692.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1692.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -3319,15 +3330,15 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1635.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1692.
  ) 
 Here is how much of TeX's memory you used:
- 46830 strings out of 479284
- 947082 string characters out of 5884020
- 1646748 words of memory out of 5000000
- 63541 multiletter control sequences out of 15000+600000
+ 46870 strings out of 479284
+ 949070 string characters out of 5884020
+ 1647056 words of memory out of 5000000
+ 63570 multiletter control sequences out of 15000+600000
  539332 words of font info for 162 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  67i,22n,125p,954b,2044s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on 数学建模笔记.pdf (126 pages).
+Output written on 数学建模笔记.pdf (128 pages).

@@ -1452,9 +1452,59 @@ x^*={{x}\over{10^k}}
 \mbox{线损率}={{\mbox{供入电量}-\mbox{供出电量}}\over\mbox{供入电量}}\times 100\%
 \end{equation}
 \indent 线损率的正常范围一般在$3\% \~15\%$，如果远远超出该范围，就可以认为该条线路的大用户很可能存在窃漏电等用电异常行为。
-\subsection{小波变换}
+
 \section{数据规约}
 \subsection{属性规约}
+\indent 属性规约通过属性合并来创建新属性维数，或者直接通过删除不相关的属性来减少数据维数，从而提高数据挖掘的效率、降低计算成本。属性规约的目标是寻找出最小的属性子集并确保新数据子集的概率分布尽可能地接近原来数据集的概率分布。属性规约常用方法如下表：
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8 \textwidth]{figs/chapter23/属性规约常用方法}
+\caption{属性规约常用方法}
+\end{figure}
+\indent 主成分分析是一种用于连续属性的数据降维方法，它构造了原始数据的一个正交变换，新空间的基底去除了原始空间基底下数据的相关性，只需要使用少数新变量就能够解释原始数据中的大部分变异。在应用中通常是选出比原始变量个数少，能解释大部分数据中的变量的几个新变量，即所谓主成分，来代替原始变量进行建模。\\
+\indent 主成分分析的计算步骤如下：
+\begin{enumerate}[itemindent=2em]
+\item 设原始变量$X_1,X_2,\cdots,X_p$的$n$次观测数据矩阵为：
+\begin{equation}
+X = \left[ {\begin{array}{*{20}{c}}
+{{x_{11}}}&{{x_{12}}}& \cdots &{{x_{1p}}}\\
+{{x_{21}}}&{{x_{22}}}& \cdots &{{x_{2p}}}\\
+ \vdots & \vdots & \vdots & \vdots \\
+{{x_{n1}}}&{{x_{n2}}}& \cdots &{{x_{np}}}
+\end{array}} \right] = \left( {{X_1},{X_2}, \cdots ,{X_P}} \right)
+\end{equation}
+\item 将数据矩阵按列进行中心标准化。为了方便，将标准化后的数据矩阵仍然记位$X$。
+\item 求相关系数矩阵$R$，$R={(r_{ij})}_{p\times p}$，$r_{ij}$的定义为：
+\begin{equation}
+{r_{ij}} = \frac{{\sum\limits_{k = 1}^n {({x_{ki}} - {{\bar x}_i})({x_{kj}} - {{\bar x}_j})} }}{{\sqrt {\sum\limits_{k = 1}^n {{{({x_{ki}} - {{\bar x}_i})}^2}\sum\limits_{k = 1}^n {{{({x_{kj}} - {{\bar x}_j})}^2}} } } }}
+\end{equation}
+\indent 其中，$r_{ij}=r_{ji},r_{ii}=1$。
+\item 求$R$的特征方程$det(R-\lambda E)=0$的特征根$\lambda_1\ge\lambda_2\ge\lambda_p>0$。
+\item 确定主成分个数$m$:$\frac{{\sum\limits_{i = 1}^m {{\lambda _i}} }}{{\sum\limits_{i = 1}^p {{\lambda _i}} }} \ge \alpha $，$\alpha$根据实际问题确定，一般取$80\%$。
+\item 计算$m$个相应的单位特征向量：
+\begin{equation}
+{\beta _1} = \left[ {\begin{array}{*{20}{c}}
+{{\beta _{11}}}\\
+{{\beta _{21}}}\\
+ \vdots \\
+{{\beta _{p1}}}
+\end{array}} \right],{\beta _2} = \left[ {\begin{array}{*{20}{c}}
+{{\beta _{12}}}\\
+{{\beta _{22}}}\\
+ \vdots \\
+{{\beta _{p2}}}
+\end{array}} \right], \cdots ,\left[ {\begin{array}{*{20}{c}}
+{{\beta _{1m}}}\\
+{{\beta _{2m}}}\\
+ \vdots \\
+{{\beta _{pm}}}
+\end{array}} \right]
+\end{equation}
+\item 计算主成分：
+\begin{equation}
+{Z_i} = {\beta _{1i}}{X_1} + {\beta _{2i}}{X_2} +  \cdots  + {\beta _{pi}}{X_p},i = 1,2, \cdots ,m
+\end{equation}
+\end{enumerate}
 \subsection{数值规约}
 
 \part{数据可视化}
