@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.6.11)  28 JUL 2020 22:16
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.6.11)  28 JUL 2020 22:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3335,10 +3335,10 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1692.
 Here is how much of TeX's memory you used:
  46870 strings out of 479284
  949070 string characters out of 5884020
- 1647056 words of memory out of 5000000
+ 1647068 words of memory out of 5000000
  63570 multiletter control sequences out of 15000+600000
  539332 words of font info for 162 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 67i,22n,125p,954b,2044s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 67i,22n,125p,954b,2047s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on 数学建模笔记.pdf (128 pages).
