@@ -1279,6 +1279,82 @@ k
 \includegraphics[width=0.6 \textwidth]{figs/chapter8/BP神经网络}
 \caption{BP神经网络及算法中的变量符号}
 \end{figure}
+\indent 图中给出了一个拥有$d$个输入神经元、$l$个输出神经元、$q$个隐层神经元的多层前馈网络结构，其中输出层第$j$个神经元的阈值用$\theta_j$表示，隐层第$h$个神经元的阈值用$\gamma_h$表示.输入层第$i$个神经元与隐层第$h$个神经元之间的连接权重为$v_{ih}$，隐层第$h$个神经元与输出层第$j$个神经元之间的连接权重为$w_{hj}$.记隐层第$h$个神经元接收到的输入为$\alpha_h=\sum\limits_{i = 1}^d {{v_{ih}}{x_i}}$,输出层第$j$个神经元接收到的输入为$\beta_j=\sum\limits_{h = 1}^q {{w_{hj}}{b_h}}$,其中$b_h$为隐层第$h$个神经元的输出.假设隐层和输出层神经元都是用sigmoid函数$sigmoid(x)={1\over {1+{e^{-x}}}}$作为激活函数.\\
+\indent 对训练样例$(x_k,y_k)$，假定神经网络的输出为${\hat y}_k=\left({\hat y}_1^k,{\hat y}_2^k,\cdots,{\hat y}_l^k\right)$，即
+\begin{equation}
+{\hat y}_j^k=f{\left( \beta_j-\theta_j\right)}
+\end{equation}
+\indent 则网络在$(x_k,y_k)$上的均方误差为
+\begin{equation}
+E_k={1\over 2}{\sum\limits_{j = 1}^l {{{(\hat y_j^k - y_j^k)}^2}} }
+\end{equation}
+\indent 图8.4中的网络中有$(d+l+1)q+l$个参数需确定：输入层到隐层的$d\times q$个权值、隐层到输出层的$q\times l$个权值、$q$个隐层神经元的阈值、$l$个输出层神经元的阈值.BP是一个迭代学习算法，在迭代的每一轮中采用广义的感知机学习规则对参数进行更新估计，任意参数$v$的更新估计式为
+\begin{equation}
+v\leftarrow v+\Delta v
+\end{equation}
+\indent 下面我们以图8.4中隐层到输出层的连接权$w_{hj}$为例来进行推导.\\
+\indent BP算法基于梯度下降(gradient descent)策略，以目标的负梯度方向对参数进行调整.对式(8.6)的误差$E_k$，给定学习率$\eta$，有
+\begin{equation}
+\Delta{w_{hj}}= - \eta \frac{{\partial {E_k}}}{{\partial {w_{hj}}}}
+\end{equation}
+\indent 注意到$w_{hj}$先影响到第$j$个输出层神经元的输入值$\beta_j$，再影响到其输出值${\hat y}_j^k$，然后再影响到$E_k$，有
+\begin{equation}
+\frac{{\partial {E_k}}}{{\partial {w_{hj}}}} = \frac{{\partial {E_k}}}{{\partial \hat y_j^k}} \cdot \frac{{\partial \hat y_j^k}}{{\partial {\beta _j}}} \cdot \frac{{\partial {\beta _j}}}{{\partial {w_{hj}}}}
+\end{equation}
+\indent 根据$\beta_j$的定义，显然有
+\begin{equation}
+\frac{{\partial {\beta _j}}}{{\partial {w_{hj}}}} = {b_h}
+\end{equation}
+\indent sigmoid函数有一个很好的性质：
+\begin{equation}
+f'(x)=f(x)(1-f(x))
+\end{equation}
+\indent 于是根据式(8.6)和(8.5)，有
+\begin{equation}
+\begin{aligned}
+g_j& = - \frac{{\partial {E_k}}}{{\partial \hat y_j^k}} \cdot \frac{{\partial \hat y_j^k}}{{\partial {\beta _j}}}\\
+&= - \left( {\hat y_j^k - y_j^k} \right)f'\left( {{\beta _j} - {\theta _j}} \right)\\
+&=\hat y_j^k\left( {1 - \hat y_j^k} \right)\left( {y_j^k - \hat y_j^k} \right)
+\end{aligned}
+\end{equation}
+\indent 将式(8.12)和(8.10)代入式(8.9)，再代入式(8.8),得到BP算法中关于$w_{hj}$的更新公式
+\begin{equation}
+    \Delta w_{hj}={\eta} {g_j} {b_h}
+\end{equation}
+\indent 类似可得
+\begin{equation}
+    \Delta\theta_j=-{\eta}g_j
+\end{equation}
+\begin{equation}
+    \Delta v_{ih}={\eta}e_hx_i
+\end{equation}
+\begin{equation}
+    \Delta \gamma_h=-{\eta}e_h
+\end{equation}
+\indent 式(8.15)和(8.16)中
+\begin{equation}
+\begin{aligned}
+    e_h&= - \frac{{\partial {E_k}}}{{\partial {b_h}}} \cdot \frac{{\partial {b_h}}}{{\partial {\alpha _h}}}\\
+       &= - \sum\limits_{j = 1}^l {\frac{{\partial {E_k}}}{{\partial {\beta _j}}} \cdot \frac{{\partial {\beta _j}}}{{\partial {b_h}}}f'\left( {{\alpha _h} - {\gamma _h}} \right)} \\
+       &=\sum\limits_{j = 1}^l {{w_{hj}}{g_j}f'\left( {{\alpha _h} - {\gamma _h}} \right)} \\
+       &={b_h}\left( {1 - {b_h}} \right)\sum\limits_{j = 1}^l {{w_{hj}}{g_j}} 
+\end{aligned}
+\end{equation}
+\indent 学习率$\eta\in(0,1)$控制着算法每一轮迭代的更新步长，若太大则容易震荡，太小则收敛速度又会过慢.有时，为了做精细调节，可令式(8.13)和(8.14)用$\eta_1$，式(8.15)和(8.16)用$\eta_2$，$\eta_1$和$\eta_2$不一定相等.
+\indent 下图给出了BP算法的工作流程.
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.6 \textwidth]{figs/chapter8/误差逆传播算法}
+    \caption{误差逆传播算法}
+\end{figure}
+\indent 对每个训练样例，BP算法执行以下操作：
+\begin{enumerate}[itemindent=2em]
+    \item 先将输入示例提供给输入层神经元，然后逐层将信号前传，直到产生输出层的结果；
+    \item 然后计算输出层的误差（第4-5行），再将误差逆向传播至隐层神经元（第6行）；
+    \item 最后根据隐层神经元的误差来对连接权和阈值进行调整（第7行）；
+    \item 迭代过程循环进行，直到满足终止条件为止.
+\end{enumerate}
+
 
 \section{混沌序列预测}
 \chapter{评价与决策}
@@ -1451,7 +1527,7 @@ x^*={{x}\over{10^k}}
 \begin{equation}
 \mbox{线损率}={{\mbox{供入电量}-\mbox{供出电量}}\over\mbox{供入电量}}\times 100\%
 \end{equation}
-\indent 线损率的正常范围一般在$3\% \~15\%$，如果远远超出该范围，就可以认为该条线路的大用户很可能存在窃漏电等用电异常行为。
+\indent 线损率的正常范围一般在$3\% \~{}15\%$，如果远远超出该范围，就可以认为该条线路的大用户很可能存在窃漏电等用电异常行为。
 
 \section{数据规约}
 \subsection{属性规约}

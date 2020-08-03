@@ -1,55 +1,44 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.6.11)  28 JUL 2020 22:24
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.6.11)  3 AUG 2020 15:07
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
-**数学建模笔记.tex
-(./数学建模笔记.tex
+**c:/Users/zerox/Desktop/数学建模课程笔记/数学建模笔记
+(c:/Users/zerox/Desktop/数学建模课程笔记/数学建模笔记.tex
 LaTeX2e <2020-02-02> patch level 5
 L3 programming layer <2020-06-03> (./progbookcn.cls
-Document Class: progbookcn Jun, 2018 Yet Another LaTeX Template for Programming
- or Technical Books
-(d:/texlive/2020/texmf-dist/tex/latex/ctex/ctexbook.cls
-(d:/texlive/2020/texmf-dist/tex/latex/ctex/config/ctexbackend.cfg
+Document Class: progbookcn Jun, 2018 Yet Another LaTeX Template for Programming or Technical Books
+(d:/texlive/2020/texmf-dist/tex/latex/ctex/ctexbook.cls (d:/texlive/2020/texmf-dist/tex/latex/ctex/config/ctexbackend.cfg
 File: ctexbackend.cfg 2020/06/06 v2.5.3 Backend configuration file (CTEX)
-)
-(d:/texlive/2020/texmf-dist/tex/latex/l3kernel/expl3.sty
+) (d:/texlive/2020/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2020-06-03 L3 programming layer (loader) 
-
-(d:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def
+ (d:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def
 File: l3backend-xdvipdfmx.def 2020-06-03 L3 backend support: xdvipdfmx
 \g__graphics_track_int=\count163
 \l__pdf_internal_box=\box45
 \g__pdf_backend_object_int=\count164
 \g__pdf_backend_annotation_int=\count165
 ))
-Document Class: ctexbook 2020/06/06 v2.5.3 Chinese adapter for class book (CTEX
-)
+Document Class: ctexbook 2020/06/06 v2.5.3 Chinese adapter for class book (CTEX)
 (d:/texlive/2020/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 Package: xparse 2020-05-15 L3 Experimental document command parser
-
-(d:/texlive/2020/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.tex
+ (d:/texlive/2020/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.tex
 \l__xparse_current_arg_int=\count166
 \g__xparse_grabber_int=\count167
 \l__xparse_m_args_int=\count168
 \l__xparse_v_nesting_int=\count169
-))
-(d:/texlive/2020/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+)) (d:/texlive/2020/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
 Package: l3keys2e 2020-05-15 LaTeX2e option processing using LaTeX3 keys
-)
-(d:/texlive/2020/texmf-dist/tex/latex/ctex/ctexhook.sty
+) (d:/texlive/2020/texmf-dist/tex/latex/ctex/ctexhook.sty
 Package: ctexhook 2020/06/06 v2.5.3 Document and package hooks (CTEX)
-)
-(d:/texlive/2020/texmf-dist/tex/latex/ctex/ctexpatch.sty
+) (d:/texlive/2020/texmf-dist/tex/latex/ctex/ctexpatch.sty
 Package: ctexpatch 2020/06/06 v2.5.3 Patching commands (CTEX)
-)
-(d:/texlive/2020/texmf-dist/tex/latex/base/fix-cm.sty
+) (d:/texlive/2020/texmf-dist/tex/latex/base/fix-cm.sty
 Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
-
-(d:/texlive/2020/texmf-dist/tex/latex/base/ts1enc.def
+ (d:/texlive/2020/texmf-dist/tex/latex/base/ts1enc.def
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
-))
-(d:/texlive/2020/texmf-dist/tex/latex/ms/everysel.sty
+)) (d:/texlive/2020/texmf-dist/tex/latex/ms/everysel.sty
 Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 )
 \l__ctex_tmp_int=\count170
@@ -57,11 +46,9 @@ Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 \l__ctex_tmp_dim=\dimen134
 \g__ctex_section_depth_int=\count171
 \g__ctex_font_size_int=\count172
-
-(d:/texlive/2020/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
+ (d:/texlive/2020/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
 File: ctexopts.cfg 2020/06/06 v2.5.3 Option configuration file (CTEX)
-)
-(d:/texlive/2020/texmf-dist/tex/latex/base/book.cls
+) (d:/texlive/2020/texmf-dist/tex/latex/base/book.cls
 Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
 (d:/texlive/2020/texmf-dist/tex/latex/base/bk10.clo
 File: bk10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
@@ -78,14 +65,11 @@ File: bk10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen135
-)
-(d:/texlive/2020/texmf-dist/tex/latex/ctex/engine/ctex-engine-xetex.def
+) (d:/texlive/2020/texmf-dist/tex/latex/ctex/engine/ctex-engine-xetex.def
 File: ctex-engine-xetex.def 2020/06/06 v2.5.3 XeLaTeX adapter (CTEX)
-
-(d:/texlive/2020/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
+ (d:/texlive/2020/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
 Package: xeCJK 2020/06/06 v3.8.4 Typesetting CJK scripts with XeLaTeX
-
-(d:/texlive/2020/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
+ (d:/texlive/2020/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
 Package: xtemplate 2020-05-15 L3 Experimental prototype document functions
 \l__xtemplate_tmp_dim=\dimen136
 \l__xtemplate_tmp_int=\count182
@@ -150,13 +134,10 @@ Package xtemplate Info: Declaring object type 'xeCJK/punctuation' taking 0
 \g__xeCJK_fam_allocation_int=\count192
 \l__xeCJK_verb_case_int=\count193
 \l__xeCJK_verb_exspace_skip=\skip55
-
-(d:/texlive/2020/texmf-dist/tex/latex/fontspec/fontspec.sty
+ (d:/texlive/2020/texmf-dist/tex/latex/fontspec/fontspec.sty
 Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
-
-(d:/texlive/2020/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
-Package: fontspec-xetex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTe
-X
+ (d:/texlive/2020/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
 \l__fontspec_script_int=\count194
 \l__fontspec_language_int=\count195
 \l__fontspec_strnum_int=\count196
@@ -171,41 +152,30 @@ X
 \l__fontspec_tmpa_dim=\dimen165
 \l__fontspec_tmpb_dim=\dimen166
 \l__fontspec_tmpc_dim=\dimen167
-
-(d:/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
+ (d:/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
-)
-(d:/texlive/2020/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
-(d:/texlive/2020/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
+) (d:/texlive/2020/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (d:/texlive/2020/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
 File: xeCJK.cfg 2020/06/06 v3.8.4 Configuration file for xeCJK package
 ))
 \ccwd=\dimen168
 \l__ctex_ccglue_skip=\skip56
 )
 \l__ctex_ziju_dim=\dimen169
-
-(d:/texlive/2020/texmf-dist/tex/latex/zhnumber/zhnumber.sty
+ (d:/texlive/2020/texmf-dist/tex/latex/zhnumber/zhnumber.sty
 Package: zhnumber 2020/05/01 v2.8 Typesetting numbers with Chinese glyphs
 \l__zhnum_scale_int=\count271
-
-(d:/texlive/2020/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
+ (d:/texlive/2020/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
 File: zhnumber-utf8.cfg 2020/05/01 v2.8 Chinese numerals with UTF8 encoding
 ))
 \l__ctex_heading_skip=\skip57
-
-(d:/texlive/2020/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese-book.def
-File: ctex-scheme-chinese-book.def 2020/06/06 v2.5.3 Chinese scheme for book (C
-TEX)
-
-(d:/texlive/2020/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.cfg
+ (d:/texlive/2020/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese-book.def
+File: ctex-scheme-chinese-book.def 2020/06/06 v2.5.3 Chinese scheme for book (CTEX)
+ (d:/texlive/2020/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.cfg
 File: ctex-name-utf8.cfg 2020/06/06 v2.5.3 Caption with encoding UTF-8 (CTEX)
-))
-(d:/texlive/2020/texmf-dist/tex/latex/ctex/ctex-c5size.clo
+)) (d:/texlive/2020/texmf-dist/tex/latex/ctex/ctex-c5size.clo
 File: ctex-c5size.clo 2020/06/06 v2.5.3 c5size option (CTEX)
-)
-(d:/texlive/2020/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-windows.def
-File: ctex-fontset-windows.def 2020/06/06 v2.5.3 Windows fonts definition (CTEX
-)
+) (d:/texlive/2020/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-windows.def
+File: ctex-fontset-windows.def 2020/06/06 v2.5.3 Windows fonts definition (CTEX)
 
 Package fontspec Info: Could not resolve font "KaiTi/B" (it probably doesn't
 (fontspec)             exist).
@@ -236,15 +206,11 @@ Package fontspec Info: Font family 'SimSun(0)' created for font 'SimSun' with
 (fontspec)             <->"KaiTi/OT:script=hani;language=dflt;"
 (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
 
-))
-(d:/texlive/2020/texmf-dist/tex/latex/ctex/config/ctex.cfg
+)) (d:/texlive/2020/texmf-dist/tex/latex/ctex/config/ctex.cfg
 File: ctex.cfg 2020/06/06 v2.5.3 Configuration file (CTEX)
-)
-(d:/texlive/2020/texmf-dist/tex/xelatex/xunicode/xunicode.sty
-File: xunicode.sty 2011/09/09 v0.981 provides access to latin accents and many 
-other characters in Unicode lower plane
-
-(d:/texlive/2020/texmf-dist/tex/latex/tipa/t3enc.def
+) (d:/texlive/2020/texmf-dist/tex/xelatex/xunicode/xunicode.sty
+File: xunicode.sty 2011/09/09 v0.981 provides access to latin accents and many other characters in Unicode lower plane
+ (d:/texlive/2020/texmf-dist/tex/latex/tipa/t3enc.def
 File: t3enc.def 2001/12/31 T3 encoding
 
 Package fontspec Info: Could not resolve font "Microsoft YaHei Bold/I" (it
@@ -276,43 +242,33 @@ Package fontspec Info: Font family 'MicrosoftYaHei(0)' created for font
 \tipaTiiicode=\count272
 \tipasavetokens=\toks15
 \tipachecktokens=\toks16
-
-(d:/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+ (d:/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
-
-(d:/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+ (d:/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
-)
-(d:/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+) (d:/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
-
-(d:/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+ (d:/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-)
-(d:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+) (d:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: xetex.def on input line 105.
-
-(d:/texlive/2020/texmf-dist/tex/latex/graphics-def/xetex.def
+ (d:/texlive/2020/texmf-dist/tex/latex/graphics-def/xetex.def
 File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
 ))
 \Gin@req@height=\dimen170
 \Gin@req@width=\dimen171
-))
-(d:/texlive/2020/texmf-dist/tex/latex/graphics/color.sty
+)) (d:/texlive/2020/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
-
-(d:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
+ (d:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: xetex.def on input line 147.
-)
-(d:/texlive/2020/texmf-dist/tex/latex/xcolor/xcolor.sty
+) (d:/texlive/2020/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
-
-(d:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
+ (d:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: xetex.def on input line 225.
@@ -325,65 +281,48 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
-)
-(d:/texlive/2020/texmf-dist/tex/latex/hyperref/hyperref.sty
+) (d:/texlive/2020/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
-
-(d:/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+ (d:/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
-)
-(d:/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
+) (d:/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2020/03/06 v1.0d TeX engine tests
-)
-(d:/texlive/2020/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
-Package: pdftexcmds 2020-06-04 v0.32 Utility functions of pdfTeX for LuaTeX (HO
-)
-
-(d:/texlive/2020/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+) (d:/texlive/2020/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-04 v0.32 Utility functions of pdfTeX for LuaTeX (HO)
+ (d:/texlive/2020/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode not found.
-)
-(d:/texlive/2020/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+) (d:/texlive/2020/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
-)
-(d:/texlive/2020/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+) (d:/texlive/2020/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-)
-(d:/texlive/2020/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+) (d:/texlive/2020/texmf-dist/tex/generic/pdfescape/pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-)
-(d:/texlive/2020/texmf-dist/tex/latex/hycolor/hycolor.sty
+) (d:/texlive/2020/texmf-dist/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-)
-(d:/texlive/2020/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+) (d:/texlive/2020/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
-)
-(d:/texlive/2020/texmf-dist/tex/latex/auxhook/auxhook.sty
+) (d:/texlive/2020/texmf-dist/tex/latex/auxhook/auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
-)
-(d:/texlive/2020/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+) (d:/texlive/2020/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
 )
 \@linkdim=\dimen172
 \Hy@linkcounter=\count273
 \Hy@pagecounter=\count274
-
-(d:/texlive/2020/texmf-dist/tex/latex/hyperref/pd1enc.def
+ (d:/texlive/2020/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
-)
-(d:/texlive/2020/texmf-dist/tex/generic/intcalc/intcalc.sty
+) (d:/texlive/2020/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
-)
-(d:/texlive/2020/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+) (d:/texlive/2020/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
 \Hy@SavedSpaceFactor=\count275
 Package hyperref Info: Option `unicode' set `true' on input line 4338.
-
-(d:/texlive/2020/texmf-dist/tex/latex/hyperref/puenc.def
+ (d:/texlive/2020/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2020-05-15 v7.00e Hyperref: PDF Unicode definition (HO)
 )
 Package hyperref Info: Hyper figures OFF on input line 4464.
@@ -394,20 +333,16 @@ Package hyperref Info: Backreferencing OFF on input line 4484.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4717.
 \c@Hy@tempcnt=\count276
-
-(d:/texlive/2020/texmf-dist/tex/latex/url/url.sty
+ (d:/texlive/2020/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5076.
 \XeTeXLinkMargin=\dimen173
-
-(d:/texlive/2020/texmf-dist/tex/generic/bitset/bitset.sty
+ (d:/texlive/2020/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
-
-(d:/texlive/2020/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
-Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
-)
+ (d:/texlive/2020/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
 \Fld@menulength=\count277
 \Field@Width=\dimen174
@@ -421,8 +356,7 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6372.
 Package hyperref Info: PDF/A mode OFF on input line 6377.
 LaTeX Info: Redefining \ref on input line 6417.
 LaTeX Info: Redefining \pageref on input line 6421.
-
-(d:/texlive/2020/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+ (d:/texlive/2020/texmf-dist/tex/generic/atbegshi/atbegshi.sty
 Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
 )
 \Hy@abspage=\count278
@@ -430,41 +364,32 @@ Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
 \c@Hfootnote=\count280
 )
 Package hyperref Info: Driver (autodetected): hxetex.
-
-(d:/texlive/2020/texmf-dist/tex/latex/hyperref/hxetex.def
+ (d:/texlive/2020/texmf-dist/tex/latex/hyperref/hxetex.def
 File: hxetex.def 2020-05-15 v7.00e Hyperref driver for XeTeX
-
-(d:/texlive/2020/texmf-dist/tex/generic/stringenc/stringenc.sty
-Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
-)
+ (d:/texlive/2020/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 )
 \pdfm@box=\box48
 \c@Hy@AnnotLevel=\count281
 \HyField@AnnotCount=\count282
 \Fld@listcount=\count283
 \c@bookmark@seq@number=\count284
-
-(d:/texlive/2020/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+ (d:/texlive/2020/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
-
-(d:/texlive/2020/texmf-dist/tex/latex/atveryend/atveryend.sty
+ (d:/texlive/2020/texmf-dist/tex/latex/atveryend/atveryend.sty
 Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
 Package atveryend Info: \enddocument detected (standard20110627).
-)
-(d:/texlive/2020/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+) (d:/texlive/2020/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-86.
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
 )
 \Hy@SectionHShift=\skip58
 )
 Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 26.
 Package hyperref Info: Option `colorlinks' set `true' on input line 26.
-
-(d:/texlive/2020/texmf-dist/tex/latex/graphbox/graphbox.sty
-Package: graphbox 2018/01/17 v1.1 extension for graphicx to adjust containing b
-ox
+ (d:/texlive/2020/texmf-dist/tex/latex/graphbox/graphbox.sty
+Package: graphbox 2018/01/17 v1.1 extension for graphicx to adjust containing box
 \Gin@box@box=\box49
 \Gin@box@width=\skip59
 \Gin@box@height=\skip60
@@ -472,19 +397,16 @@ ox
 \Gin@box@hspace=\skip62
 \Gin@box@bwidth=\skip63
 \Gin@box@bheight=\skip64
-)
-(d:/texlive/2020/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+) (d:/texlive/2020/texmf-dist/tex/latex/wrapfig/wrapfig.sty
 \wrapoverhang=\dimen176
 \WF@size=\dimen177
 \c@WF@wrappedlines=\count285
 \WF@box=\box50
 \WF@everypar=\toks18
 Package: wrapfig 2003/01/31  v 3.6
-)
-(d:/texlive/2020/texmf-dist/tex/latex/geometry/geometry.sty
+) (d:/texlive/2020/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
-
-(d:/texlive/2020/texmf-dist/tex/generic/iftex/ifvtex.sty
+ (d:/texlive/2020/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
 \Gm@cnth=\count286
@@ -526,8 +448,7 @@ Package fontspec Info: Could not resolve font "FZShuSong-Z01/BI" (it probably
 
 Package fontspec Info: Font family 'FZShuSong-Z01(0)' created for font
 (fontspec)             'FZShuSong-Z01' with options
-(fontspec)             [Script={CJK},BoldFont={FZHei-B01},ItalicFont={FZKai-Z03
-}].
+(fontspec)             [Script={CJK},BoldFont={FZHei-B01},ItalicFont={FZKai-Z03}].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
@@ -560,10 +481,8 @@ Package: titlesec 2019/10/16 v2.13 Sectioning titles
 \titlewidth=\dimen188
 \titlewidthlast=\dimen189
 \titlewidthfirst=\dimen190
-)
-(d:/texlive/2020/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
-s
+) (d:/texlive/2020/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footers
 \f@nch@headwidth=\skip67
 \f@nch@O@elh=\skip68
 \f@nch@O@erh=\skip69
@@ -573,8 +492,7 @@ s
 \f@nch@O@erf=\skip73
 \f@nch@O@olf=\skip74
 \f@nch@O@orf=\skip75
-)
-(d:/texlive/2020/texmf-dist/tex/latex/listings/listings.sty
+) (d:/texlive/2020/texmf-dist/tex/latex/listings/listings.sty
 \lst@mode=\count289
 \lst@gtempboxa=\box52
 \lst@token=\toks21
@@ -587,33 +505,27 @@ s
 \lst@newlines=\count293
 \lst@lineno=\count294
 \lst@maxwidth=\dimen194
-
-(d:/texlive/2020/texmf-dist/tex/latex/listings/lstmisc.sty
+ (d:/texlive/2020/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
 \c@lstnumber=\count295
 \lst@skipnumbers=\count296
 \lst@framebox=\box53
-)
-(d:/texlive/2020/texmf-dist/tex/latex/listings/listings.cfg
+) (d:/texlive/2020/texmf-dist/tex/latex/listings/listings.cfg
 File: listings.cfg 2020/03/24 1.8d listings configuration
 ))
 Package: listings 2020/03/24 1.8d (Carsten Heinz)
-
-(d:/texlive/2020/texmf-dist/tex/xelatex/xecjk/xeCJK-listings.sty
+ (d:/texlive/2020/texmf-dist/tex/xelatex/xecjk/xeCJK-listings.sty
 Package: xeCJK-listings 2020/06/06 v3.8.4 xeCJK patch file for listings
 \l__xeCJK_listings_max_char_int=\count297
 \l__xeCJK_listings_flag_int=\count298
-)
-(d:/texlive/2020/texmf-dist/tex/latex/tools/verbatim.sty
+) (d:/texlive/2020/texmf-dist/tex/latex/tools/verbatim.sty
 Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks22
 \verbatim@line=\toks23
 \verbatim@in@stream=\read2
-)
-(d:/texlive/2020/texmf-dist/tex/latex/caption/caption.sty
+) (d:/texlive/2020/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2020/05/10 v3.4j Customizing captions (AR)
-
-(d:/texlive/2020/texmf-dist/tex/latex/caption/caption3.sty
+ (d:/texlive/2020/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2020/05/10 v1.11 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 61.
 \captionmargin=\dimen195
@@ -630,40 +542,26 @@ Package caption Info: Standard document class detected.
 Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: wrapfig package is loaded.
-)
-(d:/texlive/2020/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
+) (d:/texlive/2020/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
 Package: tcolorbox 2020/04/28 version 4.30 text color boxes
-
-(d:/texlive/2020/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
-(d:/texlive/2020/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
-(d:/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+ (d:/texlive/2020/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (d:/texlive/2020/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (d:/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
 \pgfutil@everybye=\toks24
 \pgfutil@tempdima=\dimen258
 \pgfutil@tempdimb=\dimen259
-
-(d:/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex)
-) (d:/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+ (d:/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex)) (d:/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
 \pgfutil@abb=\box54
-
-(d:/texlive/2020/texmf-dist/tex/latex/ms/everyshi.sty
+ (d:/texlive/2020/texmf-dist/tex/latex/ms/everyshi.sty
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
-))
-(d:/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
-(d:/texlive/2020/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+)) (d:/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (d:/texlive/2020/texmf-dist/tex/generic/pgf/pgf.revision.tex)
 Package: pgfrcs 2020/01/08 v3.1.5b (3.1.5b)
 ))
 Package: pgf 2020/01/08 v3.1.5b (3.1.5b)
-
-(d:/texlive/2020/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
-(d:/texlive/2020/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
-(d:/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+ (d:/texlive/2020/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (d:/texlive/2020/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (d:/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
 Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
-
-(d:/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+ (d:/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
 \pgfkeys@pathtoks=\toks25
 \pgfkeys@temptoks=\toks26
-
-(d:/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+ (d:/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
 \pgfkeys@tmptoks=\toks27
 ))
 \pgf@x=\dimen260
@@ -690,61 +588,32 @@ Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
 File: pgf.cfg 2020/01/08 v3.1.5b (3.1.5b)
 )
 Driver file for pgf: pgfsys-xetex.def
-
-(d:/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xetex.def
+ (d:/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xetex.def
 File: pgfsys-xetex.def 2020/01/08 v3.1.5b (3.1.5b)
-
-(d:/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfmx.def
+ (d:/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfmx.def
 File: pgfsys-dvipdfmx.def 2020/01/08 v3.1.5b (3.1.5b)
-
-(d:/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+ (d:/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
 File: pgfsys-common-pdf.def 2020/01/08 v3.1.5b (3.1.5b)
 )
 \pgfsys@objnum=\count306
-)))
-(d:/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+))) (d:/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgfsyssoftpath@smallbuffer@items=\count307
 \pgfsyssoftpath@bigbuffer@items=\count308
-)
-(d:/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+) (d:/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )) (d:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
 Package: pgfcore 2020/01/08 v3.1.5b (3.1.5b)
-
-(d:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
-(d:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
-(d:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
-(d:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+ (d:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (d:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex (d:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (d:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
 \pgfmath@dimen=\dimen270
 \pgfmath@count=\count309
 \pgfmath@box=\box55
 \pgfmath@toks=\toks31
 \pgfmath@stack@operand=\toks32
 \pgfmath@stack@operation=\toks33
-)
-(d:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
-(d:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.te
-x)
-(d:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric
-.code.tex)
-(d:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.t
-ex)
-(d:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.co
-de.tex)
-(d:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex
-)
-(d:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.te
-x)
-(d:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex
-)
-(d:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithm
-etics.code.tex)))
-(d:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+) (d:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex (d:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (d:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (d:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (d:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (d:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (d:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (d:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (d:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex))) (d:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
 \c@pgfmathroundto@lastzeros=\count310
-))
-(d:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
-(d:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+)) (d:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (d:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgf@picminx=\dimen271
 \pgf@picmaxx=\dimen272
@@ -760,102 +629,73 @@ File: pgfcorepoints.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgf@yy=\dimen282
 \pgf@zx=\dimen283
 \pgf@zy=\dimen284
-)
-(d:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.cod
-e.tex
+) (d:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgf@path@lastx=\dimen285
 \pgf@path@lasty=\dimen286
-)
-(d:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.te
-x
+) (d:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
 File: pgfcorepathusage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgf@shorten@end@additional=\dimen287
 \pgf@shorten@start@additional=\dimen288
-)
-(d:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+) (d:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
 File: pgfcorescopes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgfpic=\box56
 \pgf@hbox=\box57
 \pgf@layerbox@main=\box58
 \pgf@picture@serial@count=\count311
-)
-(d:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code
-.tex
+) (d:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgflinewidth=\dimen289
-)
-(d:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.c
-ode.tex
+) (d:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
 File: pgfcoretransformations.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgf@pt@x=\dimen290
 \pgf@pt@y=\dimen291
 \pgf@pt@temp=\dimen292
-)
-(d:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+) (d:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-)
-(d:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+) (d:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
 File: pgfcoreobjects.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-)
-(d:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.co
-de.tex
+) (d:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
 File: pgfcorepathprocessing.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-)
-(d:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+) (d:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
 File: pgfcorearrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgfarrowsep=\dimen293
-)
-(d:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+) (d:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgf@max=\dimen294
 \pgf@sys@shading@range@num=\count312
 \pgf@shadingcount=\count313
-)
-(d:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+) (d:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-
-(d:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+ (d:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
 File: pgfcoreexternal.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgfexternal@startupbox=\box59
-))
-(d:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+)) (d:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
 File: pgfcorelayers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-)
-(d:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code
-.tex
+) (d:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
 File: pgfcoretransparency.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-)
-(d:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+) (d:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
 File: pgfcorepatterns.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 ) (d:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
 File: pgfcorerdf.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-))) (d:/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.te
-x
+))) (d:/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgfnodeparttextbox=\box60
-)
-(d:/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+) (d:/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
 File: pgfmoduleplot.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-)
-(d:/texlive/2020/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.st
-y
+) (d:/texlive/2020/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
 Package: pgfcomp-version-0-65 2020/01/08 v3.1.5b (3.1.5b)
 \pgf@nodesepstart=\dimen295
 \pgf@nodesepend=\dimen296
-)
-(d:/texlive/2020/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.st
-y
+) (d:/texlive/2020/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
 Package: pgfcomp-version-1-18 2020/01/08 v3.1.5b (3.1.5b)
 )) (d:/texlive/2020/texmf-dist/tex/latex/environ/environ.sty
 Package: environ 2014/05/04 v0.3 A new way to define environments
-
-(d:/texlive/2020/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+ (d:/texlive/2020/texmf-dist/tex/latex/trimspaces/trimspaces.sty
 Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 )
 \@envbody=\toks34
-)
-(d:/texlive/2020/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+) (d:/texlive/2020/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count314
 )
@@ -872,34 +712,23 @@ Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
 \tcb@temp=\box68
 \tcb@out=\write4
 \tcb@record@out=\write5
-
-(d:/texlive/2020/texmf-dist/tex/latex/tcolorbox/tcbraster.code.tex
+ (d:/texlive/2020/texmf-dist/tex/latex/tcolorbox/tcbraster.code.tex
 Library (tcolorbox): 'tcbraster.code.tex' version '4.30'
 \c@tcbrastercolumn=\count318
 \c@tcbrasterrow=\count319
 \c@tcbraster=\count320
 ) (d:/texlive/2020/texmf-dist/tex/latex/tcolorbox/tcbskins.code.tex
 Library (tcolorbox): 'tcbskins.code.tex' version '4.30'
-(d:/texlive/2020/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
-(d:/texlive/2020/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
-(d:/texlive/2020/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
-(d:/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
-(d:/texlive/2020/texmf-dist/tex/latex/pgf/math/pgfmath.sty
-(d:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
-(d:/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+(d:/texlive/2020/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (d:/texlive/2020/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (d:/texlive/2020/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (d:/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)) (d:/texlive/2020/texmf-dist/tex/latex/pgf/math/pgfmath.sty (d:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (d:/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
 Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
-
-(d:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+ (d:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
 \pgffor@iter=\dimen297
 \pgffor@skip=\dimen298
 \pgffor@stack=\toks35
 \pgffor@toks=\toks36
-))
-(d:/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+)) (d:/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
 Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
-
-(d:/texlive/2020/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.co
-de.tex
+ (d:/texlive/2020/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgf@plot@mark@count=\count321
 \pgfplotmarksize=\dimen299
@@ -920,22 +749,18 @@ File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \tikznumberofchildren=\count323
 \tikznumberofcurrentchild=\count324
 \tikz@fig@count=\count325
-
-(d:/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+ (d:/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgfmatrixcurrentrow=\count326
 \pgfmatrixcurrentcolumn=\count327
 \pgf@matrix@numberofcolumns=\count328
 )
 \tikz@expandcount=\count329
-
-(d:/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
-brarytopaths.code.tex
+ (d:/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )))
 \tcb@waterbox=\box73
-
-(d:/texlive/2020/texmf-dist/tex/latex/tcolorbox/tcbskinsjigsaw.code.tex
+ (d:/texlive/2020/texmf-dist/tex/latex/tcolorbox/tcbskinsjigsaw.code.tex
 Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '4.30'
 )) (d:/texlive/2020/texmf-dist/tex/latex/tcolorbox/tcbbreakable.code.tex
 Library (tcolorbox): 'tcbbreakable.code.tex' version '4.30'
@@ -953,17 +778,14 @@ Package: amsmath 2020/01/20 v2.17e AMS math features
 For additional information on amsmath, use the `?' option.
 (d:/texlive/2020/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
-
-(d:/texlive/2020/texmf-dist/tex/latex/amsmath/amsgen.sty
+ (d:/texlive/2020/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks37
 \ex@=\dimen308
-))
-(d:/texlive/2020/texmf-dist/tex/latex/amsmath/amsbsy.sty
+)) (d:/texlive/2020/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen309
-)
-(d:/texlive/2020/texmf-dist/tex/latex/amsmath/amsopn.sty
+) (d:/texlive/2020/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count330
@@ -1003,8 +825,7 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
 \mathdisplay@stack=\toks41
 LaTeX Info: Redefining \[ on input line 2859.
 LaTeX Info: Redefining \] on input line 2860.
-))
-(d:/texlive/2020/texmf-dist/tex/latex/tcolorbox/tcbfitting.code.tex
+)) (d:/texlive/2020/texmf-dist/tex/latex/tcolorbox/tcbfitting.code.tex
 Library (tcolorbox): 'tcbfitting.code.tex' version '4.30'
 \tcbfitdim=\dimen317
 \tcb@lowerfitdim=\dimen318
@@ -1014,15 +835,11 @@ Library (tcolorbox): 'tcbfitting.code.tex' version '4.30'
 Library (tcolorbox): 'tcbxparse.code.tex' version '4.30'
 )) (d:/texlive/2020/texmf-dist/tex/latex/fontawesome/fontawesome.sty
 Package: fontawesome 2016/05/15 v4.6.3.1 font awesome icons
-
-(d:/texlive/2020/texmf-dist/tex/generic/iftex/ifxetex.sty
+ (d:/texlive/2020/texmf-dist/tex/generic/iftex/ifxetex.sty
 Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
-)
-(d:/texlive/2020/texmf-dist/tex/generic/iftex/ifluatex.sty
+) (d:/texlive/2020/texmf-dist/tex/generic/iftex/ifluatex.sty
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
-)
-(d:/texlive/2020/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-generic.te
-x)
+) (d:/texlive/2020/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-generic.tex)
 
 Package fontspec Info: Could not resolve font "FontAwesome/BI" (it probably
 (fontspec)             doesn't exist).
@@ -1046,31 +863,24 @@ Package fontspec Info: Font family 'FontAwesome(0)' created for font
 (fontspec)             <->"FontAwesome/OT:language=dflt;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
-
-(d:/texlive/2020/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-xeluatex.t
-ex)) (d:/texlive/2020/texmf-dist/tex/latex/tools/indentfirst.sty
+ (d:/texlive/2020/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-xeluatex.tex)) (d:/texlive/2020/texmf-dist/tex/latex/tools/indentfirst.sty
 Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
-))
-(d:/texlive/2020/texmf-dist/tex/latex/tools/enumerate.sty
+)) (d:/texlive/2020/texmf-dist/tex/latex/tools/enumerate.sty
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
 \@enLab=\toks42
-)
-(d:/texlive/2020/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
+) (d:/texlive/2020/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
 Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
 \symrsfs=\mathgroup4
-)
-(d:/texlive/2020/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+) (d:/texlive/2020/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup5
 \symAMSb=\mathgroup6
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)
-(d:/texlive/2020/texmf-dist/tex/latex/tools/tabularx.sty
+) (d:/texlive/2020/texmf-dist/tex/latex/tools/tabularx.sty
 Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
-
-(d:/texlive/2020/texmf-dist/tex/latex/tools/array.sty
+ (d:/texlive/2020/texmf-dist/tex/latex/tools/array.sty
 Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
 \col@sep=\dimen320
 \ar@mcellbox=\box79
@@ -1087,8 +897,7 @@ Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
 \TX@delta=\dimen326
 \TX@cols=\count343
 \TX@ftn=\toks44
-)
-(d:/texlive/2020/texmf-dist/tex/latex/booktabs/booktabs.sty
+) (d:/texlive/2020/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \heavyrulewidth=\dimen327
 \lightrulewidth=\dimen328
@@ -1107,26 +916,22 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@thisruleclass=\count346
 \@lastruleclass=\count347
 \@thisrulewidth=\dimen339
-)
-(d:/texlive/2020/texmf-dist/tex/latex/colortbl/colortbl.sty
+) (d:/texlive/2020/texmf-dist/tex/latex/colortbl/colortbl.sty
 Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
 \everycr=\toks45
 \minrowclearance=\skip81
-)
-(d:/texlive/2020/texmf-dist/tex/latex/multirow/multirow.sty
+) (d:/texlive/2020/texmf-dist/tex/latex/multirow/multirow.sty
 Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
 \multirow@colwidth=\skip82
 \multirow@cntb=\count348
 \multirow@dima=\skip83
 \bigstrutjot=\dimen340
-)
-(d:/texlive/2020/texmf-dist/tex/latex/makecell/makecell.sty
+) (d:/texlive/2020/texmf-dist/tex/latex/makecell/makecell.sty
 Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
 \rotheadsize=\dimen341
 \c@nlinenum=\count349
 \TeXr@lab=\toks46
-)
-(d:/texlive/2020/texmf-dist/tex/latex/tools/multicol.sty
+) (d:/texlive/2020/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
 \c@tracingmulticols=\count350
 \mult@box=\box81
@@ -1195,8 +1000,7 @@ Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
 \mult@nat@firstbox=\box125
 \colbreak@box=\box126
 \mc@col@check@num=\count359
-)
-(d:/texlive/2020/texmf-dist/tex/generic/ulem/ulem.sty
+) (d:/texlive/2020/texmf-dist/tex/generic/ulem/ulem.sty
 \UL@box=\box127
 \UL@hyphenbox=\box128
 \UL@skip=\skip86
@@ -1207,21 +1011,16 @@ Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
 \ULC@box=\box129
 Package: ulem 2019/11/18
 \ULdepth=\dimen353
-)
-(d:/texlive/2020/texmf-dist/tex/latex/bookmark/bookmark.sty
+) (d:/texlive/2020/texmf-dist/tex/latex/bookmark/bookmark.sty
 Package: bookmark 2019/12/03 v1.28 PDF bookmarks (HO)
-
-(d:/texlive/2020/texmf-dist/tex/latex/bookmark/bkm-dvipdfm.def
+ (d:/texlive/2020/texmf-dist/tex/latex/bookmark/bkm-dvipdfm.def
 File: bkm-dvipdfm.def 2019/12/03 v1.28 bookmark driver for dvipdfm (HO)
 \BKM@id=\count361
-
-(d:/texlive/2020/texmf-dist/tex/latex/atenddvi/atenddvi.sty
+ (d:/texlive/2020/texmf-dist/tex/latex/atenddvi/atenddvi.sty
 Package: atenddvi 2019-12-11 v1.4 At end DVI hook (HO)
-
-(d:/texlive/2020/texmf-dist/tex/latex/zref/zref-abspage.sty
+ (d:/texlive/2020/texmf-dist/tex/latex/zref/zref-abspage.sty
 Package: zref-abspage 2020-05-28 v2.31 Module abspage for zref (HO)
-
-(d:/texlive/2020/texmf-dist/tex/latex/zref/zref-base.sty
+ (d:/texlive/2020/texmf-dist/tex/latex/zref/zref-base.sty
 Package: zref-base 2020-05-28 v2.31 Module base for zref (HO)
 Package zref Info: New property list: main on input line 763.
 Package zref Info: New property: default on input line 764.
@@ -1229,20 +1028,17 @@ Package zref Info: New property: page on input line 765.
 )
 \c@abspage=\count362
 Package zref Info: New property: abspage on input line 66.
-)
-(d:/texlive/2020/texmf-dist/tex/latex/zref/zref-lastpage.sty
+) (d:/texlive/2020/texmf-dist/tex/latex/zref/zref-lastpage.sty
 Package: zref-lastpage 2020-05-28 v2.31 Module lastpage for zref (HO)
 Package zref Info: New property list: LastPage on input line 59.
-))))
-(d:/texlive/2020/texmf-dist/tex/latex/float/float.sty
+)))) (d:/texlive/2020/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count363
 \float@exts=\toks48
 \float@box=\box130
 \@float@everytoks=\toks49
 \@floatcapt=\box131
-)
-(d:/texlive/2020/texmf-dist/tex/latex/subfigure/subfigure.sty
+) (d:/texlive/2020/texmf-dist/tex/latex/subfigure/subfigure.sty
 Package: subfigure 2002/03/15 v2.1.5 subfigure package
 \subfigtopskip=\skip87
 \subfigcapskip=\skip88
@@ -1261,8 +1057,7 @@ Package: subfigure 2002/03/15 v2.1.5 subfigure package
 (d:/texlive/2020/texmf-dist/tex/latex/subfigure/subfigure.cfg)
 \subfig@top=\skip91
 \subfig@bottom=\skip92
-)
-(d:/texlive/2020/texmf-dist/tex/latex/enumitem/enumitem.sty
+) (d:/texlive/2020/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \labelindent=\skip93
 \enit@outerparindent=\dimen356
@@ -1270,64 +1065,43 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 \enit@inbox=\box132
 \enit@count@id=\count368
 \enitdp@description=\count369
-)
-(d:/texlive/2020/texmf-dist/tex/latex/libertinus-otf/libertinus-otf.sty
-Package: libertinus-otf 2020/04/25 v. 0.25 (Herbert Voss) Supports libertinus f
-onts for lualatex and xelatex.
-
-(d:/texlive/2020/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+) (d:/texlive/2020/texmf-dist/tex/latex/libertinus-otf/libertinus-otf.sty
+Package: libertinus-otf 2020/04/25 v. 0.25 (Herbert Voss) Supports libertinus fonts for lualatex and xelatex.
+ (d:/texlive/2020/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
-
-(d:/texlive/2020/texmf-dist/tex/generic/xkeyval/xkeyval.tex
-(d:/texlive/2020/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+ (d:/texlive/2020/texmf-dist/tex/generic/xkeyval/xkeyval.tex (d:/texlive/2020/texmf-dist/tex/generic/xkeyval/xkvutils.tex
 \XKV@toks=\toks51
 \XKV@tempa@toks=\toks52
 )
 \XKV@depth=\count370
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-))
-(d:/texlive/2020/texmf-dist/tex/latex/base/textcomp.sty
+)) (d:/texlive/2020/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
-)
-(d:/texlive/2020/texmf-dist/tex/latex/unicode-math/unicode-math.sty
+) (d:/texlive/2020/texmf-dist/tex/latex/unicode-math/unicode-math.sty
 Package: unicode-math 2020/01/31 v0.8q Unicode maths in XeLaTeX and LuaLaTeX
-
-(d:/texlive/2020/texmf-dist/tex/latex/unicode-math/unicode-math-xetex.sty
-Package: unicode-math-xetex 2020/01/31 v0.8q Unicode maths in XeLaTeX and LuaLa
-TeX
+ (d:/texlive/2020/texmf-dist/tex/latex/unicode-math/unicode-math-xetex.sty
+Package: unicode-math-xetex 2020/01/31 v0.8q Unicode maths in XeLaTeX and LuaLaTeX
 \g__um_fam_int=\count371
 \g__um_fonts_used_int=\count372
 \l__um_primecount_int=\count373
 \g__um_primekern_muskip=\muskip19
-
-(d:/texlive/2020/texmf-dist/tex/latex/unicode-math/unicode-math-table.tex)))
+ (d:/texlive/2020/texmf-dist/tex/latex/unicode-math/unicode-math-table.tex)))
 Requested font "[LibertinusSerif-Regular.otf]/OT" at 10.53934pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sSerif-Regular.otf
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Regular.otf
 Requested font "[LibertinusSerif-Regular.otf]/OT" at 10.5394pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sSerif-Regular.otf
-Requested font "[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;" at
- 10.5394pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sSerif-Regular.otf
-Requested font "[LibertinusSerif-Bold.otf]/OT:script=latn;language=dflt;" at 10
-.5394pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sSerif-Bold.otf
-Requested font "[LibertinusSerif-Italic.otf]/OT:script=latn;language=dflt;" at 
-10.5394pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sSerif-Italic.otf
-Requested font "[LibertinusSerif-BoldItalic.otf]/OT:script=latn;language=dflt;"
- at 10.5394pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sSerif-BoldItalic.otf
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Regular.otf
+Requested font "[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;" at 10.5394pt
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Regular.otf
+Requested font "[LibertinusSerif-Bold.otf]/OT:script=latn;language=dflt;" at 10.5394pt
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Bold.otf
+Requested font "[LibertinusSerif-Italic.otf]/OT:script=latn;language=dflt;" at 10.5394pt
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Italic.otf
+Requested font "[LibertinusSerif-BoldItalic.otf]/OT:script=latn;language=dflt;" at 10.5394pt
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-BoldItalic.otf
 
 Package fontspec Info: Font family 'LibertinusSerif(0)' created for font
 (fontspec)             'LibertinusSerif' with options [Ligatures =
-(fontspec)             TeX,SmallCapsFeatures={Letters=SmallCaps},Ligatures=TeX,
-RawFeature
+(fontspec)             TeX,SmallCapsFeatures={Letters=SmallCaps},Ligatures=TeX,RawFeature
 (fontspec)             = {+tnum;+onum},Scale = 1,UprightFont =
 (fontspec)             *-Regular,ItalicFont = *-Italic,ItalicFeatures = {
 (fontspec)             SmallCapsFont = *-Italic },SlantedFont =
@@ -1339,48 +1113,35 @@ RawFeature
 (fontspec)             *-Bold,BoldSlantedFeatures= {FakeSlant=0.2,
 (fontspec)             SmallCapsFont = *-Bold},SmallCapsFont =
 (fontspec)             *-Regular,SmallCapsFeatures={RawFeature=+smcp},Extension
-
 (fontspec)             = .otf].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSerif-Regular.otf]/OT:script=latn;la
-nguage=dflt;+tnum;+onum;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;+tnum;+onum;mapping=tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSerif-Regular.otf]/OT:script=latn;la
-nguage=dflt;+tnum;+onum;+smcp;+smcp;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;+tnum;+onum;+smcp;+smcp;mapping=tex-text;"
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSerif-Bold.otf]/OT:script=latn;langu
-age=dflt;+tnum;+onum;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSerif-Bold.otf]/OT:script=latn;language=dflt;+tnum;+onum;mapping=tex-text;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSerif-Bold.otf]/OT:script=latn;langu
-age=dflt;+tnum;+onum;+smcp;+smcp;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSerif-Bold.otf]/OT:script=latn;language=dflt;+tnum;+onum;+smcp;+smcp;mapping=tex-text;"
 (fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSerif-Italic.otf]/OT:script=latn;lan
-guage=dflt;+tnum;+onum;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSerif-Italic.otf]/OT:script=latn;language=dflt;+tnum;+onum;mapping=tex-text;"
 (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSerif-Italic.otf]/OT:script=latn;lan
-guage=dflt;+tnum;+onum;+smcp;+smcp;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSerif-Italic.otf]/OT:script=latn;language=dflt;+tnum;+onum;+smcp;+smcp;mapping=tex-text;"
 (fontspec)             - 'slanted' (m/sl) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSerif-Regular.otf]/OT:script=latn;la
-nguage=dflt;slant=0.2;+tnum;+onum;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;slant=0.2;+tnum;+onum;mapping=tex-text;"
 (fontspec)             - 'slanted small caps'  (m/scsl) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSerif-Regular.otf]/OT:script=latn;la
-nguage=dflt;slant=0.2;+tnum;+onum;+smcp;+smcp;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;slant=0.2;+tnum;+onum;+smcp;+smcp;mapping=tex-text;"
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSerif-BoldItalic.otf]/OT:script=latn
-;language=dflt;+tnum;+onum;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSerif-BoldItalic.otf]/OT:script=latn;language=dflt;+tnum;+onum;mapping=tex-text;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSerif-BoldItalic.otf]/OT:script=latn
-;language=dflt;+tnum;+onum;+smcp;+smcp;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSerif-BoldItalic.otf]/OT:script=latn;language=dflt;+tnum;+onum;+smcp;+smcp;mapping=tex-text;"
 (fontspec)             - 'bold slanted' (b/sl) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSerif-Bold.otf]/OT:script=latn;langu
-age=dflt;slant=0.2;+tnum;+onum;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSerif-Bold.otf]/OT:script=latn;language=dflt;slant=0.2;+tnum;+onum;mapping=tex-text;"
 (fontspec)             - 'bold slanted small caps'  (b/scsl) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSerif-Bold.otf]/OT:script=latn;langu
-age=dflt;slant=0.2;+tnum;+onum;+smcp;+smcp;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSerif-Bold.otf]/OT:script=latn;language=dflt;slant=0.2;+tnum;+onum;+smcp;+smcp;mapping=tex-text;"
 
 
 Package fontspec Info: Font family 'LibertinusSerif(1)' created for font
@@ -1397,72 +1158,50 @@ Package fontspec Info: Font family 'LibertinusSerif(1)' created for font
 (fontspec)             *-Bold,BoldSlantedFeatures= {FakeSlant=0.2,
 (fontspec)             SmallCapsFont = *-Bold},SmallCapsFont =
 (fontspec)             *-Regular,SmallCapsFeatures={RawFeature=+smcp},Extension
-
 (fontspec)             = .otf].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSerif-Regular.otf]/OT:script=latn;la
-nguage=dflt;+tnum;+onum;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;+tnum;+onum;mapping=tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSerif-Regular.otf]/OT:script=latn;la
-nguage=dflt;+tnum;+onum;+smcp;+smcp;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;+tnum;+onum;+smcp;+smcp;mapping=tex-text;"
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSerif-Bold.otf]/OT:script=latn;langu
-age=dflt;+tnum;+onum;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSerif-Bold.otf]/OT:script=latn;language=dflt;+tnum;+onum;mapping=tex-text;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSerif-Bold.otf]/OT:script=latn;langu
-age=dflt;+tnum;+onum;+smcp;+smcp;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSerif-Bold.otf]/OT:script=latn;language=dflt;+tnum;+onum;+smcp;+smcp;mapping=tex-text;"
 (fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSerif-Italic.otf]/OT:script=latn;lan
-guage=dflt;+tnum;+onum;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSerif-Italic.otf]/OT:script=latn;language=dflt;+tnum;+onum;mapping=tex-text;"
 (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSerif-Italic.otf]/OT:script=latn;lan
-guage=dflt;+tnum;+onum;+smcp;+smcp;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSerif-Italic.otf]/OT:script=latn;language=dflt;+tnum;+onum;+smcp;+smcp;mapping=tex-text;"
 (fontspec)             - 'slanted' (m/sl) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSerif-Regular.otf]/OT:script=latn;la
-nguage=dflt;slant=0.2;+tnum;+onum;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;slant=0.2;+tnum;+onum;mapping=tex-text;"
 (fontspec)             - 'slanted small caps'  (m/scsl) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSerif-Regular.otf]/OT:script=latn;la
-nguage=dflt;slant=0.2;+tnum;+onum;+smcp;+smcp;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;slant=0.2;+tnum;+onum;+smcp;+smcp;mapping=tex-text;"
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSerif-BoldItalic.otf]/OT:script=latn
-;language=dflt;+tnum;+onum;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSerif-BoldItalic.otf]/OT:script=latn;language=dflt;+tnum;+onum;mapping=tex-text;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSerif-BoldItalic.otf]/OT:script=latn
-;language=dflt;+tnum;+onum;+smcp;+smcp;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSerif-BoldItalic.otf]/OT:script=latn;language=dflt;+tnum;+onum;+smcp;+smcp;mapping=tex-text;"
 (fontspec)             - 'bold slanted' (b/sl) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSerif-Bold.otf]/OT:script=latn;langu
-age=dflt;slant=0.2;+tnum;+onum;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSerif-Bold.otf]/OT:script=latn;language=dflt;slant=0.2;+tnum;+onum;mapping=tex-text;"
 (fontspec)             - 'bold slanted small caps'  (b/scsl) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSerif-Bold.otf]/OT:script=latn;langu
-age=dflt;slant=0.2;+tnum;+onum;+smcp;+smcp;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSerif-Bold.otf]/OT:script=latn;language=dflt;slant=0.2;+tnum;+onum;+smcp;+smcp;mapping=tex-text;"
 
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/LibertinusSerif(1)/m/n on input line
- 108.
+(Font)                  OT1/cmr/m/n --> TU/LibertinusSerif(1)/m/n on input line 108.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/LibertinusSerif(1)/m/it on input li
-ne 108.
+(Font)                  OT1/cmr/m/it --> TU/LibertinusSerif(1)/m/it on input line 108.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/LibertinusSerif(1)/b/n on input lin
-e 108.
+(Font)                  OT1/cmr/bx/n --> TU/LibertinusSerif(1)/b/n on input line 108.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
 (Font)              scaled to size 10.53937pt on input line 108.
-Requested font "[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;+tnu
-m;+onum;mapping=tex-text;" at 10.53937pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sSerif-Regular.otf
-Requested font "[LibertinusSerif-Semibold.otf]/OT:script=latn;language=dflt;" a
-t 10.5394pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sSerif-Semibold.otf
-Requested font "[LibertinusSerif-SemiboldItalic.otf]/OT:script=latn;language=df
-lt;" at 10.5394pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sSerif-SemiboldItalic.otf
+Requested font "[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;+tnum;+onum;mapping=tex-text;" at 10.53937pt
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Regular.otf
+Requested font "[LibertinusSerif-Semibold.otf]/OT:script=latn;language=dflt;" at 10.5394pt
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Semibold.otf
+Requested font "[LibertinusSerif-SemiboldItalic.otf]/OT:script=latn;language=dflt;" at 10.5394pt
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-SemiboldItalic.otf
 
 Package fontspec Info: Font family 'LibertinusSerif(2)' created for font
 (fontspec)             'LibertinusSerif' with options [Ligatures =
@@ -1477,48 +1216,35 @@ Package fontspec Info: Font family 'LibertinusSerif(2)' created for font
 (fontspec)             *-Semibold,BoldSlantedFeatures = {FakeSlant=0.2,
 (fontspec)             SmallCapsFont = *-Semibold },SmallCapsFont =
 (fontspec)             *-Regular,SmallCapsFeatures={RawFeature=+smcp},Extension
-
 (fontspec)             = .otf].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSerif-Regular.otf]/OT:script=latn;la
-nguage=dflt;+tnum;+onum;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;+tnum;+onum;mapping=tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSerif-Regular.otf]/OT:script=latn;la
-nguage=dflt;+tnum;+onum;+smcp;+smcp;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;+tnum;+onum;+smcp;+smcp;mapping=tex-text;"
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSerif-Semibold.otf]/OT:script=latn;l
-anguage=dflt;+tnum;+onum;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSerif-Semibold.otf]/OT:script=latn;language=dflt;+tnum;+onum;mapping=tex-text;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSerif-Semibold.otf]/OT:script=latn;l
-anguage=dflt;+tnum;+onum;+smcp;+smcp;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSerif-Semibold.otf]/OT:script=latn;language=dflt;+tnum;+onum;+smcp;+smcp;mapping=tex-text;"
 (fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSerif-Italic.otf]/OT:script=latn;lan
-guage=dflt;+tnum;+onum;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSerif-Italic.otf]/OT:script=latn;language=dflt;+tnum;+onum;mapping=tex-text;"
 (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSerif-Italic.otf]/OT:script=latn;lan
-guage=dflt;+tnum;+onum;+smcp;+smcp;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSerif-Italic.otf]/OT:script=latn;language=dflt;+tnum;+onum;+smcp;+smcp;mapping=tex-text;"
 (fontspec)             - 'slanted' (m/sl) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSerif-Regular.otf]/OT:script=latn;la
-nguage=dflt;slant=0.2;+tnum;+onum;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;slant=0.2;+tnum;+onum;mapping=tex-text;"
 (fontspec)             - 'slanted small caps'  (m/scsl) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSerif-Regular.otf]/OT:script=latn;la
-nguage=dflt;slant=0.2;+tnum;+onum;+smcp;+smcp;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;slant=0.2;+tnum;+onum;+smcp;+smcp;mapping=tex-text;"
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSerif-SemiboldItalic.otf]/OT:script=
-latn;language=dflt;+tnum;+onum;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSerif-SemiboldItalic.otf]/OT:script=latn;language=dflt;+tnum;+onum;mapping=tex-text;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSerif-SemiboldItalic.otf]/OT:script=
-latn;language=dflt;+tnum;+onum;+smcp;+smcp;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSerif-SemiboldItalic.otf]/OT:script=latn;language=dflt;+tnum;+onum;+smcp;+smcp;mapping=tex-text;"
 (fontspec)             - 'bold slanted' (b/sl) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSerif-Semibold.otf]/OT:script=latn;l
-anguage=dflt;slant=0.2;+tnum;+onum;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSerif-Semibold.otf]/OT:script=latn;language=dflt;slant=0.2;+tnum;+onum;mapping=tex-text;"
 (fontspec)             - 'bold slanted small caps'  (b/scsl) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSerif-Semibold.otf]/OT:script=latn;l
-anguage=dflt;slant=0.2;+tnum;+onum;+smcp;+smcp;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSerif-Semibold.otf]/OT:script=latn;language=dflt;slant=0.2;+tnum;+onum;+smcp;+smcp;mapping=tex-text;"
 
 
 Package fontspec Info: Font family 'LibertinusSerif(3)' created for font
@@ -1534,48 +1260,35 @@ Package fontspec Info: Font family 'LibertinusSerif(3)' created for font
 (fontspec)             *-Bold,BoldSlantedFeatures = {FakeSlant=0.2,
 (fontspec)             SmallCapsFont = *-Bold},SmallCapsFont =
 (fontspec)             *-Regular,SmallCapsFeatures={RawFeature=+smcp},Extension
-
 (fontspec)             = .otf].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSerif-Regular.otf]/OT:script=latn;la
-nguage=dflt;+onum;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;+onum;mapping=tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSerif-Regular.otf]/OT:script=latn;la
-nguage=dflt;+onum;+smcp;+smcp;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;+onum;+smcp;+smcp;mapping=tex-text;"
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSerif-Bold.otf]/OT:script=latn;langu
-age=dflt;+onum;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSerif-Bold.otf]/OT:script=latn;language=dflt;+onum;mapping=tex-text;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSerif-Bold.otf]/OT:script=latn;langu
-age=dflt;+onum;+smcp;+smcp;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSerif-Bold.otf]/OT:script=latn;language=dflt;+onum;+smcp;+smcp;mapping=tex-text;"
 (fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSerif-Italic.otf]/OT:script=latn;lan
-guage=dflt;+onum;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSerif-Italic.otf]/OT:script=latn;language=dflt;+onum;mapping=tex-text;"
 (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSerif-Italic.otf]/OT:script=latn;lan
-guage=dflt;+onum;+smcp;+smcp;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSerif-Italic.otf]/OT:script=latn;language=dflt;+onum;+smcp;+smcp;mapping=tex-text;"
 (fontspec)             - 'slanted' (m/sl) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSerif-Regular.otf]/OT:script=latn;la
-nguage=dflt;slant=0.2;+onum;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;slant=0.2;+onum;mapping=tex-text;"
 (fontspec)             - 'slanted small caps'  (m/scsl) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSerif-Regular.otf]/OT:script=latn;la
-nguage=dflt;slant=0.2;+onum;+smcp;+smcp;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;slant=0.2;+onum;+smcp;+smcp;mapping=tex-text;"
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSerif-BoldItalic.otf]/OT:script=latn
-;language=dflt;+onum;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSerif-BoldItalic.otf]/OT:script=latn;language=dflt;+onum;mapping=tex-text;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSerif-BoldItalic.otf]/OT:script=latn
-;language=dflt;+onum;+smcp;+smcp;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSerif-BoldItalic.otf]/OT:script=latn;language=dflt;+onum;+smcp;+smcp;mapping=tex-text;"
 (fontspec)             - 'bold slanted' (b/sl) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSerif-Bold.otf]/OT:script=latn;langu
-age=dflt;slant=0.2;+onum;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSerif-Bold.otf]/OT:script=latn;language=dflt;slant=0.2;+onum;mapping=tex-text;"
 (fontspec)             - 'bold slanted small caps'  (b/scsl) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSerif-Bold.otf]/OT:script=latn;langu
-age=dflt;slant=0.2;+onum;+smcp;+smcp;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSerif-Bold.otf]/OT:script=latn;language=dflt;slant=0.2;+onum;+smcp;+smcp;mapping=tex-text;"
 
 
 Package fontspec Info: Font family 'LibertinusSerif(4)' created for font
@@ -1592,72 +1305,50 @@ Package fontspec Info: Font family 'LibertinusSerif(4)' created for font
 (fontspec)             *-Bold,BoldSlantedFeatures = {FakeSlant=0.2,
 (fontspec)             SmallCapsFont = *-Bold},SmallCapsFont =
 (fontspec)             *-Regular,SmallCapsFeatures={RawFeature=+smcp},Extension
-
 (fontspec)             = .otf].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSerif-Regular.otf]/OT:script=latn;la
-nguage=dflt;+tnum;-onum;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;+tnum;-onum;mapping=tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSerif-Regular.otf]/OT:script=latn;la
-nguage=dflt;+tnum;-onum;+smcp;+smcp;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;+tnum;-onum;+smcp;+smcp;mapping=tex-text;"
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSerif-Bold.otf]/OT:script=latn;langu
-age=dflt;+tnum;-onum;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSerif-Bold.otf]/OT:script=latn;language=dflt;+tnum;-onum;mapping=tex-text;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSerif-Bold.otf]/OT:script=latn;langu
-age=dflt;+tnum;-onum;+smcp;+smcp;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSerif-Bold.otf]/OT:script=latn;language=dflt;+tnum;-onum;+smcp;+smcp;mapping=tex-text;"
 (fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSerif-Italic.otf]/OT:script=latn;lan
-guage=dflt;+tnum;-onum;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSerif-Italic.otf]/OT:script=latn;language=dflt;+tnum;-onum;mapping=tex-text;"
 (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSerif-Italic.otf]/OT:script=latn;lan
-guage=dflt;+tnum;-onum;+smcp;+smcp;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSerif-Italic.otf]/OT:script=latn;language=dflt;+tnum;-onum;+smcp;+smcp;mapping=tex-text;"
 (fontspec)             - 'slanted' (m/sl) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSerif-Regular.otf]/OT:script=latn;la
-nguage=dflt;slant=0.2;+tnum;-onum;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;slant=0.2;+tnum;-onum;mapping=tex-text;"
 (fontspec)             - 'slanted small caps'  (m/scsl) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSerif-Regular.otf]/OT:script=latn;la
-nguage=dflt;slant=0.2;+tnum;-onum;+smcp;+smcp;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;slant=0.2;+tnum;-onum;+smcp;+smcp;mapping=tex-text;"
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSerif-BoldItalic.otf]/OT:script=latn
-;language=dflt;+tnum;-onum;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSerif-BoldItalic.otf]/OT:script=latn;language=dflt;+tnum;-onum;mapping=tex-text;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSerif-BoldItalic.otf]/OT:script=latn
-;language=dflt;+tnum;-onum;+smcp;+smcp;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSerif-BoldItalic.otf]/OT:script=latn;language=dflt;+tnum;-onum;+smcp;+smcp;mapping=tex-text;"
 (fontspec)             - 'bold slanted' (b/sl) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSerif-Bold.otf]/OT:script=latn;langu
-age=dflt;slant=0.2;+tnum;-onum;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSerif-Bold.otf]/OT:script=latn;language=dflt;slant=0.2;+tnum;-onum;mapping=tex-text;"
 (fontspec)             - 'bold slanted small caps'  (b/scsl) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSerif-Bold.otf]/OT:script=latn;langu
-age=dflt;slant=0.2;+tnum;-onum;+smcp;+smcp;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSerif-Bold.otf]/OT:script=latn;language=dflt;slant=0.2;+tnum;-onum;+smcp;+smcp;mapping=tex-text;"
 
 Requested font "[LibertinusSans-Regular.otf]/OT" at 10.53934pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sSans-Regular.otf
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSans-Regular.otf
 Requested font "[LibertinusSans-Regular.otf]/OT" at 10.5394pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sSans-Regular.otf
-Requested font "[LibertinusSans-Regular.otf]/OT:script=latn;language=dflt;" at 
-10.5394pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sSans-Regular.otf
-Requested font "[LibertinusSans-Bold.otf]/OT:script=latn;language=dflt;" at 10.
-5394pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sSans-Bold.otf
-Requested font "[LibertinusSans-Italic.otf]/OT:script=latn;language=dflt;" at 1
-0.5394pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sSans-Italic.otf
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSans-Regular.otf
+Requested font "[LibertinusSans-Regular.otf]/OT:script=latn;language=dflt;" at 10.5394pt
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSans-Regular.otf
+Requested font "[LibertinusSans-Bold.otf]/OT:script=latn;language=dflt;" at 10.5394pt
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSans-Bold.otf
+Requested font "[LibertinusSans-Italic.otf]/OT:script=latn;language=dflt;" at 10.5394pt
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSans-Italic.otf
 
 Package fontspec Info: Font family 'LibertinusSans(0)' created for font
 (fontspec)             'LibertinusSans' with options [Ligatures =
-(fontspec)             TeX,SmallCapsFeatures={Letters=SmallCaps},Ligatures=TeX,
-Extension
+(fontspec)             TeX,SmallCapsFeatures={Letters=SmallCaps},Ligatures=TeX,Extension
 (fontspec)             = .otf,RawFeature = {+tnum;+onum},Scale = 1,UprightFont
 (fontspec)             = *-Regular,ItalicFont = *-Italic,ItalicFeatures = {
 (fontspec)             SmallCapsFont = *-Italic },SlantedFont =
@@ -1668,48 +1359,35 @@ Extension
 (fontspec)             },BoldSlantedFont= *-Bold,BoldSlantedFeatures =
 (fontspec)             {FakeSlant=0.2, SmallCapsFont = *-Bold },SmallCapsFont
 (fontspec)             =
-(fontspec)             *-Regular,SmallCapsFeatures={RawFeature=+smcp},SmallCaps
-Features={Letters=SmallCaps}].
+(fontspec)             *-Regular,SmallCapsFeatures={RawFeature=+smcp},SmallCapsFeatures={Letters=SmallCaps}].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSans-Regular.otf]/OT:script=latn;lan
-guage=dflt;+tnum;+onum;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSans-Regular.otf]/OT:script=latn;language=dflt;+tnum;+onum;mapping=tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSans-Regular.otf]/OT:script=latn;lan
-guage=dflt;+tnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSans-Regular.otf]/OT:script=latn;language=dflt;+tnum;+onum;+smcp;mapping=tex-text;"
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSans-Bold.otf]/OT:script=latn;langua
-ge=dflt;+tnum;+onum;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSans-Bold.otf]/OT:script=latn;language=dflt;+tnum;+onum;mapping=tex-text;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSans-Bold.otf]/OT:script=latn;langua
-ge=dflt;+tnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSans-Bold.otf]/OT:script=latn;language=dflt;+tnum;+onum;+smcp;mapping=tex-text;"
 (fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSans-Italic.otf]/OT:script=latn;lang
-uage=dflt;+tnum;+onum;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSans-Italic.otf]/OT:script=latn;language=dflt;+tnum;+onum;mapping=tex-text;"
 (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSans-Italic.otf]/OT:script=latn;lang
-uage=dflt;+tnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSans-Italic.otf]/OT:script=latn;language=dflt;+tnum;+onum;+smcp;mapping=tex-text;"
 (fontspec)             - 'slanted' (m/sl) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSans-Regular.otf]/OT:script=latn;lan
-guage=dflt;slant=0.2;+tnum;+onum;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSans-Regular.otf]/OT:script=latn;language=dflt;slant=0.2;+tnum;+onum;mapping=tex-text;"
 (fontspec)             - 'slanted small caps'  (m/scsl) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSans-Regular.otf]/OT:script=latn;lan
-guage=dflt;slant=0.2;+tnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSans-Regular.otf]/OT:script=latn;language=dflt;slant=0.2;+tnum;+onum;+smcp;mapping=tex-text;"
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSans-Italic.otf]/OT:script=latn;lang
-uage=dflt;+tnum;+onum;embolden=3;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSans-Italic.otf]/OT:script=latn;language=dflt;+tnum;+onum;embolden=3;mapping=tex-text;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSans-Italic.otf]/OT:script=latn;lang
-uage=dflt;+tnum;+onum;embolden=3;+smcp;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSans-Italic.otf]/OT:script=latn;language=dflt;+tnum;+onum;embolden=3;+smcp;mapping=tex-text;"
 (fontspec)             - 'bold slanted' (b/sl) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSans-Bold.otf]/OT:script=latn;langua
-ge=dflt;slant=0.2;+tnum;+onum;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSans-Bold.otf]/OT:script=latn;language=dflt;slant=0.2;+tnum;+onum;mapping=tex-text;"
 (fontspec)             - 'bold slanted small caps'  (b/scsl) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSans-Bold.otf]/OT:script=latn;langua
-ge=dflt;slant=0.2;+tnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSans-Bold.otf]/OT:script=latn;language=dflt;slant=0.2;+tnum;+onum;+smcp;mapping=tex-text;"
 
 
 Package fontspec Info: Font family 'LibertinusSans(1)' created for font
@@ -1725,55 +1403,40 @@ Package fontspec Info: Font family 'LibertinusSans(1)' created for font
 (fontspec)             },BoldSlantedFont= *-Bold,BoldSlantedFeatures =
 (fontspec)             {FakeSlant=0.2, SmallCapsFont = *-Bold },SmallCapsFont
 (fontspec)             =
-(fontspec)             *-Regular,SmallCapsFeatures={RawFeature=+smcp},SmallCaps
-Features={Letters=SmallCaps}].
+(fontspec)             *-Regular,SmallCapsFeatures={RawFeature=+smcp},SmallCapsFeatures={Letters=SmallCaps}].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSans-Regular.otf]/OT:script=latn;lan
-guage=dflt;+tnum;+onum;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSans-Regular.otf]/OT:script=latn;language=dflt;+tnum;+onum;mapping=tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSans-Regular.otf]/OT:script=latn;lan
-guage=dflt;+tnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSans-Regular.otf]/OT:script=latn;language=dflt;+tnum;+onum;+smcp;mapping=tex-text;"
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSans-Bold.otf]/OT:script=latn;langua
-ge=dflt;+tnum;+onum;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSans-Bold.otf]/OT:script=latn;language=dflt;+tnum;+onum;mapping=tex-text;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSans-Bold.otf]/OT:script=latn;langua
-ge=dflt;+tnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSans-Bold.otf]/OT:script=latn;language=dflt;+tnum;+onum;+smcp;mapping=tex-text;"
 (fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSans-Italic.otf]/OT:script=latn;lang
-uage=dflt;+tnum;+onum;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSans-Italic.otf]/OT:script=latn;language=dflt;+tnum;+onum;mapping=tex-text;"
 (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSans-Italic.otf]/OT:script=latn;lang
-uage=dflt;+tnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSans-Italic.otf]/OT:script=latn;language=dflt;+tnum;+onum;+smcp;mapping=tex-text;"
 (fontspec)             - 'slanted' (m/sl) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSans-Regular.otf]/OT:script=latn;lan
-guage=dflt;slant=0.2;+tnum;+onum;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSans-Regular.otf]/OT:script=latn;language=dflt;slant=0.2;+tnum;+onum;mapping=tex-text;"
 (fontspec)             - 'slanted small caps'  (m/scsl) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSans-Regular.otf]/OT:script=latn;lan
-guage=dflt;slant=0.2;+tnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSans-Regular.otf]/OT:script=latn;language=dflt;slant=0.2;+tnum;+onum;+smcp;mapping=tex-text;"
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSans-Italic.otf]/OT:script=latn;lang
-uage=dflt;+tnum;+onum;embolden=3;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSans-Italic.otf]/OT:script=latn;language=dflt;+tnum;+onum;embolden=3;mapping=tex-text;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSans-Italic.otf]/OT:script=latn;lang
-uage=dflt;+tnum;+onum;embolden=3;+smcp;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSans-Italic.otf]/OT:script=latn;language=dflt;+tnum;+onum;embolden=3;+smcp;mapping=tex-text;"
 (fontspec)             - 'bold slanted' (b/sl) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSans-Bold.otf]/OT:script=latn;langua
-ge=dflt;slant=0.2;+tnum;+onum;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSans-Bold.otf]/OT:script=latn;language=dflt;slant=0.2;+tnum;+onum;mapping=tex-text;"
 (fontspec)             - 'bold slanted small caps'  (b/scsl) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSans-Bold.otf]/OT:script=latn;langua
-ge=dflt;slant=0.2;+tnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSans-Bold.otf]/OT:script=latn;language=dflt;slant=0.2;+tnum;+onum;+smcp;mapping=tex-text;"
 
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/LibertinusSans(1)/m/n on input line
- 188.
+(Font)                  OT1/cmss/m/n --> TU/LibertinusSans(1)/m/n on input line 188.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/LibertinusSans(1)/b/n on input lin
-e 188.
+(Font)                  OT1/cmss/bx/n --> TU/LibertinusSans(1)/b/n on input line 188.
 
 Package fontspec Info: Font family 'LibertinusSans(2)' created for font
 (fontspec)             'LibertinusSans' with options [Ligatures =
@@ -1788,48 +1451,35 @@ Package fontspec Info: Font family 'LibertinusSans(2)' created for font
 (fontspec)             *-Bold,BoldSlantedFeatures = {FakeSlant=0.2,
 (fontspec)             SmallCapsFont = *-Bold },SmallCapsFont =
 (fontspec)             *-Regular,SmallCapsFeatures={RawFeature=+smcp},Extension
-
 (fontspec)             = .otf].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSans-Regular.otf]/OT:script=latn;lan
-guage=dflt;+onum;+pnum;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSans-Regular.otf]/OT:script=latn;language=dflt;+onum;+pnum;mapping=tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSans-Regular.otf]/OT:script=latn;lan
-guage=dflt;+onum;+pnum;+smcp;+smcp;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSans-Regular.otf]/OT:script=latn;language=dflt;+onum;+pnum;+smcp;+smcp;mapping=tex-text;"
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSans-Bold.otf]/OT:script=latn;langua
-ge=dflt;+onum;+pnum;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSans-Bold.otf]/OT:script=latn;language=dflt;+onum;+pnum;mapping=tex-text;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSans-Bold.otf]/OT:script=latn;langua
-ge=dflt;+onum;+pnum;+smcp;+smcp;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSans-Bold.otf]/OT:script=latn;language=dflt;+onum;+pnum;+smcp;+smcp;mapping=tex-text;"
 (fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSans-Italic.otf]/OT:script=latn;lang
-uage=dflt;+onum;+pnum;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSans-Italic.otf]/OT:script=latn;language=dflt;+onum;+pnum;mapping=tex-text;"
 (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSans-Italic.otf]/OT:script=latn;lang
-uage=dflt;+onum;+pnum;+smcp;+smcp;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSans-Italic.otf]/OT:script=latn;language=dflt;+onum;+pnum;+smcp;+smcp;mapping=tex-text;"
 (fontspec)             - 'slanted' (m/sl) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSans-Regular.otf]/OT:script=latn;lan
-guage=dflt;slant=0.2;+onum;+pnum;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSans-Regular.otf]/OT:script=latn;language=dflt;slant=0.2;+onum;+pnum;mapping=tex-text;"
 (fontspec)             - 'slanted small caps'  (m/scsl) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSans-Regular.otf]/OT:script=latn;lan
-guage=dflt;slant=0.2;+onum;+pnum;+smcp;+smcp;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSans-Regular.otf]/OT:script=latn;language=dflt;slant=0.2;+onum;+pnum;+smcp;+smcp;mapping=tex-text;"
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSans-Italic.otf]/OT:script=latn;lang
-uage=dflt;+onum;+pnum;embolden=3;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSans-Italic.otf]/OT:script=latn;language=dflt;+onum;+pnum;embolden=3;mapping=tex-text;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSans-Regular.otf]/OT:script=latn;lan
-guage=dflt;+onum;+pnum;embolden=3;+smcp;+smcp;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSans-Regular.otf]/OT:script=latn;language=dflt;+onum;+pnum;embolden=3;+smcp;+smcp;mapping=tex-text;"
 (fontspec)             - 'bold slanted' (b/sl) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSans-Bold.otf]/OT:script=latn;langua
-ge=dflt;slant=0.2;+onum;+pnum;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSans-Bold.otf]/OT:script=latn;language=dflt;slant=0.2;+onum;+pnum;mapping=tex-text;"
 (fontspec)             - 'bold slanted small caps'  (b/scsl) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSans-Bold.otf]/OT:script=latn;langua
-ge=dflt;slant=0.2;+onum;+pnum;+smcp;+smcp;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSans-Bold.otf]/OT:script=latn;language=dflt;slant=0.2;+onum;+pnum;+smcp;+smcp;mapping=tex-text;"
 
 
 Package fontspec Info: Font family 'LibertinusSans(3)' created for font
@@ -1845,62 +1495,45 @@ Package fontspec Info: Font family 'LibertinusSans(3)' created for font
 (fontspec)             *-Bold,BoldSlantedFeatures = {FakeSlant=0.2,
 (fontspec)             SmallCapsFont = *-Bold },SmallCapsFont =
 (fontspec)             *-Regular,SmallCapsFeatures={RawFeature=+smcp},Extension
-
 (fontspec)             = .otf].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSans-Regular.otf]/OT:script=latn;lan
-guage=dflt;+lnum;-onum;+tnum;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSans-Regular.otf]/OT:script=latn;language=dflt;+lnum;-onum;+tnum;mapping=tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSans-Regular.otf]/OT:script=latn;lan
-guage=dflt;+lnum;-onum;+tnum;+smcp;+smcp;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSans-Regular.otf]/OT:script=latn;language=dflt;+lnum;-onum;+tnum;+smcp;+smcp;mapping=tex-text;"
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSans-Bold.otf]/OT:script=latn;langua
-ge=dflt;+lnum;-onum;+tnum;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSans-Bold.otf]/OT:script=latn;language=dflt;+lnum;-onum;+tnum;mapping=tex-text;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSans-Bold.otf]/OT:script=latn;langua
-ge=dflt;+lnum;-onum;+tnum;+smcp;+smcp;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSans-Bold.otf]/OT:script=latn;language=dflt;+lnum;-onum;+tnum;+smcp;+smcp;mapping=tex-text;"
 (fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSans-Italic.otf]/OT:script=latn;lang
-uage=dflt;+lnum;-onum;+tnum;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSans-Italic.otf]/OT:script=latn;language=dflt;+lnum;-onum;+tnum;mapping=tex-text;"
 (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSans-Italic.otf]/OT:script=latn;lang
-uage=dflt;+lnum;-onum;+tnum;+smcp;+smcp;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSans-Italic.otf]/OT:script=latn;language=dflt;+lnum;-onum;+tnum;+smcp;+smcp;mapping=tex-text;"
 (fontspec)             - 'slanted' (m/sl) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSans-Regular.otf]/OT:script=latn;lan
-guage=dflt;slant=0.2;+lnum;-onum;+tnum;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSans-Regular.otf]/OT:script=latn;language=dflt;slant=0.2;+lnum;-onum;+tnum;mapping=tex-text;"
 (fontspec)             - 'slanted small caps'  (m/scsl) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSans-Regular.otf]/OT:script=latn;lan
-guage=dflt;slant=0.2;+lnum;-onum;+tnum;+smcp;+smcp;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSans-Regular.otf]/OT:script=latn;language=dflt;slant=0.2;+lnum;-onum;+tnum;+smcp;+smcp;mapping=tex-text;"
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSans-Italic.otf]/OT:script=latn;lang
-uage=dflt;+lnum;-onum;+tnum;embolden=3;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSans-Italic.otf]/OT:script=latn;language=dflt;+lnum;-onum;+tnum;embolden=3;mapping=tex-text;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSans-Regular.otf]/OT:script=latn;lan
-guage=dflt;+lnum;-onum;+tnum;embolden=3;+smcp;+smcp;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSans-Regular.otf]/OT:script=latn;language=dflt;+lnum;-onum;+tnum;embolden=3;+smcp;+smcp;mapping=tex-text;"
 (fontspec)             - 'bold slanted' (b/sl) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSans-Bold.otf]/OT:script=latn;langua
-ge=dflt;slant=0.2;+lnum;-onum;+tnum;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSans-Bold.otf]/OT:script=latn;language=dflt;slant=0.2;+lnum;-onum;+tnum;mapping=tex-text;"
 (fontspec)             - 'bold slanted small caps'  (b/scsl) with NFSS spec.:
-(fontspec)             <->s*[1]"[LibertinusSans-Bold.otf]/OT:script=latn;langua
-ge=dflt;slant=0.2;+lnum;-onum;+tnum;+smcp;+smcp;mapping=tex-text;"
+(fontspec)             <->s*[1]"[LibertinusSans-Bold.otf]/OT:script=latn;language=dflt;slant=0.2;+lnum;-onum;+tnum;+smcp;+smcp;mapping=tex-text;"
 
 Requested font "[LibertinusMono-Regular.otf]/OT" at 10.53934pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sMono-Regular.otf
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusMono-Regular.otf
 Requested font "[LibertinusMono-Regular.otf]/OT" at 10.5394pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sMono-Regular.otf
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusMono-Regular.otf
 
 Package fontspec Info: LibertinusMono-Regular scale = 0.8666660817020132.
 
-Requested font "[LibertinusMono-Regular.otf]/OT:script=latn;language=dflt;" at 
-10.5394pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sMono-Regular.otf
+Requested font "[LibertinusMono-Regular.otf]/OT:script=latn;language=dflt;" at 10.5394pt
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusMono-Regular.otf
 
 Package fontspec Info: LibertinusMono-Regular scale = 0.8666660817020132.
 
@@ -1919,24 +1552,21 @@ Package fontspec Info: LibertinusMono-Regular scale = 0.8666660817020132.
 
 Package fontspec Info: Font family 'LibertinusMono(0)' created for font
 (fontspec)             'LibertinusMono' with options [Ligatures =
-(fontspec)             TeX,SmallCapsFeatures={Letters=SmallCaps},WordSpace={1,0
-,0},HyphenChar=None,PunctuationSpace=WordSpace,RawFeature
+(fontspec)             TeX,SmallCapsFeatures={Letters=SmallCaps},WordSpace={1,0,0},HyphenChar=None,PunctuationSpace=WordSpace,RawFeature
 (fontspec)             = {+tnum; +onum},Scale = MatchLowercase,FakeStretch =
 (fontspec)             0.8,UprightFont = *-Regular,ItalicFont =
 (fontspec)             *-Regular,ItalicFeatures = {FakeSlant=0.2},SlantedFont
 (fontspec)             = *-Regular,SlantedFeatures= {FakeSlant=0.2},BoldFont =
 (fontspec)             *-Regular,BoldFeatures =
 (fontspec)             {RawFeature={embolden=3}},BoldItalicFont =
-(fontspec)             *-Regular,BoldItalicFeatures={FakeSlant=0.2,RawFeature={
-embolden=3}},Extension
+(fontspec)             *-Regular,BoldItalicFeatures={FakeSlant=0.2,RawFeature={embolden=3}},Extension
 (fontspec)             = .otf].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[0.8666660817020132]"[LibertinusMono-Regular.otf]/O
-T:script=latn;language=dflt;extend=0.8;+tnum;
+(fontspec)             <->s*[0.8666660817020132]"[LibertinusMono-Regular.otf]/OT:script=latn;language=dflt;extend=0.8;+tnum;
 (fontspec)             +onum;mapping=tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 (fontspec)             and font adjustment code:
@@ -1945,8 +1575,7 @@ T:script=latn;language=dflt;extend=0.8;+tnum;
 (fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
 (fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[0.8666660817020132]"[LibertinusMono-Regular.otf]/O
-T:script=latn;language=dflt;extend=0.8;+tnum;
+(fontspec)             <->s*[0.8666660817020132]"[LibertinusMono-Regular.otf]/OT:script=latn;language=dflt;extend=0.8;+tnum;
 (fontspec)             +onum;embolden=3;mapping=tex-text;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
 (fontspec)             and font adjustment code:
@@ -1955,8 +1584,7 @@ T:script=latn;language=dflt;extend=0.8;+tnum;
 (fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
 (fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
 (fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->s*[0.8666660817020132]"[LibertinusMono-Regular.otf]/O
-T:script=latn;language=dflt;extend=0.8;slant=0.2;+tnum;
+(fontspec)             <->s*[0.8666660817020132]"[LibertinusMono-Regular.otf]/OT:script=latn;language=dflt;extend=0.8;slant=0.2;+tnum;
 (fontspec)             +onum;mapping=tex-text;"
 (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
 (fontspec)             and font adjustment code:
@@ -1965,8 +1593,7 @@ T:script=latn;language=dflt;extend=0.8;slant=0.2;+tnum;
 (fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
 (fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
 (fontspec)             - 'slanted' (m/sl) with NFSS spec.:
-(fontspec)             <->s*[0.8666660817020132]"[LibertinusMono-Regular.otf]/O
-T:script=latn;language=dflt;extend=0.8;slant=0.2;+tnum;
+(fontspec)             <->s*[0.8666660817020132]"[LibertinusMono-Regular.otf]/OT:script=latn;language=dflt;extend=0.8;slant=0.2;+tnum;
 (fontspec)             +onum;mapping=tex-text;"
 (fontspec)             - 'slanted small caps'  (m/scsl) with NFSS spec.: 
 (fontspec)             and font adjustment code:
@@ -1975,8 +1602,7 @@ T:script=latn;language=dflt;extend=0.8;slant=0.2;+tnum;
 (fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
 (fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->s*[0.8666660817020132]"[LibertinusMono-Regular.otf]/O
-T:script=latn;language=dflt;extend=0.8;slant=0.2;+tnum;
+(fontspec)             <->s*[0.8666660817020132]"[LibertinusMono-Regular.otf]/OT:script=latn;language=dflt;extend=0.8;slant=0.2;+tnum;
 (fontspec)             +onum;embolden=3;mapping=tex-text;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 (fontspec)             and font adjustment code:
@@ -2013,108 +1639,83 @@ Package fontspec Info: Font family 'LibertinusMono(1)' created for font
 (fontspec)             = *-Regular,SlantedFeatures= {FakeSlant=0.2},BoldFont =
 (fontspec)             *-Regular,BoldFeatures =
 (fontspec)             {RawFeature={embolden=3}},BoldItalicFont =
-(fontspec)             *-Regular,BoldItalicFeatures={FakeSlant=0.2,RawFeature={
-embolden=3}},Extension
+(fontspec)             *-Regular,BoldItalicFeatures={FakeSlant=0.2,RawFeature={embolden=3}},Extension
 (fontspec)             = .otf].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[0.8666660817020132]"[LibertinusMono-Regular.otf]/O
-T:script=latn;language=dflt;extend=0.8;+tnum;
+(fontspec)             <->s*[0.8666660817020132]"[LibertinusMono-Regular.otf]/OT:script=latn;language=dflt;extend=0.8;+tnum;
 (fontspec)             +onum;mapping=tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[0.8666660817020132]"[LibertinusMono-Regular.otf]/O
-T:script=latn;language=dflt;extend=0.8;+tnum;
+(fontspec)             <->s*[0.8666660817020132]"[LibertinusMono-Regular.otf]/OT:script=latn;language=dflt;extend=0.8;+tnum;
 (fontspec)             +onum;embolden=3;mapping=tex-text;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
 (fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->s*[0.8666660817020132]"[LibertinusMono-Regular.otf]/O
-T:script=latn;language=dflt;extend=0.8;slant=0.2;+tnum;
+(fontspec)             <->s*[0.8666660817020132]"[LibertinusMono-Regular.otf]/OT:script=latn;language=dflt;extend=0.8;slant=0.2;+tnum;
 (fontspec)             +onum;mapping=tex-text;"
 (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
 (fontspec)             - 'slanted' (m/sl) with NFSS spec.:
-(fontspec)             <->s*[0.8666660817020132]"[LibertinusMono-Regular.otf]/O
-T:script=latn;language=dflt;extend=0.8;slant=0.2;+tnum;
+(fontspec)             <->s*[0.8666660817020132]"[LibertinusMono-Regular.otf]/OT:script=latn;language=dflt;extend=0.8;slant=0.2;+tnum;
 (fontspec)             +onum;mapping=tex-text;"
 (fontspec)             - 'slanted small caps'  (m/scsl) with NFSS spec.: 
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->s*[0.8666660817020132]"[LibertinusMono-Regular.otf]/O
-T:script=latn;language=dflt;extend=0.8;slant=0.2;+tnum;
+(fontspec)             <->s*[0.8666660817020132]"[LibertinusMono-Regular.otf]/OT:script=latn;language=dflt;extend=0.8;slant=0.2;+tnum;
 (fontspec)             +onum;embolden=3;mapping=tex-text;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/LibertinusMono(1)/m/n on input line
- 245.
+(Font)                  OT1/cmtt/m/n --> TU/LibertinusMono(1)/m/n on input line 245.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/LibertinusMono(1)/b/n on input line
- 245.
+(Font)                  OT1/cmtt/m/n --> TU/LibertinusMono(1)/b/n on input line 245.
 
 *************************************
 * Using libertinus math *
 *************************************
 Requested font "[LibertinusMath-Regular.otf]/OT" at 10.53934pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sMath-Regular.otf
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusMath-Regular.otf
 Requested font "[LibertinusMath-Regular.otf]/OT" at 10.5394pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sMath-Regular.otf
-Requested font "[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;" at 
-10.5394pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sMath-Regular.otf
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusMath-Regular.otf
+Requested font "[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;" at 10.5394pt
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusMath-Regular.otf
 
 Package fontspec Info: Font family 'LibertinusMath-Regular.otf(0)' created for
 (fontspec)             font 'LibertinusMath-Regular.otf' with options
 (fontspec)             [Ligatures =
-(fontspec)             TeX,SmallCapsFeatures={Letters=SmallCaps},BoldItalicFont
-={},ItalicFont={},SmallCapsFont={},Script=Math].
+(fontspec)             TeX,SmallCapsFeatures={Letters=SmallCaps},BoldItalicFont={},ItalicFont={},SmallCapsFont={},Script=Math].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"[LibertinusMath-Regular.otf]/OT:script=math;language
-=dflt;mapping=tex-text;"
+(fontspec)             <->"[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;mapping=tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
-Requested font "[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;mappi
-ng=tex-text;" at 10.53937pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sMath-Regular.otf
+Requested font "[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;mapping=tex-text;" at 10.53937pt
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusMath-Regular.otf
 
 Package fontspec Info: Font family 'LibertinusMath-Regular.otf(1)' created for
 (fontspec)             font 'LibertinusMath-Regular.otf' with options
 (fontspec)             [Ligatures =
-(fontspec)             TeX,SmallCapsFeatures={Letters=SmallCaps},BoldItalicFont
-={},ItalicFont={},SmallCapsFont={},Script=Math,SizeFeatures={{Size=9.485433-},{
-Size=7.377559-9.485433,Font=LibertinusMath-Regular.otf,Style=MathScript},{Size=
--7.377559,Font=LibertinusMath-Regular.otf,Style=MathScriptScript}}].
+(fontspec)             TeX,SmallCapsFeatures={Letters=SmallCaps},BoldItalicFont={},ItalicFont={},SmallCapsFont={},Script=Math,SizeFeatures={{Size=9.485433-},{Size=7.377559-9.485433,Font=LibertinusMath-Regular.otf,Style=MathScript},{Size=-7.377559,Font=LibertinusMath-Regular.otf,Style=MathScriptScript}}].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <9.485433->"[LibertinusMath-Regular.otf]/OT:script=math;
-language=dflt;mapping=tex-text;"<7.377559-9.485433>"[LibertinusMath-Regular.otf
-]/OT:script=math;language=dflt;+ssty=0;mapping=tex-text;"<-7.377559>"[Libertinu
-sMath-Regular.otf]/OT:script=math;language=dflt;+ssty=1;mapping=tex-text;"
+(fontspec)             <9.485433->"[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;mapping=tex-text;"<7.377559-9.485433>"[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;+ssty=0;mapping=tex-text;"<-7.377559>"[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;+ssty=1;mapping=tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
 (Font)              `operators' in the math version `normal' on input line 424.
-
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/LibertinusMath-Regular.otf(1)/m/n on
- input line 424.
+(Font)                  OT1/cmr/m/n --> TU/LibertinusMath-Regular.otf(1)/m/n on input line 424.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
 (Font)              `operators' in the math version `bold' on input line 424.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/LibertinusMath-Regular.otf(1)/b/n o
-n input line 424.
+(Font)                  OT1/cmr/bx/n --> TU/LibertinusMath-Regular.otf(1)/b/n on input line 424.
 
 Package fontspec Info: LibertinusMath-Regular scale = 1.0001.
 
@@ -2131,11 +1732,7 @@ Package fontspec Info: LibertinusMath-Regular scale = 1.0001.
 Package fontspec Info: Font family 'LibertinusMath-Regular.otf(2)' created for
 (fontspec)             font 'LibertinusMath-Regular.otf' with options
 (fontspec)             [Ligatures =
-(fontspec)             TeX,SmallCapsFeatures={Letters=SmallCaps},BoldItalicFont
-={},ItalicFont={},SmallCapsFont={},Script=Math,SizeFeatures={{Size=9.485433-},{
-Size=7.377559-9.485433,Font=LibertinusMath-Regular.otf,Style=MathScript},{Size=
--7.377559,Font=LibertinusMath-Regular.otf,Style=MathScriptScript}},ScaleAgain=1
-.0001,FontAdjustment={\fontdimen
+(fontspec)             TeX,SmallCapsFeatures={Letters=SmallCaps},BoldItalicFont={},ItalicFont={},SmallCapsFont={},Script=Math,SizeFeatures={{Size=9.485433-},{Size=7.377559-9.485433,Font=LibertinusMath-Regular.otf,Style=MathScript},{Size=-7.377559,Font=LibertinusMath-Regular.otf,Style=MathScriptScript}},ScaleAgain=1.0001,FontAdjustment={\fontdimen
 (fontspec)             8\font =6.11284pt\relax \fontdimen 9\font
 (fontspec)             =5.0589pt\relax \fontdimen 10\font =4.9535pt\relax
 (fontspec)             \fontdimen 11\font =7.37756pt\relax \fontdimen 12\font
@@ -2151,11 +1748,7 @@ Size=7.377559-9.485433,Font=LibertinusMath-Regular.otf,Style=MathScript},{Size=
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <9.485433->s*[1.0001]"[LibertinusMath-Regular.otf]/OT:sc
-ript=math;language=dflt;mapping=tex-text;"<7.377559-9.485433>s*[1.0001]"[Libert
-inusMath-Regular.otf]/OT:script=math;language=dflt;+ssty=0;mapping=tex-text;"<-
-7.377559>s*[1.0001]"[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;+
-ssty=1;mapping=tex-text;"
+(fontspec)             <9.485433->s*[1.0001]"[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;mapping=tex-text;"<7.377559-9.485433>s*[1.0001]"[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;+ssty=0;mapping=tex-text;"<-7.377559>s*[1.0001]"[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;+ssty=1;mapping=tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 (fontspec)             and font adjustment code:
 (fontspec)             \fontdimen 8\font =6.11284pt\relax \fontdimen 9\font
@@ -2172,13 +1765,11 @@ ssty=1;mapping=tex-text;"
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
 (Font)              `symbols' in the math version `normal' on input line 424.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
-(Font)                  OMS/cmsy/m/n --> TU/LibertinusMath-Regular.otf(2)/m/n o
-n input line 424.
+(Font)                  OMS/cmsy/m/n --> TU/LibertinusMath-Regular.otf(2)/m/n on input line 424.
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
 (Font)              `symbols' in the math version `bold' on input line 424.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
-(Font)                  OMS/cmsy/b/n --> TU/LibertinusMath-Regular.otf(2)/b/n o
-n input line 424.
+(Font)                  OMS/cmsy/b/n --> TU/LibertinusMath-Regular.otf(2)/b/n on input line 424.
 
 Package fontspec Info: LibertinusMath-Regular scale = 0.9999.
 
@@ -2195,11 +1786,7 @@ Package fontspec Info: LibertinusMath-Regular scale = 0.9999.
 Package fontspec Info: Font family 'LibertinusMath-Regular.otf(3)' created for
 (fontspec)             font 'LibertinusMath-Regular.otf' with options
 (fontspec)             [Ligatures =
-(fontspec)             TeX,SmallCapsFeatures={Letters=SmallCaps},BoldItalicFont
-={},ItalicFont={},SmallCapsFont={},Script=Math,SizeFeatures={{Size=9.485433-},{
-Size=7.377559-9.485433,Font=LibertinusMath-Regular.otf,Style=MathScript},{Size=
--7.377559,Font=LibertinusMath-Regular.otf,Style=MathScriptScript}},ScaleAgain=0
-.9999,FontAdjustment={\fontdimen
+(fontspec)             TeX,SmallCapsFeatures={Letters=SmallCaps},BoldItalicFont={},ItalicFont={},SmallCapsFont={},Script=Math,SizeFeatures={{Size=9.485433-},{Size=7.377559-9.485433,Font=LibertinusMath-Regular.otf,Style=MathScript},{Size=-7.377559,Font=LibertinusMath-Regular.otf,Style=MathScriptScript}},ScaleAgain=0.9999,FontAdjustment={\fontdimen
 (fontspec)             8\font =0.68506pt\relax \fontdimen 9\font
 (fontspec)             =1.5809pt\relax \fontdimen 10\font =1.5809pt\relax
 (fontspec)             \fontdimen 11\font =2.63484pt\relax \fontdimen 12\font
@@ -2209,11 +1796,7 @@ Size=7.377559-9.485433,Font=LibertinusMath-Regular.otf,Style=MathScript},{Size=
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <9.485433->s*[0.9999]"[LibertinusMath-Regular.otf]/OT:sc
-ript=math;language=dflt;mapping=tex-text;"<7.377559-9.485433>s*[0.9999]"[Libert
-inusMath-Regular.otf]/OT:script=math;language=dflt;+ssty=0;mapping=tex-text;"<-
-7.377559>s*[0.9999]"[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;+
-ssty=1;mapping=tex-text;"
+(fontspec)             <9.485433->s*[0.9999]"[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;mapping=tex-text;"<7.377559-9.485433>s*[0.9999]"[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;+ssty=0;mapping=tex-text;"<-7.377559>s*[0.9999]"[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;+ssty=1;mapping=tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 (fontspec)             and font adjustment code:
 (fontspec)             \fontdimen 8\font =0.68506pt\relax \fontdimen 9\font
@@ -2222,63 +1805,46 @@ ssty=1;mapping=tex-text;"
 (fontspec)             =6.53441pt\relax \fontdimen 13\font =0pt\relax 
 
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `normal' on input line 4
-24.
+(Font)              `largesymbols' in the math version `normal' on input line 424.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
-(Font)                  OMX/cmex/m/n --> TU/LibertinusMath-Regular.otf(3)/m/n o
-n input line 424.
+(Font)                  OMX/cmex/m/n --> TU/LibertinusMath-Regular.otf(3)/m/n on input line 424.
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `bold' on input line 424
-.
+(Font)              `largesymbols' in the math version `bold' on input line 424.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
-(Font)                  OMX/cmex/m/n --> TU/LibertinusMath-Regular.otf(3)/b/n o
-n input line 424.
+(Font)                  OMX/cmex/m/n --> TU/LibertinusMath-Regular.otf(3)/b/n on input line 424.
 LaTeX Font Info:    Redeclaring math version `bold' on input line 425.
 
 Package fontspec Info: Font family 'LibertinusMath-Regular.otf(4)' created for
 (fontspec)             font 'LibertinusMath-Regular.otf' with options
 (fontspec)             [Ligatures =
-(fontspec)             TeX,SmallCapsFeatures={Letters=SmallCaps},BoldItalicFont
-={},ItalicFont={},SmallCapsFont={},Script=Math,RawFeature={embolden=3}].
+(fontspec)             TeX,SmallCapsFeatures={Letters=SmallCaps},BoldItalicFont={},ItalicFont={},SmallCapsFont={},Script=Math,RawFeature={embolden=3}].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"[LibertinusMath-Regular.otf]/OT:script=math;language
-=dflt;embolden=3;mapping=tex-text;"
+(fontspec)             <->"[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;embolden=3;mapping=tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
-Requested font "[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;embol
-den=3;mapping=tex-text;" at 10.53937pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sMath-Regular.otf
+Requested font "[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;embolden=3;mapping=tex-text;" at 10.53937pt
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusMath-Regular.otf
 
 Package fontspec Info: Font family 'LibertinusMath-Regular.otf(5)' created for
 (fontspec)             font 'LibertinusMath-Regular.otf' with options
 (fontspec)             [Ligatures =
-(fontspec)             TeX,SmallCapsFeatures={Letters=SmallCaps},BoldItalicFont
-={},ItalicFont={},SmallCapsFont={},Script=Math,SizeFeatures={{Size=9.485433-},{
-Size=7.377559-9.485433,Font=LibertinusMath-Regular.otf,Style=MathScript},{Size=
--7.377559,Font=LibertinusMath-Regular.otf,Style=MathScriptScript}},RawFeature={
-embolden=3}].
+(fontspec)             TeX,SmallCapsFeatures={Letters=SmallCaps},BoldItalicFont={},ItalicFont={},SmallCapsFont={},Script=Math,SizeFeatures={{Size=9.485433-},{Size=7.377559-9.485433,Font=LibertinusMath-Regular.otf,Style=MathScript},{Size=-7.377559,Font=LibertinusMath-Regular.otf,Style=MathScriptScript}},RawFeature={embolden=3}].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <9.485433->"[LibertinusMath-Regular.otf]/OT:script=math;
-language=dflt;embolden=3;mapping=tex-text;"<7.377559-9.485433>"[LibertinusMath-
-Regular.otf]/OT:script=math;language=dflt;embolden=3;+ssty=0;mapping=tex-text;"
-<-7.377559>"[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;embolden=
-3;+ssty=1;mapping=tex-text;"
+(fontspec)             <9.485433->"[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;embolden=3;mapping=tex-text;"<7.377559-9.485433>"[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;embolden=3;+ssty=0;mapping=tex-text;"<-7.377559>"[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;embolden=3;+ssty=1;mapping=tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
 (Font)              `operators' in the math version `bold' on input line 425.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/m/n --> TU/LibertinusMath-Regular.otf(5)/m/n on
- input line 425.
+(Font)                  OT1/cmr/m/n --> TU/LibertinusMath-Regular.otf(5)/m/n on input line 425.
 
 Package fontspec Info: LibertinusMath-Regular scale = 1.0001.
 
@@ -2295,11 +1861,7 @@ Package fontspec Info: LibertinusMath-Regular scale = 1.0001.
 Package fontspec Info: Font family 'LibertinusMath-Regular.otf(6)' created for
 (fontspec)             font 'LibertinusMath-Regular.otf' with options
 (fontspec)             [Ligatures =
-(fontspec)             TeX,SmallCapsFeatures={Letters=SmallCaps},BoldItalicFont
-={},ItalicFont={},SmallCapsFont={},Script=Math,SizeFeatures={{Size=9.485433-},{
-Size=7.377559-9.485433,Font=LibertinusMath-Regular.otf,Style=MathScript},{Size=
--7.377559,Font=LibertinusMath-Regular.otf,Style=MathScriptScript}},RawFeature={
-embolden=3},ScaleAgain=1.0001,FontAdjustment={\fontdimen
+(fontspec)             TeX,SmallCapsFeatures={Letters=SmallCaps},BoldItalicFont={},ItalicFont={},SmallCapsFont={},Script=Math,SizeFeatures={{Size=9.485433-},{Size=7.377559-9.485433,Font=LibertinusMath-Regular.otf,Style=MathScript},{Size=-7.377559,Font=LibertinusMath-Regular.otf,Style=MathScriptScript}},RawFeature={embolden=3},ScaleAgain=1.0001,FontAdjustment={\fontdimen
 (fontspec)             8\font =6.11284pt\relax \fontdimen 9\font
 (fontspec)             =5.0589pt\relax \fontdimen 10\font =4.9535pt\relax
 (fontspec)             \fontdimen 11\font =7.37756pt\relax \fontdimen 12\font
@@ -2315,11 +1877,7 @@ embolden=3},ScaleAgain=1.0001,FontAdjustment={\fontdimen
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <9.485433->s*[1.0001]"[LibertinusMath-Regular.otf]/OT:sc
-ript=math;language=dflt;embolden=3;mapping=tex-text;"<7.377559-9.485433>s*[1.00
-01]"[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;embolden=3;+ssty=
-0;mapping=tex-text;"<-7.377559>s*[1.0001]"[LibertinusMath-Regular.otf]/OT:scrip
-t=math;language=dflt;embolden=3;+ssty=1;mapping=tex-text;"
+(fontspec)             <9.485433->s*[1.0001]"[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;embolden=3;mapping=tex-text;"<7.377559-9.485433>s*[1.0001]"[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;embolden=3;+ssty=0;mapping=tex-text;"<-7.377559>s*[1.0001]"[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;embolden=3;+ssty=1;mapping=tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 (fontspec)             and font adjustment code:
 (fontspec)             \fontdimen 8\font =6.11284pt\relax \fontdimen 9\font
@@ -2336,8 +1894,7 @@ t=math;language=dflt;embolden=3;+ssty=1;mapping=tex-text;"
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
 (Font)              `symbols' in the math version `bold' on input line 425.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
-(Font)                  OMS/cmsy/m/n --> TU/LibertinusMath-Regular.otf(6)/m/n o
-n input line 425.
+(Font)                  OMS/cmsy/m/n --> TU/LibertinusMath-Regular.otf(6)/m/n on input line 425.
 
 Package fontspec Info: LibertinusMath-Regular scale = 0.9999.
 
@@ -2354,11 +1911,7 @@ Package fontspec Info: LibertinusMath-Regular scale = 0.9999.
 Package fontspec Info: Font family 'LibertinusMath-Regular.otf(7)' created for
 (fontspec)             font 'LibertinusMath-Regular.otf' with options
 (fontspec)             [Ligatures =
-(fontspec)             TeX,SmallCapsFeatures={Letters=SmallCaps},BoldItalicFont
-={},ItalicFont={},SmallCapsFont={},Script=Math,SizeFeatures={{Size=9.485433-},{
-Size=7.377559-9.485433,Font=LibertinusMath-Regular.otf,Style=MathScript},{Size=
--7.377559,Font=LibertinusMath-Regular.otf,Style=MathScriptScript}},RawFeature={
-embolden=3},ScaleAgain=0.9999,FontAdjustment={\fontdimen
+(fontspec)             TeX,SmallCapsFeatures={Letters=SmallCaps},BoldItalicFont={},ItalicFont={},SmallCapsFont={},Script=Math,SizeFeatures={{Size=9.485433-},{Size=7.377559-9.485433,Font=LibertinusMath-Regular.otf,Style=MathScript},{Size=-7.377559,Font=LibertinusMath-Regular.otf,Style=MathScriptScript}},RawFeature={embolden=3},ScaleAgain=0.9999,FontAdjustment={\fontdimen
 (fontspec)             8\font =0.68506pt\relax \fontdimen 9\font
 (fontspec)             =1.5809pt\relax \fontdimen 10\font =1.5809pt\relax
 (fontspec)             \fontdimen 11\font =2.63484pt\relax \fontdimen 12\font
@@ -2368,11 +1921,7 @@ embolden=3},ScaleAgain=0.9999,FontAdjustment={\fontdimen
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <9.485433->s*[0.9999]"[LibertinusMath-Regular.otf]/OT:sc
-ript=math;language=dflt;embolden=3;mapping=tex-text;"<7.377559-9.485433>s*[0.99
-99]"[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;embolden=3;+ssty=
-0;mapping=tex-text;"<-7.377559>s*[0.9999]"[LibertinusMath-Regular.otf]/OT:scrip
-t=math;language=dflt;embolden=3;+ssty=1;mapping=tex-text;"
+(fontspec)             <9.485433->s*[0.9999]"[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;embolden=3;mapping=tex-text;"<7.377559-9.485433>s*[0.9999]"[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;embolden=3;+ssty=0;mapping=tex-text;"<-7.377559>s*[0.9999]"[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;embolden=3;+ssty=1;mapping=tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 (fontspec)             and font adjustment code:
 (fontspec)             \fontdimen 8\font =0.68506pt\relax \fontdimen 9\font
@@ -2381,24 +1930,17 @@ t=math;language=dflt;embolden=3;+ssty=1;mapping=tex-text;"
 (fontspec)             =6.53441pt\relax \fontdimen 13\font =0pt\relax 
 
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `bold' on input line 425
-.
+(Font)              `largesymbols' in the math version `bold' on input line 425.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
-(Font)                  OMX/cmex/m/n --> TU/LibertinusMath-Regular.otf(7)/m/n o
-n input line 425.
+(Font)                  OMX/cmex/m/n --> TU/LibertinusMath-Regular.otf(7)/m/n on input line 425.
 Requested font "[LibertinusKeyboard-Regular.otf]" scaled 1000
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sKeyboard-Regular.otf
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusKeyboard-Regular.otf
 Requested font "[LibertinusSerifDisplay-Regular.otf]/OT" at 10.53934pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sSerifDisplay-Regular.otf
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerifDisplay-Regular.otf
 Requested font "[LibertinusSerifDisplay-Regular.otf]/OT" at 10.5394pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sSerifDisplay-Regular.otf
-Requested font "[LibertinusSerifDisplay-Regular.otf]/OT:script=latn;language=df
-lt;" at 10.5394pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sSerifDisplay-Regular.otf
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerifDisplay-Regular.otf
+Requested font "[LibertinusSerifDisplay-Regular.otf]/OT:script=latn;language=dflt;" at 10.5394pt
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerifDisplay-Regular.otf
 
 Package fontspec Info: Font family 'LibertinusSerifDisplay-Regular.otf(0)'
 (fontspec)             created for font 'LibertinusSerifDisplay-Regular.otf'
@@ -2409,20 +1951,15 @@ Package fontspec Info: Font family 'LibertinusSerifDisplay-Regular.otf(0)'
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"[LibertinusSerifDisplay-Regular.otf]/OT:script=latn;
-language=dflt;mapping=tex-text;"
+(fontspec)             <->"[LibertinusSerifDisplay-Regular.otf]/OT:script=latn;language=dflt;mapping=tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
 Requested font "[LibertinusSerifInitials-Regular.otf]/OT" at 10.53934pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sSerifInitials-Regular.otf
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerifInitials-Regular.otf
 Requested font "[LibertinusSerifInitials-Regular.otf]/OT" at 10.5394pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sSerifInitials-Regular.otf
-Requested font "[LibertinusSerifInitials-Regular.otf]/OT:language=dflt;" at 10.
-5394pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sSerifInitials-Regular.otf
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerifInitials-Regular.otf
+Requested font "[LibertinusSerifInitials-Regular.otf]/OT:language=dflt;" at 10.5394pt
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerifInitials-Regular.otf
 
 Package fontspec Info: Font family 'LibertinusSerifInitials-Regular.otf(0)'
 (fontspec)             created for font 'LibertinusSerifInitials-Regular.otf'
@@ -2433,13 +1970,11 @@ Package fontspec Info: Font family 'LibertinusSerifInitials-Regular.otf(0)'
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"[LibertinusSerifInitials-Regular.otf]/OT:language=df
-lt;mapping=tex-text;"
+(fontspec)             <->"[LibertinusSerifInitials-Regular.otf]/OT:language=dflt;mapping=tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
 ) (d:/texlive/2020/texmf-dist/tex/latex/imakeidx/imakeidx.sty
-Package: imakeidx 2016/10/15 v1.3e Package for typesetting indices in a synchro
-nous mode
+Package: imakeidx 2016/10/15 v1.3e Package for typesetting indices in a synchronous mode
 )
 \数学建模笔记@idxfile=\write6
 \openout6 = `数学建模笔记.idx'.
@@ -2452,16 +1987,13 @@ Package: xunicode-addon 2020/06/06 v3.8.4 addon file for xunicode
 \l__xunadd_tmp_coffin=\box133
 \l__xunadd_circle_coffin=\box134
 \l_xunadd_slot_int=\count374
-)
-(d:/texlive/2020/texmf-dist/tex/xelatex/xunicode/xunicode.sty
-File: xunicode.sty 2011/09/09 v0.981 provides access to latin accents and many 
-other characters in Unicode lower plane
+) (d:/texlive/2020/texmf-dist/tex/xelatex/xunicode/xunicode.sty
+File: xunicode.sty 2011/09/09 v0.981 provides access to latin accents and many other characters in Unicode lower plane
 
 *** Reloading Xunicode for encoding 'TU' ***
 ) (d:/texlive/2020/texmf-dist/tex/xelatex/xecjk/xunicode-extra.def
 File: xunicode-extra.def 2020/06/06 v3.8.4 extra definition for xunicode
-)
-(./数学建模笔记.aux
+) (./数学建模笔记.aux
 
 LaTeX Warning: Label `Fig.sub.1' multiply defined.
 
@@ -2506,8 +2038,7 @@ LaTeX Font Info:    ... okay on input line 76.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 76.
 LaTeX Font Info:    ... okay on input line 76.
 LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 76.
-LaTeX Font Info:    Trying to load font information for T3+cmr on input line 76
-.
+LaTeX Font Info:    Trying to load font information for T3+cmr on input line 76.
  (d:/texlive/2020/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
@@ -2516,19 +2047,15 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 76.
 LaTeX Font Info:    ... okay on input line 76.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 76.
 LaTeX Font Info:    ... okay on input line 76.
-
-ABD: EverySelectfont initializing macros
+ ABD: EverySelectfont initializing macros
 LaTeX Info: Redefining \selectfont on input line 76.
 \AtBeginShipoutBox=\box135
 Package hyperref Info: Link coloring ON on input line 76.
-
-(d:/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
+ (d:/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
-
-(d:/texlive/2020/texmf-dist/tex/latex/refcount/refcount.sty
+ (d:/texlive/2020/texmf-dist/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-)
-(d:/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+) (d:/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count375
@@ -2579,24 +2106,18 @@ Package caption Info: End \AtBeginDocument code.
 ABD: EveryShipout initializing macros
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
 (Font)              scaled to size 26.09749pt on input line 86.
-Requested font "[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;+tnu
-m;+onum;mapping=tex-text;" at 26.09749pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sSerif-Regular.otf
+Requested font "[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;+tnum;+onum;mapping=tex-text;" at 26.09749pt
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Regular.otf
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
 (Font)              scaled to size 26.09749pt on input line 86.
-Requested font "[LibertinusSerif-Bold.otf]/OT:script=latn;language=dflt;+tnum;+
-onum;mapping=tex-text;" at 26.09749pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sSerif-Bold.otf
+Requested font "[LibertinusSerif-Bold.otf]/OT:script=latn;language=dflt;+tnum;+onum;mapping=tex-text;" at 26.09749pt
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Bold.otf
 Requested font "FZHei-B01/OT:script=hani;language=dflt;" at 26.09749pt
  -> D:/texlive/2020/texmf-dist/fonts/opentype/public/xits/FZHei-B01.ttf
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
 (Font)              scaled to size 22.08249pt on input line 93.
-Requested font "[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;+tnu
-m;+onum;mapping=tex-text;" at 22.08249pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sSerif-Regular.otf
+Requested font "[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;+tnum;+onum;mapping=tex-text;" at 22.08249pt
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Regular.otf
 Requested font "FZHei-B01/OT" at 22.08246pt
  -> D:/texlive/2020/texmf-dist/fonts/opentype/public/xits/FZHei-B01.ttf
 Requested font "FZHei-B01/OT" at 22.08252pt
@@ -2625,55 +2146,40 @@ Requested font "FZHei-B01/OT:script=hani;language=dflt;" at 22.08252pt
  -> D:/texlive/2020/texmf-dist/fonts/opentype/public/xits/FZHei-B01.ttf
 LaTeX Font Info:    Font shape `TU/LibertinusSans(0)/m/n' will be
 (Font)              scaled to size 10.53937pt on input line 93.
-Requested font "[LibertinusSans-Regular.otf]/OT:script=latn;language=dflt;+tnum
-;+onum;mapping=tex-text;" at 10.53937pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sSans-Regular.otf
+Requested font "[LibertinusSans-Regular.otf]/OT:script=latn;language=dflt;+tnum;+onum;mapping=tex-text;" at 10.53937pt
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSans-Regular.otf
 
 Package fontspec Info: Font family 'FZHei-B01(0)' created for font 'FZHei-B01'
 (fontspec)             with options [Ligatures =
 (fontspec)             TeX,SmallCapsFeatures={Letters=SmallCaps},Script={CJK}].
-
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"FZHei-B01/OT:script=hani;language=dflt;mapping=tex-t
-ext;"
+(fontspec)             <->"FZHei-B01/OT:script=hani;language=dflt;mapping=tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
 LaTeX Font Info:    Font shape `TU/LibertinusSans(0)/m/n' will be
 (Font)              scaled to size 22.08249pt on input line 93.
-Requested font "[LibertinusSans-Regular.otf]/OT:script=latn;language=dflt;+tnum
-;+onum;mapping=tex-text;" at 22.08249pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sSans-Regular.otf
-Requested font "FZHei-B01/OT:script=hani;language=dflt;mapping=tex-text;" at 22
-.08249pt
+Requested font "[LibertinusSans-Regular.otf]/OT:script=latn;language=dflt;+tnum;+onum;mapping=tex-text;" at 22.08249pt
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSans-Regular.otf
+Requested font "FZHei-B01/OT:script=hani;language=dflt;mapping=tex-text;" at 22.08249pt
  -> D:/texlive/2020/texmf-dist/fonts/opentype/public/xits/FZHei-B01.ttf
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
 (Font)              scaled to size 14.05249pt on input line 98.
-Requested font "[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;+tnu
-m;+onum;mapping=tex-text;" at 14.05249pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sSerif-Regular.otf
+Requested font "[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;+tnum;+onum;mapping=tex-text;" at 14.05249pt
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Regular.otf
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/it' will be
 (Font)              scaled to size 14.05249pt on input line 98.
-Requested font "[LibertinusSerif-Italic.otf]/OT:script=latn;language=dflt;+tnum
-;+onum;mapping=tex-text;" at 14.05249pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sSerif-Italic.otf
+Requested font "[LibertinusSerif-Italic.otf]/OT:script=latn;language=dflt;+tnum;+onum;mapping=tex-text;" at 14.05249pt
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Italic.otf
 Requested font "FZKai-Z03/OT:script=hani;language=dflt;" at 14.05249pt
  -> D:/texlive/2020/texmf-dist/fonts/opentype/public/xits/FZKai-Z03.ttf
-Requested font "[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;+ssty
-=0;mapping=tex-text;" at 8.4315pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sMath-Regular.otf
-Requested font "[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;+ssty
-=1;mapping=tex-text;" at 6.32362pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sMath-Regular.otf
+Requested font "[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;+ssty=0;mapping=tex-text;" at 8.4315pt
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusMath-Regular.otf
+Requested font "[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;+ssty=1;mapping=tex-text;" at 6.32362pt
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusMath-Regular.otf
 Requested font "cmmi10" at 10.53937pt
  -> d:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
 Requested font "cmmi8" at 8.4315pt
@@ -2682,44 +2188,30 @@ Requested font "cmmi6" at 6.32362pt
  -> d:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
 LaTeX Font Info:    Font shape `TU/LibertinusMath-Regular.otf(2)/m/n' will be
 (Font)              scaled to size 10.54048pt on input line 99.
-Requested font "[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;mappi
-ng=tex-text;" at 10.54048pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sMath-Regular.otf
+Requested font "[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;mapping=tex-text;" at 10.54048pt
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusMath-Regular.otf
 LaTeX Font Info:    Font shape `TU/LibertinusMath-Regular.otf(2)/m/n' will be
 (Font)              scaled to size 8.4324pt on input line 99.
-Requested font "[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;+ssty
-=0;mapping=tex-text;" at 8.4324pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sMath-Regular.otf
+Requested font "[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;+ssty=0;mapping=tex-text;" at 8.4324pt
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusMath-Regular.otf
 LaTeX Font Info:    Font shape `TU/LibertinusMath-Regular.otf(2)/m/n' will be
 (Font)              scaled to size 6.3243pt on input line 99.
-Requested font "[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;+ssty
-=1;mapping=tex-text;" at 6.3243pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sMath-Regular.otf
+Requested font "[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;+ssty=1;mapping=tex-text;" at 6.3243pt
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusMath-Regular.otf
 LaTeX Font Info:    Font shape `TU/LibertinusMath-Regular.otf(3)/m/n' will be
 (Font)              scaled to size 10.53824pt on input line 99.
-Requested font "[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;mappi
-ng=tex-text;" at 10.53824pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sMath-Regular.otf
+Requested font "[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;mapping=tex-text;" at 10.53824pt
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusMath-Regular.otf
 LaTeX Font Info:    Font shape `TU/LibertinusMath-Regular.otf(3)/m/n' will be
 (Font)              scaled to size 8.43059pt on input line 99.
-Requested font "[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;+ssty
-=0;mapping=tex-text;" at 8.43059pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sMath-Regular.otf
+Requested font "[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;+ssty=0;mapping=tex-text;" at 8.43059pt
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusMath-Regular.otf
 LaTeX Font Info:    Font shape `TU/LibertinusMath-Regular.otf(3)/m/n' will be
 (Font)              scaled to size 6.32294pt on input line 99.
-Requested font "[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;+ssty
-=1;mapping=tex-text;" at 6.32294pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sMath-Regular.otf
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 99
-.
-
-(d:/texlive/2020/texmf-dist/tex/latex/jknapltx/ursfs.fd
+Requested font "[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;+ssty=1;mapping=tex-text;" at 6.32294pt
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusMath-Regular.otf
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 99.
+ (d:/texlive/2020/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
 
@@ -2737,7 +2229,6 @@ Requested font "rsfs10" at 8.0pt
 Requested font "rsfs5" at 6.0pt
  -> d:/texlive/2020/texmf-dist/fonts/tfm/public/rsfs/rsfs5.tfm
 LaTeX Font Info:    Trying to load font information for U+msa on input line 99.
-
 (d:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
@@ -2748,9 +2239,7 @@ Requested font "msam10" at 8.4315pt
 Requested font "msam7" at 6.32362pt
  -> d:/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
 LaTeX Font Info:    Trying to load font information for U+msb on input line 99.
-
-
-(d:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
+ (d:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 Requested font "msbm10" at 10.53937pt
@@ -2761,42 +2250,30 @@ Requested font "msbm7" at 6.32362pt
  -> d:/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
 Requested font "FZShuSong-Z01/OT:script=hani;language=dflt;" at 14.05249pt
  -> D:/texlive/2020/texmf-dist/fonts/opentype/public/xits/FZShuSong-Z01.ttf
-Requested font "[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;mappi
-ng=tex-text;" at 14.05249pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sMath-Regular.otf
-Requested font "[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;+ssty
-=0;mapping=tex-text;" at 7.52812pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sMath-Regular.otf
+Requested font "[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;mapping=tex-text;" at 14.05249pt
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusMath-Regular.otf
+Requested font "[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;+ssty=0;mapping=tex-text;" at 7.52812pt
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusMath-Regular.otf
 Requested font "cmmi12" at 14.05249pt
  -> d:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
 Requested font "cmmi7" at 7.52812pt
  -> d:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi7.tfm
 LaTeX Font Info:    Font shape `TU/LibertinusMath-Regular.otf(2)/m/n' will be
 (Font)              scaled to size 14.05399pt on input line 104.
-Requested font "[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;mappi
-ng=tex-text;" at 14.05399pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sMath-Regular.otf
+Requested font "[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;mapping=tex-text;" at 14.05399pt
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusMath-Regular.otf
 LaTeX Font Info:    Font shape `TU/LibertinusMath-Regular.otf(2)/m/n' will be
 (Font)              scaled to size 7.52892pt on input line 104.
-Requested font "[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;+ssty
-=0;mapping=tex-text;" at 7.52892pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sMath-Regular.otf
+Requested font "[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;+ssty=0;mapping=tex-text;" at 7.52892pt
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusMath-Regular.otf
 LaTeX Font Info:    Font shape `TU/LibertinusMath-Regular.otf(3)/m/n' will be
 (Font)              scaled to size 14.05098pt on input line 104.
-Requested font "[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;mappi
-ng=tex-text;" at 14.05098pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sMath-Regular.otf
+Requested font "[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;mapping=tex-text;" at 14.05098pt
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusMath-Regular.otf
 LaTeX Font Info:    Font shape `TU/LibertinusMath-Regular.otf(3)/m/n' will be
 (Font)              scaled to size 7.52731pt on input line 104.
-Requested font "[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;+ssty
-=0;mapping=tex-text;" at 7.52731pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sMath-Regular.otf
+Requested font "[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;+ssty=0;mapping=tex-text;" at 7.52731pt
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusMath-Regular.otf
 Requested font "rsfs10" at 14.4pt
  -> d:/texlive/2020/texmf-dist/fonts/tfm/public/rsfs/rsfs10.tfm
 
@@ -2820,16 +2297,12 @@ Requested font "msbm7" at 7.52812pt
 ]
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
 (Font)              scaled to size 10.53937pt on input line 112.
-Requested font "[LibertinusSerif-Bold.otf]/OT:script=latn;language=dflt;+tnum;+
-onum;mapping=tex-text;" at 10.53937pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sSerif-Bold.otf
+Requested font "[LibertinusSerif-Bold.otf]/OT:script=latn;language=dflt;+tnum;+onum;mapping=tex-text;" at 10.53937pt
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Bold.otf
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
 (Font)              scaled to size 22.08249pt on input line 112.
-Requested font "[LibertinusSerif-Bold.otf]/OT:script=latn;language=dflt;+tnum;+
-onum;mapping=tex-text;" at 22.08249pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sSerif-Bold.otf
+Requested font "[LibertinusSerif-Bold.otf]/OT:script=latn;language=dflt;+tnum;+onum;mapping=tex-text;" at 22.08249pt
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Bold.otf
 Requested font "FZHei-B01/OT:script=hani;language=dflt;" at 22.08249pt
  -> D:/texlive/2020/texmf-dist/fonts/opentype/public/xits/FZHei-B01.ttf
 Requested font "FZShuSong-Z01/OT:script=hani;language=dflt;" at 10.53937pt
@@ -2846,16 +2319,12 @@ Requested font "FZHei-B01/OT:script=hani;language=dflt;" at 10.53937pt
  -> D:/texlive/2020/texmf-dist/fonts/opentype/public/xits/FZHei-B01.ttf
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
 (Font)              scaled to size 12.045pt on input line 3.
-Requested font "[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;+tnu
-m;+onum;mapping=tex-text;" at 12.045pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sSerif-Regular.otf
+Requested font "[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;+tnum;+onum;mapping=tex-text;" at 12.045pt
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Regular.otf
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
 (Font)              scaled to size 12.045pt on input line 3.
-Requested font "[LibertinusSerif-Bold.otf]/OT:script=latn;language=dflt;+tnum;+
-onum;mapping=tex-text;" at 12.045pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sSerif-Bold.otf
+Requested font "[LibertinusSerif-Bold.otf]/OT:script=latn;language=dflt;+tnum;+onum;mapping=tex-text;" at 12.045pt
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Bold.otf
 Requested font "FZHei-B01/OT:script=hani;language=dflt;" at 12.045pt
  -> D:/texlive/2020/texmf-dist/fonts/opentype/public/xits/FZHei-B01.ttf
  [5] [6] [7] [8] [9] [10])
@@ -2867,16 +2336,12 @@ Requested font "FZHei-B01/OT:script=hani;language=dflt;" at 12.045pt
 ]
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
 (Font)              scaled to size 48.0pt on input line 129.
-Requested font "[LibertinusSerif-Bold.otf]/OT:script=latn;language=dflt;+tnum;+
-onum;mapping=tex-text;" at 48.0pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sSerif-Bold.otf
+Requested font "[LibertinusSerif-Bold.otf]/OT:script=latn;language=dflt;+tnum;+onum;mapping=tex-text;" at 48.0pt
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Bold.otf
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/it' will be
 (Font)              scaled to size 48.0pt on input line 129.
-Requested font "[LibertinusSerif-BoldItalic.otf]/OT:script=latn;language=dflt;+
-tnum;+onum;mapping=tex-text;" at 48.0pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sSerif-BoldItalic.otf
+Requested font "[LibertinusSerif-BoldItalic.otf]/OT:script=latn;language=dflt;+tnum;+onum;mapping=tex-text;" at 48.0pt
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-BoldItalic.otf
 
 Overfull \hbox (78.56044pt too wide) in paragraph at lines 129--129
 [][]\TU/LibertinusSerif(0)/b/it/48 PART I[] 
@@ -2884,10 +2349,8 @@ Overfull \hbox (78.56044pt too wide) in paragraph at lines 129--129
 
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
 (Font)              scaled to size 14.05249pt on input line 129.
-Requested font "[LibertinusSerif-Bold.otf]/OT:script=latn;language=dflt;+tnum;+
-onum;mapping=tex-text;" at 14.05249pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sSerif-Bold.otf
+Requested font "[LibertinusSerif-Bold.otf]/OT:script=latn;language=dflt;+tnum;+onum;mapping=tex-text;" at 14.05249pt
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Bold.otf
 Requested font "FZHei-B01/OT:script=hani;language=dflt;" at 14.05249pt
  -> D:/texlive/2020/texmf-dist/fonts/opentype/public/xits/FZHei-B01.ttf
 [1
@@ -2896,16 +2359,12 @@ Requested font "FZHei-B01/OT:script=hani;language=dflt;" at 14.05249pt
 第一章
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
 (Font)              scaled to size 15.05624pt on input line 136.
-Requested font "[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;+tnu
-m;+onum;mapping=tex-text;" at 15.05624pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sSerif-Regular.otf
+Requested font "[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;+tnum;+onum;mapping=tex-text;" at 15.05624pt
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Regular.otf
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
 (Font)              scaled to size 15.05624pt on input line 136.
-Requested font "[LibertinusSerif-Bold.otf]/OT:script=latn;language=dflt;+tnum;+
-onum;mapping=tex-text;" at 15.05624pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sSerif-Bold.otf
+Requested font "[LibertinusSerif-Bold.otf]/OT:script=latn;language=dflt;+tnum;+onum;mapping=tex-text;" at 15.05624pt
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Bold.otf
 Requested font "FZHei-B01/OT:script=hani;language=dflt;" at 15.05624pt
  -> D:/texlive/2020/texmf-dist/fonts/opentype/public/xits/FZHei-B01.ttf
 [3
@@ -2932,10 +2391,8 @@ File: ./figs/chapter3/九宫图.jpg Graphic file (type bmp)
 <./figs/chapter3/九宫图.jpg>
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
 (Font)              scaled to size 7.52812pt on input line 273.
-Requested font "[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;+tnu
-m;+onum;mapping=tex-text;" at 7.52812pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sSerif-Regular.otf
+Requested font "[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;+tnum;+onum;mapping=tex-text;" at 7.52812pt
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Regular.otf
 Requested font "FZShuSong-Z01/OT:script=hani;language=dflt;" at 7.52812pt
  -> D:/texlive/2020/texmf-dist/fonts/opentype/public/xits/FZShuSong-Z01.ttf
 File: ./figs/chapter3/河图.jpg Graphic file (type bmp)
@@ -2976,8 +2433,7 @@ File: figs/chapter3/哥尼斯堡七桥拓扑.png Graphic file (type bmp)
 <figs/chapter3/哥尼斯堡七桥拓扑.png>
 
 Overfull \hbox (24.80702pt too wide) in paragraph at lines 429--434
-[]\TU/FZShuSong-Z01(0)/m/n/10.53937 我 们 将 七 桥 抽 象 为 无 向 图 中 的 边，|  四 片 陆 地 抽 象 
-为 无 向 图 中 的 点，|  该 无 向 图 可 以 表 示 为 $[] [] [][][][][][] [][][][][] [][][]$，|
+[]\TU/FZShuSong-Z01(0)/m/n/10.53937 我 们 将 七 桥 抽 象 为 无 向 图 中 的 边，|  四 片 陆 地 抽 象 为 无 向 图 中 的 点，|  该 无 向 图 可 以 表 示 为 $[] [] [][][][][][] [][][][][] [][][]$，|
  []
 
 [17]
@@ -2988,16 +2444,12 @@ LaTeX Font Info:    Font shape `TU/LibertinusSerif(1)/m/n' will be
 (Font)              scaled to size 10.53937pt on input line 468.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(1)/m/n' will be
 (Font)              scaled to size 8.4315pt on input line 468.
-Requested font "[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;+tnu
-m;+onum;mapping=tex-text;" at 8.4315pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sSerif-Regular.otf
+Requested font "[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;+tnum;+onum;mapping=tex-text;" at 8.4315pt
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Regular.otf
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(1)/m/n' will be
 (Font)              scaled to size 6.32362pt on input line 468.
-Requested font "[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;+tnu
-m;+onum;mapping=tex-text;" at 6.32362pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sSerif-Regular.otf
+Requested font "[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;+tnum;+onum;mapping=tex-text;" at 6.32362pt
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Regular.otf
 
 Underfull \hbox (badness 10000) in paragraph at lines 483--493
 
@@ -3016,30 +2468,21 @@ File: figs/chapter3/热量损失比重.png Graphic file (type bmp)
 
 ]
 第四章
-Missing character: There is no 、 in font [LibertinusMath-Regular.otf]/OT:script
-=math;language=dflt;mapping=tex-text;!
-Missing character: There is no 、 in font [LibertinusMath-Regular.otf]/OT:script
-=math;language=dflt;mapping=tex-text;!
-Missing character: There is no 、 in font [LibertinusMath-Regular.otf]/OT:script
-=math;language=dflt;mapping=tex-text;!
-Missing character: There is no 、 in font [LibertinusMath-Regular.otf]/OT:script
-=math;language=dflt;mapping=tex-text;!
-Missing character: There is no 、 in font [LibertinusMath-Regular.otf]/OT:script
-=math;language=dflt;mapping=tex-text;!
-Missing character: There is no 、 in font [LibertinusMath-Regular.otf]/OT:script
-=math;language=dflt;mapping=tex-text;!
-Missing character: There is no 、 in font [LibertinusMath-Regular.otf]/OT:script
-=math;language=dflt;mapping=tex-text;!
-Missing character: There is no 、 in font [LibertinusMath-Regular.otf]/OT:script
-=math;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 in font [LibertinusMath-Regular.otf]/OT:script=math;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 in font [LibertinusMath-Regular.otf]/OT:script=math;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 in font [LibertinusMath-Regular.otf]/OT:script=math;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 in font [LibertinusMath-Regular.otf]/OT:script=math;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 in font [LibertinusMath-Regular.otf]/OT:script=math;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 in font [LibertinusMath-Regular.otf]/OT:script=math;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 in font [LibertinusMath-Regular.otf]/OT:script=math;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 in font [LibertinusMath-Regular.otf]/OT:script=math;language=dflt;mapping=tex-text;!
 [27]
 File: figs/chapter4/美国人口统计数据.png Graphic file (type bmp)
 <figs/chapter4/美国人口统计数据.png>
 
 Underfull \vbox (badness 2103) has occurred while \output is active []
 
- [28]
-[29]
+ [28] [29]
 File: figs/chapter4/Verhulst人口模型.png Graphic file (type bmp)
 <figs/chapter4/Verhulst人口模型.png>
 File: figs/chapter4/人口总量与人口对时间变化率的关系.png Graphic file (type bmp)
@@ -3050,8 +2493,7 @@ Underfull \vbox (badness 5274) has occurred while \output is active []
  [30]
 Underfull \vbox (badness 2790) has occurred while \output is active []
 
- [31]
-[32] [33] [34] [35] [36] [37] [38]
+ [31] [32] [33] [34] [35] [36] [37] [38]
 第五章
 [39
 
@@ -3084,8 +2526,7 @@ File: ./figs/chapter8/GM11-2.png Graphic file (type bmp)
 <./figs/chapter8/GM11-2.png>
 File: ./figs/chapter8/紧邻均值生成序列.png Graphic file (type bmp)
 <./figs/chapter8/紧邻均值生成序列.png>
-
-[48]
+ [48]
 File: figs/chapter8/紧邻均值生成序列拟合.png Graphic file (type bmp)
 <figs/chapter8/紧邻均值生成序列拟合.png>
  [49] [50]
@@ -3094,152 +2535,143 @@ File: figs/chapter8/BP神经网络.png Graphic file (type bmp)
 
 Underfull \vbox (badness 2293) has occurred while \output is active []
 
- [51]
-[52]
+ [51] [52] [53]
+File: figs/chapter8/误差逆传播算法.png Graphic file (type bmp)
+<figs/chapter8/误差逆传播算法.png>
+ [54]
 第九章
-[53
+[55
 
-] [54
+] [56
 
 ]
 第十章
-[55] [56
-
-]
-第十一章
 [57] [58
 
 ]
-第十二章
+第十一章
 [59] [60
 
 ]
-Overfull \hbox (112.88045pt too wide) in paragraph at lines 1326--1326
+第十二章
+[61] [62
+
+]
+Overfull \hbox (112.88045pt too wide) in paragraph at lines 1402--1402
 [][]\TU/LibertinusSerif(0)/b/it/48 PART IV[] 
  []
 
-[61] [62]
+[63] [64]
 第十三章
-[63
+[65
 
-] [64
+] [66
 
 ]
 第十四章
-[65] [66
-
-]
-第十五章
 [67] [68
 
 ]
-第十六章
+第十五章
 [69] [70
 
 ]
-第十七章
+第十六章
 [71] [72
 
 ]
-第十八章
+第十七章
 [73] [74
 
 ]
-第十九章
+第十八章
 [75] [76
 
 ]
-第二十章
+第十九章
 [77] [78
 
 ]
-第二十一章
+第二十章
 [79] [80
 
 ]
-第二十二章
+第二十一章
 [81] [82
 
 ]
-Overfull \hbox (94.88045pt too wide) in paragraph at lines 1339--1339
+第二十二章
+[83] [84
+
+]
+Overfull \hbox (94.88045pt too wide) in paragraph at lines 1415--1415
 [][]\TU/LibertinusSerif(0)/b/it/48 PART V[] 
  []
 
-[83] [84]
+[85] [86]
 第二十三章
 
-Overfull \hbox (38.85852pt too wide) in paragraph at lines 1346--1361
+Overfull \hbox (38.85852pt too wide) in paragraph at lines 1422--1437
  [][] 
  []
 
-[85
+[87
 
 ]
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
-(Font)              scaled to size 8.4315pt on input line 1390.
+(Font)              scaled to size 8.4315pt on input line 1466.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
-(Font)              scaled to size 6.32362pt on input line 1390.
- [86] [87]
+(Font)              scaled to size 6.32362pt on input line 1466.
+ [88] [89]
 
-LaTeX Warning: Command \~ invalid in math mode on input line 1454.
+LaTeX Warning: Command \~ invalid in math mode on input line 1530.
 
-Missing character: There is no ̃ in font cmmi10!
 File: figs/chapter23/属性规约常用方法.png Graphic file (type bmp)
 <figs/chapter23/属性规约常用方法.png>
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [88]
-[89] [90]
-Overfull \hbox (110.76843pt too wide) in paragraph at lines 1510--1510
+ [90] [91] [92]
+Overfull \hbox (110.76843pt too wide) in paragraph at lines 1586--1586
 [][]\TU/LibertinusSerif(0)/b/it/48 PART VI[] 
  []
 
-[91
-
-] [92]
-第二十四章
 [93
 
-] [94
+] [94]
+第二十四章
+[95
+
+] [96
 
 ]
 第二十五章
 (d:/texlive/2020/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 )
-Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 1522.
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 1598.
 Requested font "FontAwesome/OT:language=dflt;" at 10.53937pt
- -> D:/texlive/2020/texmf-dist/fonts/opentype/public/fontawesome/FontAwesome.ot
-f
+ -> D:/texlive/2020/texmf-dist/fonts/opentype/public/fontawesome/FontAwesome.otf
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
-(Font)              scaled to size 9.03374pt on input line 1522.
-Requested font "[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;+tnu
-m;+onum;mapping=tex-text;" at 9.03374pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sSerif-Regular.otf
+(Font)              scaled to size 9.03374pt on input line 1598.
+Requested font "[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;+tnum;+onum;mapping=tex-text;" at 9.03374pt
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Regular.otf
 Requested font "FZHei-B01/OT" at 9.0337pt
  -> D:/texlive/2020/texmf-dist/fonts/opentype/public/xits/FZHei-B01.ttf
 Requested font "FZHei-B01/OT" at 9.03377pt
  -> D:/texlive/2020/texmf-dist/fonts/opentype/public/xits/FZHei-B01.ttf
 LaTeX Font Info:    Font shape `TU/LibertinusMono(0)/m/n' will be
-(Font)              scaled to size 7.82925pt on input line 1522.
-Requested font "[LibertinusMono-Regular.otf]/OT:script=latn;language=dflt;exten
-d=0.8;+tnum; +onum;mapping=tex-text;" at 7.82925pt
- -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sMono-Regular.otf
-
-(./code/lines/SimpleLine.py)
+(Font)              scaled to size 7.82925pt on input line 1598.
+Requested font "[LibertinusMono-Regular.otf]/OT:script=latn;language=dflt;extend=0.8;+tnum; +onum;mapping=tex-text;" at 7.82925pt
+ -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusMono-Regular.otf
+ (./code/lines/SimpleLine.py)
 File: figs/chapter24/lines/SimpleLine.png Graphic file (type bmp)
 <figs/chapter24/lines/SimpleLine.png>
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [95]
-(./code/lines/CustomizeLineStyle.py
-Requested font "FZHei-B01/OT:script=hani;language=dflt;mapping=tex-text;" at 9.
-03374pt
+ [97] (./code/lines/CustomizeLineStyle.py
+Requested font "FZHei-B01/OT:script=hani;language=dflt;mapping=tex-text;" at 9.03374pt
  -> D:/texlive/2020/texmf-dist/fonts/opentype/public/xits/FZHei-B01.ttf
 )
 File: figs/chapter24/lines/CustomizeLineStyle.png Graphic file (type bmp)
@@ -3247,81 +2679,72 @@ File: figs/chapter24/lines/CustomizeLineStyle.png Graphic file (type bmp)
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [96]
-(./code/lines/UpLowErrorBar.py) [97]
+ [98] (./code/lines/UpLowErrorBar.py) [99]
 File: figs/chapter24/lines/UpLowErrorBar.png Graphic file (type bmp)
 <figs/chapter24/lines/UpLowErrorBar.png>
  (./code/lines/XYErrorBar.py)
 File: figs/chapter24/lines/XYErrorBar.png Graphic file (type bmp)
 <figs/chapter24/lines/XYErrorBar.png>
- [98]
-(./code/lines/ErrorBandCurve.py [99])
+ [100] (./code/lines/ErrorBandCurve.py [101])
 File: figs/chapter24/lines/ErrorBandCurve.png Graphic file (type bmp)
 <figs/chapter24/lines/ErrorBandCurve.png>
- (./code/bars/SimpleBar.py [100])
+ (./code/bars/SimpleBar.py [102])
 File: figs/chapter24/bars/SimpleBar.png Graphic file (type bmp)
 <figs/chapter24/bars/SimpleBar.png>
-
-(./code/bars/HorizontalBar.py [101])
+ (./code/bars/HorizontalBar.py [103])
 File: figs/chapter24/bars/HorizontalBar.png Graphic file (type bmp)
 <figs/chapter24/bars/HorizontalBar.png>
- (./code/bars/StackedBar.py [102])
+ (./code/bars/StackedBar.py [104])
 File: figs/chapter24/bars/StackedBar.png Graphic file (type bmp)
 <figs/chapter24/bars/StackedBar.png>
-
-(./code/bars/GroupedBar.py [103])
+ (./code/bars/GroupedBar.py [105])
 File: figs/chapter24/bars/GroupedBar.png Graphic file (type bmp)
 <figs/chapter24/bars/GroupedBar.png>
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [104]
-(./code/bars/DiscreteDistributionBar.py [105])
+ [106] (./code/bars/DiscreteDistributionBar.py [107])
 File: figs/chapter24/bars/DiscreteDistributionBar.png Graphic file (type bmp)
 <figs/chapter24/bars/DiscreteDistributionBar.png>
- (./code/bars/BrokenBar.py
-[106])
+ (./code/bars/BrokenBar.py [108])
 File: figs/chapter24/bars/BrokenBar.png Graphic file (type bmp)
 <figs/chapter24/bars/BrokenBar.png>
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [107]
-[108]
+ [109] [110]
 第二十六章
-[109
+[111
 
-] [110
+] [112
 
 ]
-Overfull \hbox (127.61644pt too wide) in paragraph at lines 1657--1657
+Overfull \hbox (127.61644pt too wide) in paragraph at lines 1733--1733
 [][]\TU/LibertinusSerif(0)/b/it/48 PART VII[] 
  []
 
-[111] [112]
+[113] [114]
 附录 A
 (d:/texlive/2020/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
-)
-(d:/texlive/2020/texmf-dist/tex/latex/listings/lstlang1.sty
+) (d:/texlive/2020/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
-) [113
+) [115
 
 
 ]
-Package atenddvi Info: Last page = 128.
- [114
+Package atenddvi Info: Last page = 130.
+ [116
 
 ]
 runsystem(makeindex 数学建模笔记.idx)...executed safely (allowed).
 
-
-(./数学建模笔记.ind)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1692.
-Package atveryend Info: Executing hook `AfterLastShipout' on input line 1692.
+ (./数学建模笔记.ind)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1768.
+Package atveryend Info: Executing hook `AfterLastShipout' on input line 1768.
  (./数学建模笔记.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1692.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1692.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1768.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1768.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -3330,15 +2753,15 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1692.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1768.
  ) 
 Here is how much of TeX's memory you used:
- 46870 strings out of 479284
- 949070 string characters out of 5884020
- 1647068 words of memory out of 5000000
- 63570 multiletter control sequences out of 15000+600000
+ 46882 strings out of 479284
+ 949431 string characters out of 5884020
+ 1648118 words of memory out of 5000000
+ 63580 multiletter control sequences out of 15000+600000
  539332 words of font info for 162 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 67i,22n,125p,954b,2047s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 67i,22n,125p,982b,2047s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on 数学建模笔记.pdf (128 pages).
+Output written on 数学建模笔记.pdf (130 pages).

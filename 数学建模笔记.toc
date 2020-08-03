@@ -136,99 +136,99 @@
 \contentsline {section}{\numberline {8.7}神经网络预测}{52}{section.8.7}%
 \contentsline {subsection}{\numberline {8.7.1}BP神经网络}{52}{subsection.8.7.1}%
 \contentsline {subsubsection}{误差逆传播算法}{52}{subsection.8.7.1}%
-\contentsline {section}{\numberline {8.8}混沌序列预测}{52}{section.8.8}%
-\contentsline {chapter}{\numberline {第九章\hspace {.3em}}评价与决策}{53}{chapter.9}%
-\contentsline {section}{\numberline {9.1}模糊综合评价}{53}{section.9.1}%
-\contentsline {section}{\numberline {9.2}主成分分析}{53}{section.9.2}%
-\contentsline {section}{\numberline {9.3}层次分析法（AHP）}{53}{section.9.3}%
-\contentsline {section}{\numberline {9.4}因子分析}{53}{section.9.4}%
-\contentsline {section}{\numberline {9.5}数据包络（DEA）分析法}{53}{section.9.5}%
-\contentsline {section}{\numberline {9.6}秩和比综合评价法}{53}{section.9.6}%
-\contentsline {section}{\numberline {9.7}优劣解距离法（TOPSIS）}{53}{section.9.7}%
-\contentsline {section}{\numberline {9.8}投影寻踪综合评价法}{53}{section.9.8}%
-\contentsline {section}{\numberline {9.9}方差分析与协方差分析}{53}{section.9.9}%
-\contentsline {chapter}{\numberline {第十章\hspace {.3em}}聚类和判别}{55}{chapter.10}%
-\contentsline {section}{\numberline {10.1}距离聚类（常用）}{55}{section.10.1}%
-\contentsline {section}{\numberline {10.2}关联性聚类（常用）}{55}{section.10.2}%
-\contentsline {section}{\numberline {10.3}层次聚类}{55}{section.10.3}%
-\contentsline {section}{\numberline {10.4}密度聚类}{55}{section.10.4}%
-\contentsline {section}{\numberline {10.5}其他聚类}{55}{section.10.5}%
-\contentsline {section}{\numberline {10.6}贝叶斯判别（统计判别方法）}{55}{section.10.6}%
-\contentsline {section}{\numberline {10.7}费舍尔判别（训练样本较多）}{55}{section.10.7}%
-\contentsline {section}{\numberline {10.8}模糊识别（分好类的数据点较少）}{55}{section.10.8}%
-\contentsline {chapter}{\numberline {第十一章\hspace {.3em}}关联与因果}{57}{chapter.11}%
-\contentsline {section}{\numberline {11.1}灰色关联分析方法}{57}{section.11.1}%
-\contentsline {section}{\numberline {11.2}Sperman或kendall等级相关分析}{57}{section.11.2}%
-\contentsline {section}{\numberline {11.3}Person相关}{57}{section.11.3}%
-\contentsline {section}{\numberline {11.4}Copula相关}{57}{section.11.4}%
-\contentsline {section}{\numberline {11.5}典型相关分析}{57}{section.11.5}%
-\contentsline {section}{\numberline {11.6}标准化回归分析}{57}{section.11.6}%
-\contentsline {section}{\numberline {11.7}生存分析（事件史分析）}{57}{section.11.7}%
-\contentsline {section}{\numberline {11.8}格兰杰因果检验}{57}{section.11.8}%
-\contentsline {chapter}{\numberline {第十二章\hspace {.3em}}优化与控制}{59}{chapter.12}%
-\contentsline {section}{\numberline {12.1}线性规划、整数规划、0-1规划}{59}{section.12.1}%
-\contentsline {section}{\numberline {12.2}非线性规划与智能优化算法}{59}{section.12.2}%
-\contentsline {section}{\numberline {12.3}多目标规划}{59}{section.12.3}%
-\contentsline {section}{\numberline {12.4}动态规划}{59}{section.12.4}%
-\contentsline {section}{\numberline {12.5}网络优化}{59}{section.12.5}%
-\contentsline {section}{\numberline {12.6}排队论与计算机仿真}{59}{section.12.6}%
-\contentsline {section}{\numberline {12.7}模糊规划}{59}{section.12.7}%
-\contentsline {section}{\numberline {12.8}灰色规划}{59}{section.12.8}%
-\contentsline {part}{第四部分\hspace {1em}数学建模算法}{61}{part.4}%
-\contentsline {chapter}{\numberline {第十三章\hspace {.3em}}蒙特卡洛算法}{63}{chapter.13}%
-\contentsline {chapter}{\numberline {第十四章\hspace {.3em}}数据处理算法}{65}{chapter.14}%
-\contentsline {chapter}{\numberline {第十五章\hspace {.3em}}规划类算法}{67}{chapter.15}%
-\contentsline {chapter}{\numberline {第十六章\hspace {.3em}}图论算法}{69}{chapter.16}%
-\contentsline {chapter}{\numberline {第十七章\hspace {.3em}}计算机算法}{71}{chapter.17}%
-\contentsline {chapter}{\numberline {第十八章\hspace {.3em}}智能优化算法}{73}{chapter.18}%
-\contentsline {chapter}{\numberline {第十九章\hspace {.3em}}网格算法与穷举算法}{75}{chapter.19}%
-\contentsline {chapter}{\numberline {第二十章\hspace {.3em}}一些离散化算法}{77}{chapter.20}%
-\contentsline {chapter}{\numberline {第二十一章\hspace {.3em}}数值分析算法}{79}{chapter.21}%
-\contentsline {chapter}{\numberline {第二十二章\hspace {.3em}}图像处理算法}{81}{chapter.22}%
-\contentsline {part}{第五部分\hspace {1em}数据分析}{83}{part.5}%
-\contentsline {chapter}{\numberline {第二十三章\hspace {.3em}}数据预处理}{85}{chapter.23}%
-\contentsline {section}{\numberline {23.1}数据清洗}{85}{section.23.1}%
-\contentsline {subsection}{\numberline {23.1.1}缺失值处理}{85}{subsection.23.1.1}%
-\contentsline {subsection}{\numberline {23.1.2}异常值处理}{85}{subsection.23.1.2}%
-\contentsline {section}{\numberline {23.2}数据集成}{86}{section.23.2}%
-\contentsline {subsection}{\numberline {23.2.1}实体识别}{86}{subsection.23.2.1}%
-\contentsline {subsection}{\numberline {23.2.2}冗余属性识别}{86}{subsection.23.2.2}%
-\contentsline {section}{\numberline {23.3}数据变换}{86}{section.23.3}%
-\contentsline {subsection}{\numberline {23.3.1}简单函数变换}{86}{subsection.23.3.1}%
-\contentsline {subsection}{\numberline {23.3.2}数据规范化}{87}{subsection.23.3.2}%
-\contentsline {subsection}{\numberline {23.3.3}连续属性离散化}{87}{subsection.23.3.3}%
-\contentsline {subsubsection}{离散化的过程}{87}{subsection.23.3.3}%
-\contentsline {subsubsection}{常用的离散化方法}{87}{subsection.23.3.3}%
-\contentsline {subsection}{\numberline {23.3.4}属性构造}{88}{subsection.23.3.4}%
-\contentsline {section}{\numberline {23.4}数据规约}{88}{section.23.4}%
-\contentsline {subsection}{\numberline {23.4.1}属性规约}{88}{subsection.23.4.1}%
-\contentsline {subsection}{\numberline {23.4.2}数值规约}{90}{subsection.23.4.2}%
-\contentsline {part}{第六部分\hspace {1em}数据可视化}{91}{part.6}%
-\contentsline {chapter}{\numberline {第二十四章\hspace {.3em}}可视化基础}{93}{chapter.24}%
-\contentsline {section}{\numberline {24.1}绪论}{93}{section.24.1}%
-\contentsline {section}{\numberline {24.2}字体}{93}{section.24.2}%
-\contentsline {section}{\numberline {24.3}颜色}{93}{section.24.3}%
-\contentsline {chapter}{\numberline {第二十五章\hspace {.3em}}统计图表}{95}{chapter.25}%
-\contentsline {section}{\numberline {25.1}线型图}{95}{section.25.1}%
-\contentsline {subsection}{\numberline {25.1.1}简单的线型图}{95}{subsection.25.1.1}%
-\contentsline {subsection}{\numberline {25.1.2}自定义虚线样式}{96}{subsection.25.1.2}%
-\contentsline {subsection}{\numberline {25.1.3}误差限制选择线}{97}{subsection.25.1.3}%
-\contentsline {subsection}{\numberline {25.1.4}误差带曲线}{99}{subsection.25.1.4}%
-\contentsline {section}{\numberline {25.2}柱状图}{100}{section.25.2}%
-\contentsline {subsection}{\numberline {25.2.1}简单的柱状图}{100}{subsection.25.2.1}%
-\contentsline {subsection}{\numberline {25.2.2}水平条形图}{101}{subsection.25.2.2}%
-\contentsline {subsection}{\numberline {25.2.3}带有误差线的柱状图}{102}{subsection.25.2.3}%
-\contentsline {subsection}{\numberline {25.2.4}带标签的分组柱状图}{103}{subsection.25.2.4}%
-\contentsline {subsection}{\numberline {25.2.5}离散分布条形图}{105}{subsection.25.2.5}%
-\contentsline {subsection}{\numberline {25.2.6}破碎的条形图}{106}{subsection.25.2.6}%
-\contentsline {section}{\numberline {25.3}散点图}{108}{section.25.3}%
-\contentsline {section}{\numberline {25.4}饼图}{108}{section.25.4}%
-\contentsline {section}{\numberline {25.5}地图}{108}{section.25.5}%
-\contentsline {section}{\numberline {25.6}热力图}{108}{section.25.6}%
-\contentsline {section}{\numberline {25.7}表格}{108}{section.25.7}%
-\contentsline {section}{\numberline {25.8}形象化描述}{108}{section.25.8}%
-\contentsline {section}{\numberline {25.9}地图}{108}{section.25.9}%
-\contentsline {section}{\numberline {25.10}热力图}{108}{section.25.10}%
-\contentsline {chapter}{\numberline {第二十六章\hspace {.3em}}数值参数}{109}{chapter.26}%
-\contentsline {part}{第七部分\hspace {1em}LATEX论文写作}{111}{part.7}%
-\contentsline {chapter}{\numberline {附录 A\hspace {.3em}}Angular CLI}{113}{appendix.A}%
+\contentsline {section}{\numberline {8.8}混沌序列预测}{54}{section.8.8}%
+\contentsline {chapter}{\numberline {第九章\hspace {.3em}}评价与决策}{55}{chapter.9}%
+\contentsline {section}{\numberline {9.1}模糊综合评价}{55}{section.9.1}%
+\contentsline {section}{\numberline {9.2}主成分分析}{55}{section.9.2}%
+\contentsline {section}{\numberline {9.3}层次分析法（AHP）}{55}{section.9.3}%
+\contentsline {section}{\numberline {9.4}因子分析}{55}{section.9.4}%
+\contentsline {section}{\numberline {9.5}数据包络（DEA）分析法}{55}{section.9.5}%
+\contentsline {section}{\numberline {9.6}秩和比综合评价法}{55}{section.9.6}%
+\contentsline {section}{\numberline {9.7}优劣解距离法（TOPSIS）}{55}{section.9.7}%
+\contentsline {section}{\numberline {9.8}投影寻踪综合评价法}{55}{section.9.8}%
+\contentsline {section}{\numberline {9.9}方差分析与协方差分析}{55}{section.9.9}%
+\contentsline {chapter}{\numberline {第十章\hspace {.3em}}聚类和判别}{57}{chapter.10}%
+\contentsline {section}{\numberline {10.1}距离聚类（常用）}{57}{section.10.1}%
+\contentsline {section}{\numberline {10.2}关联性聚类（常用）}{57}{section.10.2}%
+\contentsline {section}{\numberline {10.3}层次聚类}{57}{section.10.3}%
+\contentsline {section}{\numberline {10.4}密度聚类}{57}{section.10.4}%
+\contentsline {section}{\numberline {10.5}其他聚类}{57}{section.10.5}%
+\contentsline {section}{\numberline {10.6}贝叶斯判别（统计判别方法）}{57}{section.10.6}%
+\contentsline {section}{\numberline {10.7}费舍尔判别（训练样本较多）}{57}{section.10.7}%
+\contentsline {section}{\numberline {10.8}模糊识别（分好类的数据点较少）}{57}{section.10.8}%
+\contentsline {chapter}{\numberline {第十一章\hspace {.3em}}关联与因果}{59}{chapter.11}%
+\contentsline {section}{\numberline {11.1}灰色关联分析方法}{59}{section.11.1}%
+\contentsline {section}{\numberline {11.2}Sperman或kendall等级相关分析}{59}{section.11.2}%
+\contentsline {section}{\numberline {11.3}Person相关}{59}{section.11.3}%
+\contentsline {section}{\numberline {11.4}Copula相关}{59}{section.11.4}%
+\contentsline {section}{\numberline {11.5}典型相关分析}{59}{section.11.5}%
+\contentsline {section}{\numberline {11.6}标准化回归分析}{59}{section.11.6}%
+\contentsline {section}{\numberline {11.7}生存分析（事件史分析）}{59}{section.11.7}%
+\contentsline {section}{\numberline {11.8}格兰杰因果检验}{59}{section.11.8}%
+\contentsline {chapter}{\numberline {第十二章\hspace {.3em}}优化与控制}{61}{chapter.12}%
+\contentsline {section}{\numberline {12.1}线性规划、整数规划、0-1规划}{61}{section.12.1}%
+\contentsline {section}{\numberline {12.2}非线性规划与智能优化算法}{61}{section.12.2}%
+\contentsline {section}{\numberline {12.3}多目标规划}{61}{section.12.3}%
+\contentsline {section}{\numberline {12.4}动态规划}{61}{section.12.4}%
+\contentsline {section}{\numberline {12.5}网络优化}{61}{section.12.5}%
+\contentsline {section}{\numberline {12.6}排队论与计算机仿真}{61}{section.12.6}%
+\contentsline {section}{\numberline {12.7}模糊规划}{61}{section.12.7}%
+\contentsline {section}{\numberline {12.8}灰色规划}{61}{section.12.8}%
+\contentsline {part}{第四部分\hspace {1em}数学建模算法}{63}{part.4}%
+\contentsline {chapter}{\numberline {第十三章\hspace {.3em}}蒙特卡洛算法}{65}{chapter.13}%
+\contentsline {chapter}{\numberline {第十四章\hspace {.3em}}数据处理算法}{67}{chapter.14}%
+\contentsline {chapter}{\numberline {第十五章\hspace {.3em}}规划类算法}{69}{chapter.15}%
+\contentsline {chapter}{\numberline {第十六章\hspace {.3em}}图论算法}{71}{chapter.16}%
+\contentsline {chapter}{\numberline {第十七章\hspace {.3em}}计算机算法}{73}{chapter.17}%
+\contentsline {chapter}{\numberline {第十八章\hspace {.3em}}智能优化算法}{75}{chapter.18}%
+\contentsline {chapter}{\numberline {第十九章\hspace {.3em}}网格算法与穷举算法}{77}{chapter.19}%
+\contentsline {chapter}{\numberline {第二十章\hspace {.3em}}一些离散化算法}{79}{chapter.20}%
+\contentsline {chapter}{\numberline {第二十一章\hspace {.3em}}数值分析算法}{81}{chapter.21}%
+\contentsline {chapter}{\numberline {第二十二章\hspace {.3em}}图像处理算法}{83}{chapter.22}%
+\contentsline {part}{第五部分\hspace {1em}数据分析}{85}{part.5}%
+\contentsline {chapter}{\numberline {第二十三章\hspace {.3em}}数据预处理}{87}{chapter.23}%
+\contentsline {section}{\numberline {23.1}数据清洗}{87}{section.23.1}%
+\contentsline {subsection}{\numberline {23.1.1}缺失值处理}{87}{subsection.23.1.1}%
+\contentsline {subsection}{\numberline {23.1.2}异常值处理}{87}{subsection.23.1.2}%
+\contentsline {section}{\numberline {23.2}数据集成}{88}{section.23.2}%
+\contentsline {subsection}{\numberline {23.2.1}实体识别}{88}{subsection.23.2.1}%
+\contentsline {subsection}{\numberline {23.2.2}冗余属性识别}{88}{subsection.23.2.2}%
+\contentsline {section}{\numberline {23.3}数据变换}{88}{section.23.3}%
+\contentsline {subsection}{\numberline {23.3.1}简单函数变换}{88}{subsection.23.3.1}%
+\contentsline {subsection}{\numberline {23.3.2}数据规范化}{89}{subsection.23.3.2}%
+\contentsline {subsection}{\numberline {23.3.3}连续属性离散化}{89}{subsection.23.3.3}%
+\contentsline {subsubsection}{离散化的过程}{89}{subsection.23.3.3}%
+\contentsline {subsubsection}{常用的离散化方法}{89}{subsection.23.3.3}%
+\contentsline {subsection}{\numberline {23.3.4}属性构造}{90}{subsection.23.3.4}%
+\contentsline {section}{\numberline {23.4}数据规约}{90}{section.23.4}%
+\contentsline {subsection}{\numberline {23.4.1}属性规约}{90}{subsection.23.4.1}%
+\contentsline {subsection}{\numberline {23.4.2}数值规约}{92}{subsection.23.4.2}%
+\contentsline {part}{第六部分\hspace {1em}数据可视化}{93}{part.6}%
+\contentsline {chapter}{\numberline {第二十四章\hspace {.3em}}可视化基础}{95}{chapter.24}%
+\contentsline {section}{\numberline {24.1}绪论}{95}{section.24.1}%
+\contentsline {section}{\numberline {24.2}字体}{95}{section.24.2}%
+\contentsline {section}{\numberline {24.3}颜色}{95}{section.24.3}%
+\contentsline {chapter}{\numberline {第二十五章\hspace {.3em}}统计图表}{97}{chapter.25}%
+\contentsline {section}{\numberline {25.1}线型图}{97}{section.25.1}%
+\contentsline {subsection}{\numberline {25.1.1}简单的线型图}{97}{subsection.25.1.1}%
+\contentsline {subsection}{\numberline {25.1.2}自定义虚线样式}{98}{subsection.25.1.2}%
+\contentsline {subsection}{\numberline {25.1.3}误差限制选择线}{99}{subsection.25.1.3}%
+\contentsline {subsection}{\numberline {25.1.4}误差带曲线}{101}{subsection.25.1.4}%
+\contentsline {section}{\numberline {25.2}柱状图}{102}{section.25.2}%
+\contentsline {subsection}{\numberline {25.2.1}简单的柱状图}{102}{subsection.25.2.1}%
+\contentsline {subsection}{\numberline {25.2.2}水平条形图}{103}{subsection.25.2.2}%
+\contentsline {subsection}{\numberline {25.2.3}带有误差线的柱状图}{104}{subsection.25.2.3}%
+\contentsline {subsection}{\numberline {25.2.4}带标签的分组柱状图}{105}{subsection.25.2.4}%
+\contentsline {subsection}{\numberline {25.2.5}离散分布条形图}{107}{subsection.25.2.5}%
+\contentsline {subsection}{\numberline {25.2.6}破碎的条形图}{108}{subsection.25.2.6}%
+\contentsline {section}{\numberline {25.3}散点图}{110}{section.25.3}%
+\contentsline {section}{\numberline {25.4}饼图}{110}{section.25.4}%
+\contentsline {section}{\numberline {25.5}地图}{110}{section.25.5}%
+\contentsline {section}{\numberline {25.6}热力图}{110}{section.25.6}%
+\contentsline {section}{\numberline {25.7}表格}{110}{section.25.7}%
+\contentsline {section}{\numberline {25.8}形象化描述}{110}{section.25.8}%
+\contentsline {section}{\numberline {25.9}地图}{110}{section.25.9}%
+\contentsline {section}{\numberline {25.10}热力图}{110}{section.25.10}%
+\contentsline {chapter}{\numberline {第二十六章\hspace {.3em}}数值参数}{111}{chapter.26}%
+\contentsline {part}{第七部分\hspace {1em}LATEX论文写作}{113}{part.7}%
+\contentsline {chapter}{\numberline {附录 A\hspace {.3em}}Angular CLI}{115}{appendix.A}%
