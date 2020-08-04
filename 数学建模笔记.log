@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.6.11)  3 AUG 2020 15:07
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.6.11)  4 AUG 2020 16:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2327,13 +2327,11 @@ Requested font "[LibertinusSerif-Bold.otf]/OT:script=latn;language=dflt;+tnum;+o
  -> d:/texlive/2020/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Bold.otf
 Requested font "FZHei-B01/OT:script=hani;language=dflt;" at 12.045pt
  -> D:/texlive/2020/texmf-dist/fonts/opentype/public/xits/FZHei-B01.ttf
- [5] [6] [7] [8] [9] [10])
+ [5] [6] [7] [8] [9] [10] [11])
 \tf@toc=\write7
 \openout7 = `数学建模笔记.toc'.
 
- [11] [12
-
-]
+ [12]
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
 (Font)              scaled to size 48.0pt on input line 129.
 Requested font "[LibertinusSerif-Bold.otf]/OT:script=latn;language=dflt;+tnum;+onum;mapping=tex-text;" at 48.0pt
@@ -2354,6 +2352,7 @@ Requested font "[LibertinusSerif-Bold.otf]/OT:script=latn;language=dflt;+tnum;+o
 Requested font "FZHei-B01/OT:script=hani;language=dflt;" at 14.05249pt
  -> D:/texlive/2020/texmf-dist/fonts/opentype/public/xits/FZHei-B01.ttf
 [1
+
 
 ] [2]
 第一章
@@ -2724,27 +2723,32 @@ Overfull \hbox (127.61644pt too wide) in paragraph at lines 1733--1733
  []
 
 [113] [114]
+第二十七章
+[115
+
+] [116] [117] [118] [119] [120
+
+]
 附录 A
 (d:/texlive/2020/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 ) (d:/texlive/2020/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
-) [115
-
+) [121
 
 ]
-Package atenddvi Info: Last page = 130.
- [116
+Package atenddvi Info: Last page = 136.
+ [122
 
 ]
 runsystem(makeindex 数学建模笔记.idx)...executed safely (allowed).
 
  (./数学建模笔记.ind)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1768.
-Package atveryend Info: Executing hook `AfterLastShipout' on input line 1768.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1914.
+Package atveryend Info: Executing hook `AfterLastShipout' on input line 1914.
  (./数学建模笔记.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1768.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1768.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1914.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1914.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -2753,15 +2757,15 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1768.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1914.
  ) 
 Here is how much of TeX's memory you used:
- 46882 strings out of 479284
- 949431 string characters out of 5884020
- 1648118 words of memory out of 5000000
- 63580 multiletter control sequences out of 15000+600000
+ 46908 strings out of 479284
+ 950221 string characters out of 5884020
+ 1648305 words of memory out of 5000000
+ 63606 multiletter control sequences out of 15000+600000
  539332 words of font info for 162 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  67i,22n,125p,982b,2047s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on 数学建模笔记.pdf (130 pages).
+Output written on 数学建模笔记.pdf (136 pages).
