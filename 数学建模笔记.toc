@@ -249,5 +249,5 @@
 \contentsline {subsection}{\numberline {27.7.6}模型灵敏性分析}{118}{subsection.27.7.6}%
 \contentsline {subsection}{\numberline {27.7.7}模型的讨论与评价}{118}{subsection.27.7.7}%
 \contentsline {subsection}{\numberline {27.7.8}模型的改进与推广}{118}{subsection.27.7.8}%
-\contentsline {subsection}{\numberline {27.7.9}参考文献}{119}{subsection.27.7.9}%
+\contentsline {section}{\numberline {27.8}参考文献}{119}{section.27.8}%
 \contentsline {chapter}{\numberline {附录 A\hspace {.3em}}代码}{121}{appendix.A}%
